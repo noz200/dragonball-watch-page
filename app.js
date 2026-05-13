@@ -1,8 +1,9 @@
 const STATUS_OPTIONS = ["未確認", "応募予定", "応募済み", "購入済み", "スルー"];
-const STATUS_KEY = "dragonball-event-status-v1";
+const STATUS_KEY = "dragonball-event-status-v2";
 
 let events = [];
 let currentFilter = "all";
+let calendar = null;
 
 function loadStatuses() {
   try {
@@ -23,10 +24,17 @@ function getStatus(productId) {
   return loadStatuses()[productId] || "未確認";
 }
 
-function formatDateTime(value) {
-  if (!value) return "不明";
+function hasValidDate(event) {
+  const value = event.startAt || event.date;
+  if (!value) return false;
   const date = new Date(value);
-  if (Number.isNaN(date.getTime())) return value;
+  return !Number.isNaN(date.getTime());
+}
+
+function formatDateTime(value) {
+  if (!value) return "日付未取得";
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return "日付未取得";
   return new Intl.DateTimeFormat("ja-JP", {
     month: "2-digit",
     day: "2-digit",
@@ -43,20 +51,39 @@ function daysUntil(value) {
   return Math.ceil(diff / (1000 * 60 * 60 * 24));
 }
 
+function isFutureOrUndated(event) {
+  if (!hasValidDate(event)) return true;
+  const d = new Date(event.startAt || event.date);
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+  return d >= today;
+}
+
+function escapeHtml(value) {
+  return String(value ?? "")
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#039;");
+}
+
 function makeCard(event) {
   const status = getStatus(event.productId || event.id);
-  const near = event.eventType?.includes("締切") && daysUntil(event.startAt || event.date) !== null && daysUntil(event.startAt || event.date) <= 3;
+  const d = daysUntil(event.startAt || event.date);
+  const near = event.eventType?.includes("締切") && d !== null && d >= 0 && d <= 3;
+  const undated = !hasValidDate(event);
   const card = document.createElement("div");
   card.className = `card ${near ? "deadline" : ""}`;
 
-  const flags = (event.flags || []).map(f => `<span class="flag">${f}</span>`).join("");
+  const flags = (event.flags || []).map(f => `<span class="flag">${escapeHtml(f)}</span>`).join("");
 
   card.innerHTML = `
-    <div class="cardTitle">${event.title || event.productTitle}</div>
+    <div class="cardTitle">${escapeHtml(event.title || event.productTitle)}</div>
     <div class="meta">
-      種別：${event.eventType || "-"} / 販売形式：${event.saleType || "-"}<br>
-      日時：${formatDateTime(event.startAt || event.date)}<br>
-      検知元：${event.source || "-"}
+      種別：${escapeHtml(event.eventType || "-")} / 販売形式：${escapeHtml(event.saleType || "-")}<br>
+      日時：${escapeHtml(formatDateTime(event.startAt || event.date))}${undated ? "（カレンダー未掲載）" : ""}<br>
+      検知元：${escapeHtml(event.source || "-")}
     </div>
     <div class="flags">${flags}</div>
     <div class="actions">
@@ -87,14 +114,14 @@ function showDetail(event) {
   const dialog = document.getElementById("detailDialog");
   const content = document.getElementById("detailContent");
   content.innerHTML = `
-    <h2>${event.productTitle || event.title}</h2>
-    <p><strong>イベント：</strong>${event.eventType || "-"}</p>
-    <p><strong>販売形式：</strong>${event.saleType || "-"}</p>
-    <p><strong>日時：</strong>${formatDateTime(event.startAt || event.date)}</p>
-    <p><strong>検知元：</strong>${event.source || "-"}</p>
-    <p><strong>検知日時：</strong>${formatDateTime(event.detectedAt)}</p>
-    <p><strong>フラグ：</strong>${(event.flags || []).join(" / ") || "-"}</p>
-    <p><strong>メモ：</strong>${event.memo || "-"}</p>
+    <h2>${escapeHtml(event.productTitle || event.title)}</h2>
+    <p><strong>イベント：</strong>${escapeHtml(event.eventType || "-")}</p>
+    <p><strong>販売形式：</strong>${escapeHtml(event.saleType || "-")}</p>
+    <p><strong>日時：</strong>${escapeHtml(formatDateTime(event.startAt || event.date))}</p>
+    <p><strong>検知元：</strong>${escapeHtml(event.source || "-")}</p>
+    <p><strong>検知日時：</strong>${escapeHtml(formatDateTime(event.detectedAt))}</p>
+    <p><strong>フラグ：</strong>${escapeHtml((event.flags || []).join(" / ") || "-")}</p>
+    <p><strong>メモ：</strong>${escapeHtml(event.memo || "-")}</p>
     <div class="actions">
       ${event.url ? `<a href="${event.url}" target="_blank" rel="noopener">公式/販売ページ</a>` : ""}
       ${event.xSearchUrl ? `<a href="${event.xSearchUrl}" target="_blank" rel="noopener">X検索</a>` : ""}
@@ -103,14 +130,20 @@ function showDetail(event) {
   dialog.showModal();
 }
 
-function renderLists() {
-  const now = new Date();
-
-  const sorted = [...events].sort((a, b) => {
+function sortEvents(list) {
+  return [...list].sort((a, b) => {
+    const aValid = hasValidDate(a);
+    const bValid = hasValidDate(b);
+    if (aValid && !bValid) return -1;
+    if (!aValid && bValid) return 1;
     const da = new Date(a.startAt || a.date).getTime() || 0;
     const db = new Date(b.startAt || b.date).getTime() || 0;
     return da - db;
   });
+}
+
+function renderLists() {
+  const sorted = sortEvents(events);
 
   const deadlineEvents = sorted.filter(e => {
     const d = daysUntil(e.startAt || e.date);
@@ -119,8 +152,7 @@ function renderLists() {
 
   const activeEvents = sorted.filter(e => {
     const status = getStatus(e.productId || e.id);
-    const t = new Date(e.startAt || e.date);
-    return status !== "スルー" && (!Number.isNaN(t.getTime()) ? t >= now : true);
+    return status !== "スルー" && isFutureOrUndated(e);
   }).slice(0, 12);
 
   const filtered = sorted.filter(e => {
@@ -131,7 +163,10 @@ function renderLists() {
   renderContainer("deadlineList", deadlineEvents.slice(0, 8));
   renderContainer("activeList", activeEvents);
   renderContainer("allList", filtered);
-  document.getElementById("summary").textContent = `全${events.length}件`;
+
+  const datedCount = events.filter(hasValidDate).length;
+  const undatedCount = events.length - datedCount;
+  document.getElementById("summary").textContent = `全${events.length}件 / カレンダー${datedCount}件 / 日付未取得${undatedCount}件`;
 }
 
 function renderContainer(id, list) {
@@ -146,11 +181,13 @@ function renderContainer(id, list) {
 
 function renderCalendar() {
   const calendarEl = document.getElementById("calendar");
-  const calendar = new FullCalendar.Calendar(calendarEl, {
+  if (calendar) calendar.destroy();
+
+  calendar = new FullCalendar.Calendar(calendarEl, {
     initialView: "dayGridMonth",
     locale: "ja",
     height: "auto",
-    events: events.map(e => ({
+    events: events.filter(hasValidDate).map(e => ({
       id: e.id,
       title: e.title,
       start: e.startAt || e.date,
