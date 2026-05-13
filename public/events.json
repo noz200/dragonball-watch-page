@@ -1,23 +1,42 @@
 [
   {
-    "id": "640012ce508522d1",
-    "productId": "a8c9bbec63fa89a7",
-    "title": "【締切】ドラゴンボール",
-    "productTitle": "ドラゴンボール",
-    "eventType": "締切",
-    "saleType": "予約",
-    "source": "楽天市場 ドラゴンボール フュージョンワールド",
-    "url": "https://search.rakuten.co.jp/search/mall/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB+%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89/-/tg1001077/",
-    "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
-    "date": "2026-08-09",
-    "startAt": "2026-08-09T09:00:00+09:00",
-    "detectedAt": "2026-05-13T18:53:27+09:00",
+    "id": "ab02428a30067d5a",
+    "productId": "b52ecc90cc939f37",
+    "title": "【要確認】ドラゴンボールスーパーダイバーズ テーマソング 楽曲発売！ /images/top/footerbnr/bnr_dbsdv-themesong.webp?v1",
+    "productTitle": "ドラゴンボールスーパーダイバーズ テーマソング 楽曲発売！ /images/top/footerbnr/bnr_dbsdv-themesong.webp?v1",
+    "eventType": "要確認",
+    "saleType": "一般",
+    "source": "ドラゴンボールスーパーダイバーズ公式",
+    "url": "https://dragonballsuperdivers.lnk.to/themesong",
+    "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%20%E3%83%86%E3%83%BC%E3%83%9E%E3%82%BD%E3%83%B3%E3%82%B0%20%E6%A5%BD%E6%9B%B2%E7%99%BA%E5%A3%B2%EF%BC%81%20/images/top/footerbnr/bnr_dbsdv-themesong.webp%3Fv1%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
+    "date": null,
+    "startAt": null,
+    "detectedAt": "2026-05-13T19:24:57+09:00",
     "flags": [
+      "ダイバーズ",
       "ドラゴンボール",
-      "フュージョンワールド",
-      "予約",
       "発売"
     ],
-    "memo": "自動検知。日付候補: 8月9日, 11月8日 / 元テキスト: ドラゴンボール ドラゴンボール ドラゴンボール ワンピース 遊戯王 【楽天市場】ドラゴンボール フュージョンワールド（関連作品ドラゴンボール）の通販 ようこそ 楽天市場へ ログイン 会員登録 Language Language 日本語 English 買い物かご 買い物かご 買い物かごに商品がありません お知らせ 閲覧履歴 お気に入り 購入履歴 myクーポン すべてのジャンル すべてのジャンル 「 ドラゴンボール フュージョンワールド 」の検索結果 1〜45件 （4,919件） お届け先 北海道 青森 岩手 宮城 "
+    "memo": "自動検知。日付候補: なし / 判定文脈: ドラゴンボールスーパーダイバーズ テーマソング 楽曲発売！ /images/top/footerbnr/bnr_dbsdv-themesong.webp?v1 ドラゴンボールスーパーダイバーズ テーマソング 楽曲発売！ /images/top/footerbnr/bnr_dbsdv-themesong.webp?v1 https://dragonballsuperdivers.lnk.to/themesong https://linkstorage.linkfire.com/medialinks/images/5c"
+  },
+  {
+    "id": "f640dd54fdc76c1f",
+    "productId": "5009dc3e404c5129",
+    "title": "【要確認】ドラゴンボールスーパーダイバーズ ファイトソング 楽曲発売！ /images/top/footerbnr/bnr_dbsdv-fightsong.webp?v1",
+    "productTitle": "ドラゴンボールスーパーダイバーズ ファイトソング 楽曲発売！ /images/top/footerbnr/bnr_dbsdv-fightsong.webp?v1",
+    "eventType": "要確認",
+    "saleType": "一般",
+    "source": "ドラゴンボールスーパーダイバーズ公式",
+    "url": "https://dragonballsuperdivers.lnk.to/fightsong",
+    "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%20%E3%83%95%E3%82%A1%E3%82%A4%E3%83%88%E3%82%BD%E3%83%B3%E3%82%B0%20%E6%A5%BD%E6%9B%B2%E7%99%BA%E5%A3%B2%EF%BC%81%20/images/top/footerbnr/bnr_dbsdv-fightsong.webp%3Fv1%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
+    "date": null,
+    "startAt": null,
+    "detectedAt": "2026-05-13T19:24:57+09:00",
+    "flags": [
+      "ダイバーズ",
+      "ドラゴンボール",
+      "発売"
+    ],
+    "memo": "自動検知。日付候補: なし / 判定文脈: ドラゴンボールスーパーダイバーズ ファイトソング 楽曲発売！ /images/top/footerbnr/bnr_dbsdv-fightsong.webp?v1 ドラゴンボールスーパーダイバーズ ファイトソング 楽曲発売！ /images/top/footerbnr/bnr_dbsdv-fightsong.webp?v1 https://dragonballsuperdivers.lnk.to/fightsong https://linkstorage.linkfire.com/medialinks/images/"
   }
 ]
