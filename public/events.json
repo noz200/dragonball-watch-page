@@ -11,7 +11,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%88%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-05-14",
     "startAt": "2026-05-14T09:00:00+09:00",
-    "detectedAt": "2026-05-14T17:42:20+09:00",
+    "detectedAt": "2026-05-14T18:22:21+09:00",
     "flags": [
       "DRAGON BALL",
       "ドラゴンボール",
@@ -32,14 +32,14 @@
     "xSearchUrl": "https://x.com/search?q=NEWS%EF%BD%9C%20%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%88%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-05-14",
     "startAt": "2026-05-14T09:00:00+09:00",
-    "detectedAt": "2026-05-14T17:42:22+09:00",
+    "detectedAt": "2026-05-14T18:22:23+09:00",
     "flags": [
       "DRAGON BALL",
       "ダイバーズ",
       "ドラゴンボール",
       "限定"
     ],
-    "memo": "自動検知。日付候補: 2026/05/14, 2021/12/23, 2026/04/20, 2026/04/30, 2026/04/22, 2026/04/22, 2026/04/20, 2026/04/28 / 判定文脈: s/img/shared/icon_youtube_b.png DRAGON BALL OFFICIAL SITE /assets/img/shared/logo_title.png [鳥山明ほぼ全仕事] 1日おきに更新24時間限定公開！ 2026/05/14 /dragonball/jp/news/2021/12/23/allWork.jpg?_=713cba92ebc326d054a43dcda72b88da ウィークリー☆キャラクター紹介！第255回目は『ドラゴンボール超』の「ナパパ」！ "
+    "memo": "自動検知。日付候補: 2026/05/14, 2021/12/23, 2026/04/20, 2026/04/30, 2026/04/22, 2026/04/22, 2026/04/20, 2026/04/28 / 判定文脈: s/img/shared/icon_youtube_b.png DRAGON BALL OFFICIAL SITE /assets/img/shared/logo_title.png [鳥山明ほぼ全仕事] 1日おきに更新24時間限定公開！ 2026/05/14 /dragonball/jp/news/2021/12/23/allWork.jpg?_=2cf68d5c9c0815fcc88d9eaed322966d ウィークリー☆キャラクター紹介！第255回目は『ドラゴンボール超』の「ナパパ」！ "
   },
   {
     "id": "8012a8e5178b6c55",
@@ -53,11 +53,12 @@
     "xSearchUrl": "https://x.com/search?q=%5B%E9%9B%86%E3%82%81%E3%81%A6%E6%A5%BD%E3%81%97%E3%81%84%E3%82%B3%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%83%AB%E3%83%A1%E3%83%80%E3%83%AB%E2%80%9C%E3%83%A1%E3%83%80%E3%82%B3%E3%83%AC%E2%80%9D%E3%81%AB%E3%80%8E%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%ABDAIMA%E3%80%8F%E3%81%8C%E7%99%BB%E5%A0%B4%EF%BC%81%5D%EF%BD%9C%20%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%88%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-05-14",
     "startAt": "2026-05-14T09:00:00+09:00",
-    "detectedAt": "2026-05-14T17:42:30+09:00",
+    "detectedAt": "2026-05-14T18:22:32+09:00",
     "flags": [
       "BOX",
       "DRAGON BALL",
       "ドラゴンボール",
+      "パック",
       "予約",
       "受付",
       "特典",
@@ -78,14 +79,14 @@
     "xSearchUrl": "https://x.com/search?q=%5B%5B%E9%B3%A5%E5%B1%B1%E6%98%8E%E3%81%BB%E3%81%BC%E5%85%A8%E4%BB%95%E4%BA%8B%5D%201%E6%97%A5%E3%81%8A%E3%81%8D%E3%81%AB%E6%9B%B4%E6%96%B024%E6%99%82%E9%96%93%E9%99%90%E5%AE%9A%E5%85%AC%E9%96%8B%EF%BC%81%202026/05/14%5D%EF%BD%9C%20%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%88%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-05-14",
     "startAt": "2026-05-14T09:00:00+09:00",
-    "detectedAt": "2026-05-14T17:42:32+09:00",
+    "detectedAt": "2026-05-14T18:22:34+09:00",
     "flags": [
       "DRAGON BALL",
       "ドラゴンボール",
       "発売",
       "限定"
     ],
-    "memo": "自動検知。日付候補: 2026/05/14, 2026/05/14, 2026/05/14, 2021/12/23, 2026/05/14, 2026/05/14, 2021/12/23, 2026/05/14 / 判定文脈: [[鳥山明ほぼ全仕事] 1日おきに更新24時間限定公開！ 2026/05/14]｜ 【公式】ドラゴンボールオフィシャルサイト [鳥山明ほぼ全仕事] 1日おきに更新24時間限定公開！ 2026/05/14 鳥山明ほぼ全仕事 COLUMNS 2026.05.14 [鳥山明ほぼ全仕事] 1日おきに更新24時間限定公開！ 2"
+    "memo": "自動検知。日付候補: 2026/05/14, 2026/05/14, 2026/05/14, 2026/05/14, 2021/12/23, 2026/05/14, 2026/05/14, 2021/12/23 / 判定文脈: [[鳥山明ほぼ全仕事] 1日おきに更新24時間限定公開！ 2026/05/14]｜ 【公式】ドラゴンボールオフィシャルサイト [[鳥山明ほぼ全仕事] 1日おきに更新24時間限定公開！ 2026/05/14]｜ 【公式】ドラゴンボールオフィシャルサイト [鳥山明ほぼ全仕事] 1日おきに更新24時間限定公開！ 2026/"
   },
   {
     "id": "496832b4f10d5c10",
@@ -99,13 +100,13 @@
     "xSearchUrl": "https://x.com/search?q=%E3%80%8C%E9%B3%A5%E5%B1%B1%E6%98%8E%E3%81%BB%E3%81%BC%E5%85%A8%E4%BB%95%E4%BA%8B%E3%80%8D%E3%81%AE%E6%A4%9C%E7%B4%A2%E7%B5%90%E6%9E%9C%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-05-14",
     "startAt": "2026-05-14T09:00:00+09:00",
-    "detectedAt": "2026-05-14T17:42:33+09:00",
+    "detectedAt": "2026-05-14T18:22:35+09:00",
     "flags": [
       "DRAGON BALL",
       "ドラゴンボール",
       "限定"
     ],
-    "memo": "自動検知。日付候補: 2026/05/14, 2021/12/23, 2026/05/14 / 判定文脈: s/img/shared/icon_youtube_b.png DRAGON BALL OFFICIAL SITE /assets/img/shared/logo_title.png [鳥山明ほぼ全仕事] 1日おきに更新24時間限定公開！ 2026/05/14 /dragonball/jp/news/2021/12/23/allWork.jpg?_=713cba92ebc326d054a43dcda72b88da SHUEISHA /assets/img/shared/logo_shueisha"
+    "memo": "自動検知。日付候補: 2026/05/14, 2021/12/23, 2026/05/14 / 判定文脈: s/img/shared/icon_youtube_b.png DRAGON BALL OFFICIAL SITE /assets/img/shared/logo_title.png [鳥山明ほぼ全仕事] 1日おきに更新24時間限定公開！ 2026/05/14 /dragonball/jp/news/2021/12/23/allWork.jpg?_=2cf68d5c9c0815fcc88d9eaed322966d SHUEISHA /assets/img/shared/logo_shueisha"
   },
   {
     "id": "d9ca7c8f0195251d",
@@ -119,7 +120,7 @@
     "xSearchUrl": "https://x.com/search?q=%5B%E3%80%8E%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%96%E3%83%AB%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%E3%80%8F%E6%9C%80%E6%96%B0%E4%BD%9C%E3%81%8C%E3%82%A2%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%BA%E3%83%A1%E3%83%B3%E3%83%88%E6%96%BD%E8%A8%AD%E3%81%AB%E7%99%BB%E5%A0%B4%EF%BC%81%5D%EF%BD%9C%20%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%88%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-05-14",
     "startAt": "2026-05-14T09:00:00+09:00",
-    "detectedAt": "2026-05-14T17:42:37+09:00",
+    "detectedAt": "2026-05-14T18:22:40+09:00",
     "flags": [
       "DRAGON BALL",
       "ドラゴンボール",
@@ -139,7 +140,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-05-21",
     "startAt": "2026-05-21T09:00:00+09:00",
-    "detectedAt": "2026-05-14T17:44:31+09:00",
+    "detectedAt": "2026-05-14T18:24:34+09:00",
     "flags": [
       "DBSDV",
       "ショップ",
@@ -151,50 +152,25 @@
     "memo": "自動検知。日付候補: 2026年5月21日, 2026年5月08日, 2026年4月28日, 2026年4月28日, 2026年4月28日, 2026年4月24日, 2026年4月24日, 2026年4月24日 / 判定文脈: mon/parts/header/btn_mypage_login.webp?2 ドラゴンボールスーパーダイバーズ 9弾 好評稼働中！ /images/top/sp/img_mv_9.jpg?v3 ドラゴンボールスーパーダイバーズ 10弾 2026年5月21日稼働予定！ /images/top/sp/img_mv_10.jpg 10弾稼働直前！ スペシャル配信！！ /images/top/sp/img_mv_streaming_202605.jpg 集結せよ！第7宇宙の戦士 カードゲットチャンス"
   },
   {
-    "id": "d1c25b63813336c1",
-    "productId": "eb14c120bd38cf23",
-    "title": "【要確認】チャンピオンシップ 2026オンライン予選 | ドラゴンボールスーパーダイバーズ公式サイト",
-    "productTitle": "チャンピオンシップ 2026オンライン予選 | ドラゴンボールスーパーダイバーズ公式サイト",
+    "id": "4fe804bc6e7c7724",
+    "productId": "130d6a7a6c5f9fce",
+    "title": "【要確認】最新ニュース特集 | ドラゴンボールスーパーダイバーズ公式サイト",
+    "productTitle": "最新ニュース特集 | ドラゴンボールスーパーダイバーズ公式サイト",
     "eventType": "要確認",
-    "saleType": "抽選",
-    "source": "ドラゴンボールスーパーダイバーズ公式",
-    "url": "https://www.dbsdv.com/news/220.php",
-    "xSearchUrl": "https://x.com/search?q=%E3%83%81%E3%83%A3%E3%83%B3%E3%83%94%E3%82%AA%E3%83%B3%E3%82%B7%E3%83%83%E3%83%97%202026%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E4%BA%88%E9%81%B8%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
-    "date": "2026-05-28",
-    "startAt": "2026-05-28T09:00:00+09:00",
-    "detectedAt": "2026-05-14T17:44:33+09:00",
-    "flags": [
-      "DBSDV",
-      "ダイバーズ",
-      "ドラゴンボール",
-      "受付",
-      "抽選",
-      "発売",
-      "限定"
-    ],
-    "memo": "自動検知。日付候補: 2026年4月28日, 2026年4月28日, 2026年4月28日, 2026年5月28日, 2026年6月7日, 4月28日, 4月28日, 4月28日 / 判定文脈: ント/大会 あそべるお店 公式SNSで最新情報をゲット!! LOADING イベント/大会 2026年4月28日 チャンピオンシップ 2026 オンライン予選 日本一の座を目指して ハイスコアをたたき出せ！！ 開催情報 ランキング開催期間 2026年5月28日(木) ～ 6月7日( 日 ) エントリー受付期間 ランキング最終結果発表 ～ 6月11日(木) ※おためしダイバーパスポートを使用した場合、限定ステージはプレイできません。 チャンピオンシップ 2026オンライン予選 として、 期間限定の"
-  },
-  {
-    "id": "4c38b2e6161b19f9",
-    "productId": "59040db1ec55465a",
-    "title": "【当選発表】10弾ボーナスアプリチャンス | ドラゴンボールスーパーダイバーズ公式サイト",
-    "productTitle": "10弾ボーナスアプリチャンス | ドラゴンボールスーパーダイバーズ公式サイト",
-    "eventType": "当選発表",
     "saleType": "一般",
     "source": "ドラゴンボールスーパーダイバーズ公式",
-    "url": "https://www.dbsdv.com/news/219.php",
-    "xSearchUrl": "https://x.com/search?q=10%E5%BC%BE%E3%83%9C%E3%83%BC%E3%83%8A%E3%82%B9%E3%82%A2%E3%83%97%E3%83%AA%E3%83%81%E3%83%A3%E3%83%B3%E3%82%B9%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
-    "date": "2026-06-05",
-    "startAt": "2026-06-05T09:00:00+09:00",
-    "detectedAt": "2026-05-14T17:44:33+09:00",
+    "url": "https://www.dbsdv.com/news/212.php",
+    "xSearchUrl": "https://x.com/search?q=%E6%9C%80%E6%96%B0%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E7%89%B9%E9%9B%86%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
+    "date": "2026-05-21",
+    "startAt": "2026-05-21T09:00:00+09:00",
+    "detectedAt": "2026-05-14T18:24:36+09:00",
     "flags": [
       "ダイバーズ",
       "ドラゴンボール",
-      "当選",
       "発売",
       "限定"
     ],
-    "memo": "自動検知。日付候補: 2026年4月24日, 2026年4月24日, 2026年4月24日, 2026年6月5日, 2026年4月24日, 4月24日, 4月24日, 4月24日 / 判定文脈: /大会 あそべるお店 公式SNSで最新情報をゲット!! LOADING ゲーム 10弾 奮迅の一撃 2026年4月24日 10弾ボーナスアプリチャンス ゲームプレイで くじびき が出現！ スペシャルなボーナス を ゲットしよう！ 開催期間 2026年6月5日(金) ～ 6月24日(水) あそびかた ゲームプレイ後に くじびき ができるぞ！ 100円につき1回 引けるんだ！ 1回ごとに必ずボーナスゲット！ カードを連続購入 していると ウォッチアプリの当選率アップ！ そのプレイで引くくじ全部で "
+    "memo": "自動検知。日付候補: 2026年5月21日, 2026年5月21日, 2026年4月24日, 2026年 5月 21日, 5月21日, 5月21日, 4月24日, 5月 21日 / 判定文脈: 最新ニュース特集 | ドラゴンボールスーパーダイバーズ公式サイト 最新ニュース特集 | ドラゴンボールスーパーダイバーズ公式サイト ドラゴンボールスーパーダイバーズ 10弾 2026年5月21日稼働予定！ /images/top/sp/img_mv_10.jpg ドラゴンボールスーパーダイバーズ 10弾 2026年5月21日稼働予定！ /images/top/sp/img_mv_10.jpg https://www.dbsdv.c"
   },
   {
     "id": "0dd8cd6b6d94fee5",
@@ -208,14 +184,19 @@
     "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-06-13",
     "startAt": "2026-06-13T09:00:00+09:00",
-    "detectedAt": "2026-05-14T17:44:01+09:00",
+    "detectedAt": "2026-05-14T18:24:03+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
+      "ブースターパック",
+      "型番",
       "発売",
       "限定"
     ],
@@ -233,14 +214,19 @@
     "xSearchUrl": "https://x.com/search?q=%E3%83%96%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%91%E3%83%83%E3%82%AF%20CROSS%20FORCE%20%5BFB10%5D%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-06-13",
     "startAt": "2026-06-13T09:00:00+09:00",
-    "detectedAt": "2026-05-14T17:44:07+09:00",
+    "detectedAt": "2026-05-14T18:24:10+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
+      "ブースターパック",
+      "型番",
       "発売"
     ],
     "memo": "自動検知。日付候補: 2026年6月13日, 2026/03/06, 2026/03/06, 6月13日 / 判定文脈: シャルストア 商品情報 ホーム 商品情報 ブースターパック CROSS FORCE [FB10] 2026.03.09 ブースターパック CROSS FORCE [FB10] ブースターパック CROSS FORCE [FB10] 発売日 2026年6月13日(土) メーカー希望小売価格 ￥220(税込) 種類数 全123種 セット内容 1パック6枚入り＋デジタル版連動コード1枚付属 BACK GLOBAL JP | 日本語 JP | 日本語 EN | NA/LatAm/Europe/Ocean"
@@ -257,14 +243,19 @@
     "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-06-13",
     "startAt": "2026-06-13T09:00:00+09:00",
-    "detectedAt": "2026-05-14T17:43:29+09:00",
+    "detectedAt": "2026-05-14T18:23:28+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
+      "ブースターパック",
+      "型番",
       "発売",
       "限定"
     ],
@@ -282,14 +273,19 @@
     "xSearchUrl": "https://x.com/search?q=%E3%83%96%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%91%E3%83%83%E3%82%AF%20CROSS%20FORCE%20%5BFB10%5D%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-06-13",
     "startAt": "2026-06-13T09:00:00+09:00",
-    "detectedAt": "2026-05-14T17:43:35+09:00",
+    "detectedAt": "2026-05-14T18:23:35+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
+      "ブースターパック",
+      "型番",
       "発売"
     ],
     "memo": "自動検知。日付候補: 2026年6月13日, 2026/03/06, 2026/03/06, 6月13日 / 判定文脈: シャルストア 商品情報 ホーム 商品情報 ブースターパック CROSS FORCE [FB10] 2026.03.09 ブースターパック CROSS FORCE [FB10] ブースターパック CROSS FORCE [FB10] 発売日 2026年6月13日(土) メーカー希望小売価格 ￥220(税込) 種類数 全123種 セット内容 1パック6枚入り＋デジタル版連動コード1枚付属 BACK GLOBAL JP | 日本語 JP | 日本語 EN | NA/LatAm/Europe/Ocean"
@@ -306,14 +302,19 @@
     "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-06-13",
     "startAt": "2026-06-13T09:00:00+09:00",
-    "detectedAt": "2026-05-14T17:42:53+09:00",
+    "detectedAt": "2026-05-14T18:22:53+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
+      "ブースターパック",
+      "型番",
       "発売",
       "限定"
     ],
@@ -331,14 +332,19 @@
     "xSearchUrl": "https://x.com/search?q=%E3%83%96%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%91%E3%83%83%E3%82%AF%20CROSS%20FORCE%20%5BFB10%5D%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-06-13",
     "startAt": "2026-06-13T09:00:00+09:00",
-    "detectedAt": "2026-05-14T17:43:00+09:00",
+    "detectedAt": "2026-05-14T18:23:00+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
+      "ブースターパック",
+      "型番",
       "発売"
     ],
     "memo": "自動検知。日付候補: 2026年6月13日, 2026/03/06, 2026/03/06, 6月13日 / 判定文脈: シャルストア 商品情報 ホーム 商品情報 ブースターパック CROSS FORCE [FB10] 2026.03.09 ブースターパック CROSS FORCE [FB10] ブースターパック CROSS FORCE [FB10] 発売日 2026年6月13日(土) メーカー希望小売価格 ￥220(税込) 種類数 全123種 セット内容 1パック6枚入り＋デジタル版連動コード1枚付属 BACK GLOBAL JP | 日本語 JP | 日本語 EN | NA/LatAm/Europe/Ocean"
@@ -355,14 +361,19 @@
     "xSearchUrl": "https://x.com/search?q=STORY%20BOOSTER%2001%20%5BST01%5D%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-08-08",
     "startAt": "2026-08-08T09:00:00+09:00",
-    "detectedAt": "2026-05-14T17:44:06+09:00",
+    "detectedAt": "2026-05-14T18:24:08+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
+      "ブースターパック",
+      "型番",
       "発売"
     ],
     "memo": "自動検知。日付候補: 2026年8月8日, 2026/04/16, 2026/04/16, 8月8日 / 判定文脈: ア 取り扱い店舗 オフィシャルストア 商品情報 ホーム 商品情報 STORY BOOSTER 01 [ST01] 2026.04.20 STORY BOOSTER 01 [ST01] STORY BOOSTER 01 [ST01] 発売日 2026年8月8日(土) メーカー希望小売価格 ￥330(税込) 種類数 全85種 セット内容 1パック6枚入り BACK GLOBAL JP | 日本語 JP | 日本語 EN | NA/LatAm/Europe/Oceania EN | English("
@@ -379,14 +390,19 @@
     "xSearchUrl": "https://x.com/search?q=STORY%20BOOSTER%2001%20%5BST01%5D%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-08-08",
     "startAt": "2026-08-08T09:00:00+09:00",
-    "detectedAt": "2026-05-14T17:43:34+09:00",
+    "detectedAt": "2026-05-14T18:23:34+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
+      "ブースターパック",
+      "型番",
       "発売"
     ],
     "memo": "自動検知。日付候補: 2026年8月8日, 2026/04/16, 2026/04/16, 8月8日 / 判定文脈: ア 取り扱い店舗 オフィシャルストア 商品情報 ホーム 商品情報 STORY BOOSTER 01 [ST01] 2026.04.20 STORY BOOSTER 01 [ST01] STORY BOOSTER 01 [ST01] 発売日 2026年8月8日(土) メーカー希望小売価格 ￥330(税込) 種類数 全85種 セット内容 1パック6枚入り BACK GLOBAL JP | 日本語 JP | 日本語 EN | NA/LatAm/Europe/Oceania EN | English("
@@ -403,14 +419,19 @@
     "xSearchUrl": "https://x.com/search?q=STORY%20BOOSTER%2001%20%5BST01%5D%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-08-08",
     "startAt": "2026-08-08T09:00:00+09:00",
-    "detectedAt": "2026-05-14T17:42:59+09:00",
+    "detectedAt": "2026-05-14T18:22:59+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
+      "ブースターパック",
+      "型番",
       "発売"
     ],
     "memo": "自動検知。日付候補: 2026年8月8日, 2026/04/16, 2026/04/16, 8月8日 / 判定文脈: ア 取り扱い店舗 オフィシャルストア 商品情報 ホーム 商品情報 STORY BOOSTER 01 [ST01] 2026.04.20 STORY BOOSTER 01 [ST01] STORY BOOSTER 01 [ST01] 発売日 2026年8月8日(土) メーカー希望小売価格 ￥330(税込) 種類数 全85種 セット内容 1パック6枚入り BACK GLOBAL JP | 日本語 JP | 日本語 EN | NA/LatAm/Europe/Oceania EN | English("
@@ -427,12 +448,12 @@
     "xSearchUrl": "https://x.com/search?q=%E3%81%82%E3%81%BF%E3%81%82%E3%81%BF%E9%99%90%E5%AE%9A%E5%95%86%E5%93%81%20%E3%81%82%E3%81%BF%E3%81%82%E3%81%BF%E9%99%90%E5%AE%9A%E5%95%86%E5%93%81%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:40+09:00",
+    "detectedAt": "2026-05-14T18:24:48+09:00",
     "flags": [
-      "限定",
-      "ショップ"
+      "ショップ",
+      "限定"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: あみあみ限定商品 あみあみ限定商品 https://slist.amiami.jp/top/search/list?s_st_list_store_bonus=1&pagemax=60"
+    "memo": "自動検知。日付候補: なし / 判定文脈: あみあみ限定商品 あみあみ限定商品 あみあみ限定商品 あみあみ限定商品 https://slist.amiami.jp/top/search/list?s_st_list_store_bonus=1&pagemax=60"
   },
   {
     "id": "ae0a5a2d9ce01845",
@@ -446,12 +467,12 @@
     "xSearchUrl": "https://x.com/search?q=%E3%81%82%E3%81%BF%E3%81%82%E3%81%BF%E9%99%90%E5%AE%9A%E5%95%86%E5%93%81%20%E3%81%82%E3%81%BF%E3%81%82%E3%81%BF%E9%99%90%E5%AE%9A%E5%95%86%E5%93%81%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:40+09:00",
+    "detectedAt": "2026-05-14T18:24:48+09:00",
     "flags": [
-      "限定",
-      "ショップ"
+      "ショップ",
+      "限定"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: あみあみ限定商品 あみあみ限定商品 https://slist.amiami.jp/top/search/list?s_st_list_store_bonus=1&pagemax=60"
+    "memo": "自動検知。日付候補: なし / 判定文脈: あみあみ限定商品 あみあみ限定商品 あみあみ限定商品 あみあみ限定商品 https://slist.amiami.jp/top/search/list?s_st_list_store_bonus=1&pagemax=60"
   },
   {
     "id": "fb6300adb60c02ab",
@@ -465,15 +486,17 @@
     "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20%E3%83%96%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%91%E3%83%83%E3%82%AF%20BRIGHTNESS%20OF%20HOPE%20%5BFB11%5D%2024%E3%83%91%E3%83%83%E3%82%AF%E5%85%A5%E3%82%8ABOX%20%E8%B2%A9%E5%A3%B2%E5%81%9C%E6%AD%A2%E4%B8%AD%205%2C760%20https%3A//img.amiami.jp/images/product/blank.gif%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20%E3%83%96%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%91%E3%83%83%E3%82%AF%20BRIGHTNE%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:40+09:00",
+    "detectedAt": "2026-05-14T18:24:48+09:00",
     "flags": [
       "BOX",
+      "ショップ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
-      "ショップ"
+      "ブースターパック",
+      "型番"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: ドラゴンボールスーパーカードゲーム フュージョンワールド ブースターパック BRIGHTNESS OF HOPE [FB11] 24パック入りBOX 販売停止中 5,760 https://img.amiami.jp/images/product/blank.gif ドラゴンボールスーパーカードゲーム フュージョンワールド ブースターパック BRIGHTNESS OF HOPE [FB11] 24パック入りBOX 販売停止中 5,760 https://www.amiami.jp/top/detail/detail?gcode=CARD-00033515"
+    "memo": "自動検知。日付候補: なし / 判定文脈: ドラゴンボールスーパーカードゲーム フュージョンワールド ブースターパック BRIGHTNESS OF HOPE [FB11] 24パック入りBOX 販売停止中 5,760 https://img.amiami.jp/images/product/blank.gif ドラゴンボールスーパーカードゲーム フュージョンワールド ブースターパック BRIGHTNE ドラゴンボールスーパーカードゲーム フュージョンワールド ブースターパック BRIGHTNESS OF HOPE [FB11] 24パック入りBOX 販売停止中 5,760 https://img.amiami.jp/images/pro"
   },
   {
     "id": "5daba141d03ce51a",
@@ -487,12 +510,12 @@
     "xSearchUrl": "https://x.com/search?q=%E3%81%82%E3%81%BF%E3%81%82%E3%81%BF%E9%99%90%E5%AE%9A%E5%95%86%E5%93%81%20%E3%81%82%E3%81%BF%E3%81%82%E3%81%BF%E9%99%90%E5%AE%9A%E5%95%86%E5%93%81%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:39+09:00",
+    "detectedAt": "2026-05-14T18:24:48+09:00",
     "flags": [
-      "限定",
-      "ショップ"
+      "ショップ",
+      "限定"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: あみあみ限定商品 あみあみ限定商品 https://slist.amiami.jp/top/search/list?s_st_list_store_bonus=1&pagemax=60"
+    "memo": "自動検知。日付候補: なし / 判定文脈: あみあみ限定商品 あみあみ限定商品 あみあみ限定商品 あみあみ限定商品 https://slist.amiami.jp/top/search/list?s_st_list_store_bonus=1&pagemax=60"
   },
   {
     "id": "f6347a322efbfab7",
@@ -506,12 +529,12 @@
     "xSearchUrl": "https://x.com/search?q=%E3%81%82%E3%81%BF%E3%81%82%E3%81%BF%E9%99%90%E5%AE%9A%E5%95%86%E5%93%81%20%E3%81%82%E3%81%BF%E3%81%82%E3%81%BF%E9%99%90%E5%AE%9A%E5%95%86%E5%93%81%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:41+09:00",
+    "detectedAt": "2026-05-14T18:24:49+09:00",
     "flags": [
-      "限定",
-      "ショップ"
+      "ショップ",
+      "限定"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: あみあみ限定商品 あみあみ限定商品 https://slist.amiami.jp/top/search/list?s_st_list_store_bonus=1&pagemax=60"
+    "memo": "自動検知。日付候補: なし / 判定文脈: あみあみ限定商品 あみあみ限定商品 あみあみ限定商品 あみあみ限定商品 https://slist.amiami.jp/top/search/list?s_st_list_store_bonus=1&pagemax=60"
   },
   {
     "id": "a0aea0f03bdb4f99",
@@ -525,13 +548,13 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20TCG%20%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20TCG%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:50+09:00",
+    "detectedAt": "2026-05-14T18:24:58+09:00",
     "flags": [
+      "ショップ",
       "予約",
-      "受付",
-      "ショップ"
+      "受付"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 予約受付中 TCG 予約受付中 TCG https://shop.yellowsubmarine.co.jp/products/list?category_id=1501"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 予約受付中 TCG 予約受付中 TCG 予約受付中 TCG 予約受付中 TCG https://shop.yellowsubmarine.co.jp/products/list?category_id=1501"
   },
   {
     "id": "64277b7a92a6b96e",
@@ -545,13 +568,13 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%BBTRPG%20%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%BBTRPG%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:50+09:00",
+    "detectedAt": "2026-05-14T18:24:58+09:00",
     "flags": [
+      "ショップ",
       "予約",
-      "受付",
-      "ショップ"
+      "受付"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 予約受付中ボードゲーム・TRPG 予約受付中ボードゲーム・TRPG https://shop.yellowsubmarine.co.jp/products/list?category_id=702040860"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 予約受付中ボードゲーム・TRPG 予約受付中ボードゲーム・TRPG 予約受付中ボードゲーム・TRPG 予約受付中ボードゲーム・TRPG https://shop.yellowsubmarine.co.jp/products/list?category_id=702040860"
   },
   {
     "id": "b6e40551a4e77a86",
@@ -565,13 +588,13 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20%E3%83%90%E3%83%B3%E3%83%80%E3%82%A4%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BA%20%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20%E3%83%90%E3%83%B3%E3%83%80%E3%82%A4%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BA%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:50+09:00",
+    "detectedAt": "2026-05-14T18:24:58+09:00",
     "flags": [
+      "ショップ",
       "予約",
-      "受付",
-      "ショップ"
+      "受付"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 予約受付中 バンダイコレクターズ 予約受付中 バンダイコレクターズ https://shop.yellowsubmarine.co.jp/products/list?category_id=1502"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 予約受付中 バンダイコレクターズ 予約受付中 バンダイコレクターズ 予約受付中 バンダイコレクターズ 予約受付中 バンダイコレクターズ https://shop.yellowsubmarine.co.jp/products/list?category_id=1502"
   },
   {
     "id": "cfeca3552101fa08",
@@ -585,13 +608,13 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20%E3%83%97%E3%83%A9%E3%83%A2%E3%83%87%E3%83%AB%20%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20%E3%83%97%E3%83%A9%E3%83%A2%E3%83%87%E3%83%AB%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:50+09:00",
+    "detectedAt": "2026-05-14T18:24:58+09:00",
     "flags": [
+      "ショップ",
       "予約",
-      "受付",
-      "ショップ"
+      "受付"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 予約受付中 プラモデル 予約受付中 プラモデル https://shop.yellowsubmarine.co.jp/products/list?category_id=13010103"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 予約受付中 プラモデル 予約受付中 プラモデル 予約受付中 プラモデル 予約受付中 プラモデル https://shop.yellowsubmarine.co.jp/products/list?category_id=13010103"
   },
   {
     "id": "aad163cd1ee9206e",
@@ -605,13 +628,13 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20TCG%20%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20TCG%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:48+09:00",
+    "detectedAt": "2026-05-14T18:24:57+09:00",
     "flags": [
+      "ショップ",
       "予約",
-      "受付",
-      "ショップ"
+      "受付"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 予約受付中 TCG 予約受付中 TCG https://shop.yellowsubmarine.co.jp/products/list?category_id=1501"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 予約受付中 TCG 予約受付中 TCG 予約受付中 TCG 予約受付中 TCG https://shop.yellowsubmarine.co.jp/products/list?category_id=1501"
   },
   {
     "id": "6a1f7b5136059e7a",
@@ -625,13 +648,13 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%BBTRPG%20%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%BBTRPG%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:48+09:00",
+    "detectedAt": "2026-05-14T18:24:57+09:00",
     "flags": [
+      "ショップ",
       "予約",
-      "受付",
-      "ショップ"
+      "受付"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 予約受付中ボードゲーム・TRPG 予約受付中ボードゲーム・TRPG https://shop.yellowsubmarine.co.jp/products/list?category_id=702040860"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 予約受付中ボードゲーム・TRPG 予約受付中ボードゲーム・TRPG 予約受付中ボードゲーム・TRPG 予約受付中ボードゲーム・TRPG https://shop.yellowsubmarine.co.jp/products/list?category_id=702040860"
   },
   {
     "id": "d484bf0343eb7fd7",
@@ -645,13 +668,13 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20%E3%83%90%E3%83%B3%E3%83%80%E3%82%A4%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BA%20%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20%E3%83%90%E3%83%B3%E3%83%80%E3%82%A4%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BA%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:48+09:00",
+    "detectedAt": "2026-05-14T18:24:57+09:00",
     "flags": [
+      "ショップ",
       "予約",
-      "受付",
-      "ショップ"
+      "受付"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 予約受付中 バンダイコレクターズ 予約受付中 バンダイコレクターズ https://shop.yellowsubmarine.co.jp/products/list?category_id=1502"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 予約受付中 バンダイコレクターズ 予約受付中 バンダイコレクターズ 予約受付中 バンダイコレクターズ 予約受付中 バンダイコレクターズ https://shop.yellowsubmarine.co.jp/products/list?category_id=1502"
   },
   {
     "id": "48ce5f93e2d220a7",
@@ -665,13 +688,13 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20%E3%83%97%E3%83%A9%E3%83%A2%E3%83%87%E3%83%AB%20%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20%E3%83%97%E3%83%A9%E3%83%A2%E3%83%87%E3%83%AB%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:48+09:00",
+    "detectedAt": "2026-05-14T18:24:57+09:00",
     "flags": [
+      "ショップ",
       "予約",
-      "受付",
-      "ショップ"
+      "受付"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 予約受付中 プラモデル 予約受付中 プラモデル https://shop.yellowsubmarine.co.jp/products/list?category_id=13010103"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 予約受付中 プラモデル 予約受付中 プラモデル 予約受付中 プラモデル 予約受付中 プラモデル https://shop.yellowsubmarine.co.jp/products/list?category_id=13010103"
   },
   {
     "id": "55c13b4e998d0526",
@@ -685,13 +708,13 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20TCG%20%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20TCG%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:45+09:00",
+    "detectedAt": "2026-05-14T18:24:54+09:00",
     "flags": [
+      "ショップ",
       "予約",
-      "受付",
-      "ショップ"
+      "受付"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 予約受付中 TCG 予約受付中 TCG https://shop.yellowsubmarine.co.jp/products/list?category_id=1501"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 予約受付中 TCG 予約受付中 TCG 予約受付中 TCG 予約受付中 TCG https://shop.yellowsubmarine.co.jp/products/list?category_id=1501"
   },
   {
     "id": "3ac2b35608536224",
@@ -705,13 +728,13 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%BBTRPG%20%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%BBTRPG%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:45+09:00",
+    "detectedAt": "2026-05-14T18:24:54+09:00",
     "flags": [
+      "ショップ",
       "予約",
-      "受付",
-      "ショップ"
+      "受付"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 予約受付中ボードゲーム・TRPG 予約受付中ボードゲーム・TRPG https://shop.yellowsubmarine.co.jp/products/list?category_id=702040860"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 予約受付中ボードゲーム・TRPG 予約受付中ボードゲーム・TRPG 予約受付中ボードゲーム・TRPG 予約受付中ボードゲーム・TRPG https://shop.yellowsubmarine.co.jp/products/list?category_id=702040860"
   },
   {
     "id": "eabe129194eb2658",
@@ -725,13 +748,13 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20%E3%83%90%E3%83%B3%E3%83%80%E3%82%A4%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BA%20%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20%E3%83%90%E3%83%B3%E3%83%80%E3%82%A4%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BA%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:45+09:00",
+    "detectedAt": "2026-05-14T18:24:54+09:00",
     "flags": [
+      "ショップ",
       "予約",
-      "受付",
-      "ショップ"
+      "受付"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 予約受付中 バンダイコレクターズ 予約受付中 バンダイコレクターズ https://shop.yellowsubmarine.co.jp/products/list?category_id=1502"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 予約受付中 バンダイコレクターズ 予約受付中 バンダイコレクターズ 予約受付中 バンダイコレクターズ 予約受付中 バンダイコレクターズ https://shop.yellowsubmarine.co.jp/products/list?category_id=1502"
   },
   {
     "id": "d0d5e83447d6c5d9",
@@ -745,13 +768,13 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20%E3%83%97%E3%83%A9%E3%83%A2%E3%83%87%E3%83%AB%20%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20%E3%83%97%E3%83%A9%E3%83%A2%E3%83%87%E3%83%AB%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:45+09:00",
+    "detectedAt": "2026-05-14T18:24:54+09:00",
     "flags": [
+      "ショップ",
       "予約",
-      "受付",
-      "ショップ"
+      "受付"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 予約受付中 プラモデル 予約受付中 プラモデル https://shop.yellowsubmarine.co.jp/products/list?category_id=13010103"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 予約受付中 プラモデル 予約受付中 プラモデル 予約受付中 プラモデル 予約受付中 プラモデル https://shop.yellowsubmarine.co.jp/products/list?category_id=13010103"
   },
   {
     "id": "f7590c7e664e7ede",
@@ -765,13 +788,13 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20TCG%20%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20TCG%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:51+09:00",
+    "detectedAt": "2026-05-14T18:25:00+09:00",
     "flags": [
+      "ショップ",
       "予約",
-      "受付",
-      "ショップ"
+      "受付"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 予約受付中 TCG 予約受付中 TCG https://shop.yellowsubmarine.co.jp/products/list?category_id=1501"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 予約受付中 TCG 予約受付中 TCG 予約受付中 TCG 予約受付中 TCG https://shop.yellowsubmarine.co.jp/products/list?category_id=1501"
   },
   {
     "id": "917efa5ed396c28e",
@@ -785,13 +808,13 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%BBTRPG%20%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%BBTRPG%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:51+09:00",
+    "detectedAt": "2026-05-14T18:25:00+09:00",
     "flags": [
+      "ショップ",
       "予約",
-      "受付",
-      "ショップ"
+      "受付"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 予約受付中ボードゲーム・TRPG 予約受付中ボードゲーム・TRPG https://shop.yellowsubmarine.co.jp/products/list?category_id=702040860"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 予約受付中ボードゲーム・TRPG 予約受付中ボードゲーム・TRPG 予約受付中ボードゲーム・TRPG 予約受付中ボードゲーム・TRPG https://shop.yellowsubmarine.co.jp/products/list?category_id=702040860"
   },
   {
     "id": "cc306ea1704b7978",
@@ -805,13 +828,13 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20%E3%83%90%E3%83%B3%E3%83%80%E3%82%A4%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BA%20%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20%E3%83%90%E3%83%B3%E3%83%80%E3%82%A4%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BA%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:51+09:00",
+    "detectedAt": "2026-05-14T18:25:00+09:00",
     "flags": [
+      "ショップ",
       "予約",
-      "受付",
-      "ショップ"
+      "受付"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 予約受付中 バンダイコレクターズ 予約受付中 バンダイコレクターズ https://shop.yellowsubmarine.co.jp/products/list?category_id=1502"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 予約受付中 バンダイコレクターズ 予約受付中 バンダイコレクターズ 予約受付中 バンダイコレクターズ 予約受付中 バンダイコレクターズ https://shop.yellowsubmarine.co.jp/products/list?category_id=1502"
   },
   {
     "id": "745688e68a2ad861",
@@ -825,13 +848,13 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20%E3%83%97%E3%83%A9%E3%83%A2%E3%83%87%E3%83%AB%20%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20%E3%83%97%E3%83%A9%E3%83%A2%E3%83%87%E3%83%AB%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:51+09:00",
+    "detectedAt": "2026-05-14T18:25:00+09:00",
     "flags": [
+      "ショップ",
       "予約",
-      "受付",
-      "ショップ"
+      "受付"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 予約受付中 プラモデル 予約受付中 プラモデル https://shop.yellowsubmarine.co.jp/products/list?category_id=13010103"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 予約受付中 プラモデル 予約受付中 プラモデル 予約受付中 プラモデル 予約受付中 プラモデル https://shop.yellowsubmarine.co.jp/products/list?category_id=13010103"
   },
   {
     "id": "9a5daf8bfd7cc01d",
@@ -845,12 +868,12 @@
     "xSearchUrl": "https://x.com/search?q=%E5%86%99%E7%9C%9F%E3%81%AE%E3%81%BF%E4%B8%80%E8%A6%A7%20https%3A//www.c-labo-online.jp/res/touch003/img/layout_photo.png%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:38+09:00",
+    "detectedAt": "2026-05-14T18:24:43+09:00",
     "flags": [
       "DBFW",
       "ショップ"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 写真のみ一覧 https://www.c-labo-online.jp/res/touch003/img/layout_photo.png https://www.c-labo-online.jp/product-list/0/0/photo?keyword=DBFW"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 写真のみ一覧 https://www.c-labo-online.jp/res/touch003/img/layout_photo.png 写真のみ一覧 https://www.c-labo-online.jp/res/touch003/img/layout_photo.png https://www.c-labo-online.jp/product-list/0/0/photo?keyword=DBFW"
   },
   {
     "id": "643661c0a401f748",
@@ -864,12 +887,12 @@
     "xSearchUrl": "https://x.com/search?q=%E8%AA%AC%E6%98%8E%E4%BB%98%E3%81%8D%E4%B8%80%E8%A6%A7%20https%3A//www.c-labo-online.jp/res/touch003/img/layout_text.png%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:38+09:00",
+    "detectedAt": "2026-05-14T18:24:43+09:00",
     "flags": [
       "DBFW",
       "ショップ"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 説明付き一覧 https://www.c-labo-online.jp/res/touch003/img/layout_text.png https://www.c-labo-online.jp/product-list/0/0/normal?keyword=DBFW"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 説明付き一覧 https://www.c-labo-online.jp/res/touch003/img/layout_text.png 説明付き一覧 https://www.c-labo-online.jp/res/touch003/img/layout_text.png https://www.c-labo-online.jp/product-list/0/0/normal?keyword=DBFW"
   },
   {
     "id": "fa1eb9c774dcb9a7",
@@ -883,12 +906,12 @@
     "xSearchUrl": "https://x.com/search?q=2%201%202%203%20...%2046%20%E6%AC%A1%20%C2%BB%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:38+09:00",
+    "detectedAt": "2026-05-14T18:24:43+09:00",
     "flags": [
       "DBFW",
       "ショップ"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 2 1 2 3 ... 46 次 » https://www.c-labo-online.jp/product-list?keyword=DBFW&page=2"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 2 1 2 3 ... 46 次 » 2 1 2 3 ... 46 次 » https://www.c-labo-online.jp/product-list?keyword=DBFW&page=2"
   },
   {
     "id": "8e1ad2c851621f67",
@@ -902,12 +925,12 @@
     "xSearchUrl": "https://x.com/search?q=3%201%202%203%20...%2046%20%E6%AC%A1%20%C2%BB%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:38+09:00",
+    "detectedAt": "2026-05-14T18:24:43+09:00",
     "flags": [
       "DBFW",
       "ショップ"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 3 1 2 3 ... 46 次 » https://www.c-labo-online.jp/product-list?keyword=DBFW&page=3"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 3 1 2 3 ... 46 次 » 3 1 2 3 ... 46 次 » https://www.c-labo-online.jp/product-list?keyword=DBFW&page=3"
   },
   {
     "id": "042227f583ca5515",
@@ -921,12 +944,12 @@
     "xSearchUrl": "https://x.com/search?q=46%201%202%203%20...%2046%20%E6%AC%A1%20%C2%BB%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:38+09:00",
+    "detectedAt": "2026-05-14T18:24:43+09:00",
     "flags": [
       "DBFW",
       "ショップ"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 46 1 2 3 ... 46 次 » https://www.c-labo-online.jp/product-list?keyword=DBFW&page=46"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 46 1 2 3 ... 46 次 » 46 1 2 3 ... 46 次 » https://www.c-labo-online.jp/product-list?keyword=DBFW&page=46"
   },
   {
     "id": "a60af97bdd60a6f2",
@@ -940,14 +963,14 @@
     "xSearchUrl": "https://x.com/search?q=%5B%E6%9B%B8%E7%B1%8D%5D%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20%E5%85%AC%E5%BC%8F%E3%82%AB%E3%83%BC%E3%83%89%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0%202nd%20COMPLETE%20CARD%20COLLECTION%20%5B2603/13%5D%201%2C870%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E3%81%AA%E3%81%97%20https%3A//www.c-labo-online.jp/res/touch003/img/all/spacer.gif%20%5B%E6%9B%B8%E7%B1%8D%5D%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:38+09:00",
+    "detectedAt": "2026-05-14T18:24:43+09:00",
     "flags": [
+      "ショップ",
       "ドラゴンボール",
       "フュージョンワールド",
-      "在庫",
-      "ショップ"
+      "在庫"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: [書籍]ドラゴンボールスーパーカードゲーム フュージョンワールド 公式カードカタログ 2nd COMPLETE CARD COLLECTION [2603/13] 1,870 円 (税込) 在庫なし https://www.c-labo-online.jp/res/touch003/img/all/spacer.gif [書籍]ドラゴンボールスーパーカードゲーム フュージョンワールド 公式カードカタログ 2nd COMPLETE CARD COLLECTION [2603/13] 1,870 円 (税込) 在庫なし https://www.c-labo-online.jp/product/37"
+    "memo": "自動検知。日付候補: なし / 判定文脈: [書籍]ドラゴンボールスーパーカードゲーム フュージョンワールド 公式カードカタログ 2nd COMPLETE CARD COLLECTION [2603/13] 1,870 円 (税込) 在庫なし https://www.c-labo-online.jp/res/touch003/img/all/spacer.gif [書籍]ドラゴンボールスーパーカードゲ [書籍]ドラゴンボールスーパーカードゲーム フュージョンワールド 公式カードカタログ 2nd COMPLETE CARD COLLECTION [2603/13] 1,870 円 (税込) 在庫なし https://www.c-labo-"
   },
   {
     "id": "b9d441191326a6c5",
@@ -961,13 +984,13 @@
     "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:38+09:00",
+    "detectedAt": "2026-05-14T18:24:43+09:00",
     "flags": [
+      "ショップ",
       "ドラゴンボール",
-      "フュージョンワールド",
-      "ショップ"
+      "フュージョンワールド"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: ドラゴンボールスーパーカードゲーム フュージョンワールド ドラゴンボールスーパーカードゲーム フュージョンワールド https://www.c-labo-online.jp/page/124"
+    "memo": "自動検知。日付候補: なし / 判定文脈: ドラゴンボールスーパーカードゲーム フュージョンワールド ドラゴンボールスーパーカードゲーム フュージョンワールド ドラゴンボールスーパーカードゲーム フュージョンワールド ドラゴンボールスーパーカードゲーム フュージョンワールド https://www.c-labo-online.jp/page/124"
   },
   {
     "id": "794b0168f38c7e49",
@@ -981,12 +1004,12 @@
     "xSearchUrl": "https://x.com/search?q=ONE%20PIECE%20CARD%20GAME%20ONE%20PIECE%20CARD%20GAME%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:38+09:00",
+    "detectedAt": "2026-05-14T18:24:43+09:00",
     "flags": [
       "CARD GAME",
       "ショップ"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: ONE PIECE CARD GAME ONE PIECE CARD GAME https://www.c-labo-online.jp/page/157"
+    "memo": "自動検知。日付候補: なし / 判定文脈: ONE PIECE CARD GAME ONE PIECE CARD GAME ONE PIECE CARD GAME ONE PIECE CARD GAME https://www.c-labo-online.jp/page/157"
   },
   {
     "id": "06a94497d2c59ac4",
@@ -1000,12 +1023,12 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%AB%E3%83%BC%E3%83%89%E3%83%AA%E3%82%B9%E3%83%88%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:31+09:00",
+    "detectedAt": "2026-05-14T18:24:35+09:00",
     "flags": [
       "ダイバーズ",
       "ドラゴンボール"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: カードリスト | ドラゴンボールスーパーダイバーズ公式サイト カードリスト カードリスト カードリスト カードリスト https://www.dbsdv.com/cardlist/ ドラゴンボールスーパーダイバーズ /images/common/parts/logo.webp メニュー /images/common/parts/header/sp/btn_menu.webp ログイン /images/common/parts/header/sp/btn_mypage_login.webp X /images/common/parts/icon_x.png youtube /images/com"
+    "memo": "自動検知。日付候補: なし / 判定文脈: カードリスト | ドラゴンボールスーパーダイバーズ公式サイト カードリスト | ドラゴンボールスーパーダイバーズ公式サイト カードリスト カードリスト カードリスト カードリスト https://www.dbsdv.com/cardlist/ ドラゴンボールスーパーダイバーズ /images/common/parts/logo.webp メニュー /images/common/parts/header/sp/btn_menu.webp ログイン /images/common/parts/header/sp/btn_mypage_login.webp X /images/common/parts"
   },
   {
     "id": "1fe83a6add74ba65",
@@ -1019,7 +1042,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E5%A4%A7%E4%BC%9A%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:32+09:00",
+    "detectedAt": "2026-05-14T18:24:35+09:00",
     "flags": [
       "DBSDV",
       "ショップ",
@@ -1028,7 +1051,7 @@
       "発売",
       "限定"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: イベント/大会 | ドラゴンボールスーパーダイバーズ公式サイト イベント/大会 イベント/大会 イベント/大会 イベント/大会 https://www.dbsdv.com/events/ ドラゴンボールスーパーダイバーズ /images/common/parts/logo.webp メニュー /images/common/parts/header/sp/btn_menu.webp ログイン /images/common/parts/header/sp/btn_mypage_login.webp X /images/common/parts/icon_x.png youtube /images/"
+    "memo": "自動検知。日付候補: なし / 判定文脈: イベント/大会 | ドラゴンボールスーパーダイバーズ公式サイト イベント/大会 | ドラゴンボールスーパーダイバーズ公式サイト イベント/大会 イベント/大会 イベント/大会 イベント/大会 https://www.dbsdv.com/events/ ドラゴンボールスーパーダイバーズ /images/common/parts/logo.webp メニュー /images/common/parts/header/sp/btn_menu.webp ログイン /images/common/parts/header/sp/btn_mypage_login.webp X /images/common/p"
   },
   {
     "id": "3abbbd883f1d2c5c",
@@ -1042,14 +1065,14 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%AB%E3%83%BC%E3%83%89%E3%83%80%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%96%20%7C%20%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%20-%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA9%E5%BC%BE%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:35+09:00",
+    "detectedAt": "2026-05-14T18:24:39+09:00",
     "flags": [
       "ダイバーズ",
       "ドラゴンボール",
       "受付",
       "抽選"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: カードダスクラブ | アンケート - ドラゴンボールスーパーダイバーズ9弾 商品アンケート /images/top/footerbnr/bnr_questionnaire.webp?v2 商品アンケート /images/top/footerbnr/bnr_questionnaire.webp?v2 https://join.carddass.com/jp/survey/products/detail/289 カードダスクラブ /images/common/logo_club03.png ドラゴンボールスーパーダイバーズ /images/tit-logo/img_logo-598.png /im"
+    "memo": "自動検知。日付候補: なし / 判定文脈: カードダスクラブ | アンケート - ドラゴンボールスーパーダイバーズ9弾 カードダスクラブ | アンケート - ドラゴンボールスーパーダイバーズ9弾 商品アンケート /images/top/footerbnr/bnr_questionnaire.webp?v2 商品アンケート /images/top/footerbnr/bnr_questionnaire.webp?v2 https://join.carddass.com/jp/survey/products/detail/289 カードダスクラブ /images/common/logo_club03.png ドラゴンボールスーパーダイバーズ"
   },
   {
     "id": "0d9e8086cd7af7cf",
@@ -1063,13 +1086,13 @@
     "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%20%E3%83%86%E3%83%BC%E3%83%9E%E3%82%BD%E3%83%B3%E3%82%B0%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:35+09:00",
+    "detectedAt": "2026-05-14T18:24:40+09:00",
     "flags": [
       "ダイバーズ",
       "ドラゴンボール",
       "発売"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: ドラゴンボールスーパーダイバーズ テーマソング ドラゴンボールスーパーダイバーズ テーマソング 楽曲発売！ /images/top/footerbnr/bnr_dbsdv-themesong.webp?v1 ドラゴンボールスーパーダイバーズ テーマソング 楽曲発売！ /images/top/footerbnr/bnr_dbsdv-themesong.webp?v1 https://dragonballsuperdivers.lnk.to/themesong https://linkstorage.linkfire.com/medialinks/images/5c462fd3-8c62-47a6"
+    "memo": "自動検知。日付候補: なし / 判定文脈: ドラゴンボールスーパーダイバーズ テーマソング ドラゴンボールスーパーダイバーズ テーマソング ドラゴンボールスーパーダイバーズ テーマソング 楽曲発売！ /images/top/footerbnr/bnr_dbsdv-themesong.webp?v1 ドラゴンボールスーパーダイバーズ テーマソング 楽曲発売！ /images/top/footerbnr/bnr_dbsdv-themesong.webp?v1 https://dragonballsuperdivers.lnk.to/themesong https://linkstorage.linkfire.com/medialinks/i"
   },
   {
     "id": "00d211ca16abc88f",
@@ -1083,13 +1106,13 @@
     "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%20%E3%83%95%E3%82%A1%E3%82%A4%E3%83%88%E3%82%BD%E3%83%B3%E3%82%B0%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:35+09:00",
+    "detectedAt": "2026-05-14T18:24:40+09:00",
     "flags": [
       "ダイバーズ",
       "ドラゴンボール",
       "発売"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: ドラゴンボールスーパーダイバーズ ファイトソング ドラゴンボールスーパーダイバーズ ファイトソング 楽曲発売！ /images/top/footerbnr/bnr_dbsdv-fightsong.webp?v1 ドラゴンボールスーパーダイバーズ ファイトソング 楽曲発売！ /images/top/footerbnr/bnr_dbsdv-fightsong.webp?v1 https://dragonballsuperdivers.lnk.to/fightsong https://linkstorage.linkfire.com/medialinks/images/1909374f-c68c-4"
+    "memo": "自動検知。日付候補: なし / 判定文脈: ドラゴンボールスーパーダイバーズ ファイトソング ドラゴンボールスーパーダイバーズ ファイトソング ドラゴンボールスーパーダイバーズ ファイトソング 楽曲発売！ /images/top/footerbnr/bnr_dbsdv-fightsong.webp?v1 ドラゴンボールスーパーダイバーズ ファイトソング 楽曲発売！ /images/top/footerbnr/bnr_dbsdv-fightsong.webp?v1 https://dragonballsuperdivers.lnk.to/fightsong https://linkstorage.linkfire.com/medialin"
   },
   {
     "id": "c7ec594c7e5ca445",
@@ -1103,18 +1126,23 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:43:59+09:00",
+    "detectedAt": "2026-05-14T18:24:01+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
+      "ブースターパック",
+      "型番",
       "発売",
       "限定"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: イベント | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site カード検索 /fw/renewal01/images/common/icon_serch.png カード検索 カード検索 /fw/renewal01/images/common/icon_serch.png カード検索 https://www.dbs-cardgame.com/fw/jp/events/#headerSearchModal /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /"
+    "memo": "自動検知。日付候補: なし / 判定文脈: イベント | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site イベント | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site カード検索 /fw/renewal01/images/common/icon_serch.png カード検索 カード検索 /fw/renewal01/images/common/icon_serch.png カード検索 https://www.dbs-cardgame.com/fw/jp/events/#headerSearchModal /fw/renewal01/ima"
   },
   {
     "id": "144b1dca99de2ef2",
@@ -1128,17 +1156,22 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%AB%E3%83%BC%E3%83%89%E3%83%AA%E3%82%B9%E3%83%88%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:04+09:00",
+    "detectedAt": "2026-05-14T18:24:05+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
+      "ブースターパック",
+      "型番",
       "発売"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: カードリスト | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site カードリスト カードリスト カードリスト カードリスト https://www.dbs-cardgame.com/fw/jp/cardlist/ /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.png /fw/renewal01/images/common/icon_menu.png ドラゴンボールスーパーカー"
+    "memo": "自動検知。日付候補: なし / 判定文脈: カードリスト | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site カードリスト | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site カードリスト カードリスト カードリスト カードリスト https://www.dbs-cardgame.com/fw/jp/cardlist/ /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.p"
   },
   {
     "id": "1139f020b6144ebf",
@@ -1152,113 +1185,142 @@
     "xSearchUrl": "https://x.com/search?q=%E7%B7%8F%E5%90%88%E3%83%AB%E3%83%BC%E3%83%AB%E3%80%81%E3%83%AB%E3%83%BC%E3%83%ABQ%26A%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:05+09:00",
+    "detectedAt": "2026-05-14T18:24:06+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
+      "ブースターパック",
+      "型番",
       "発売"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 総合ルール、ルールQ&A | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site ルール ルール ルール ルール https://www.dbs-cardgame.com/fw/jp/news/01_31.html /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.png /fw/renewal01/images/common/icon_menu.png ドラゴンボールスーパーカー"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 総合ルール、ルールQ&A | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site 総合ルール、ルールQ&A | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site ルール ルール ルール ルール https://www.dbs-cardgame.com/fw/jp/news/01_31.html /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_"
   },
   {
-    "id": "31d242572e354e92",
+    "id": "1a19581e427ff4d7",
     "productId": "68d668204b393e5b",
-    "title": "【発売日】商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
+    "title": "【発売予定】商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
     "productTitle": "商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
-    "eventType": "発売日",
+    "eventType": "発売予定",
     "saleType": "受注",
     "source": "フュージョンワールド イベント",
     "url": "https://www.dbs-cardgame.com/fw/jp/products/",
     "xSearchUrl": "https://x.com/search?q=%E5%95%86%E5%93%81%E6%83%85%E5%A0%B1%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:05+09:00",
+    "detectedAt": "2026-05-14T18:24:07+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
-      "発売"
+      "ブースターパック",
+      "型番",
+      "発売",
+      "発売予定"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site 商品情報 商品情報 商品情報 商品情報 商品情報 商品情報 https://www.dbs-cardgame.com/fw/jp/products/ /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.png /fw/renewal01/images/common/icon_menu.png ドラゴンボールスーパーカー"
+    "memo": "自動検知。日付候補: 2026年秋予定 / 発売時期: 2026年秋予定 / 判定文脈: 3 メーカー希望小売価格 ￥220(税込) STORY BOOSTER 01 [ST01] 発売日 2026.08.08 メーカー希望小売価格 ￥330(税込) ブースターパック BRIGHTNESS OF HOPE [FB11] 発売日 2026年秋予定 メーカー希望小売価格 ￥240(税込) GLOBAL JP | 日本語 JP | 日本語 EN | NA/LatAm/Europe/Oceania EN | English(Asia) TC | 繁體中文 TH | Thai 公式SNS "
   },
   {
-    "id": "a9ee453c0ba88c35",
+    "id": "a3758d90c8c64cee",
     "productId": "05e65d312b0512b4",
-    "title": "【発売日】商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
+    "title": "【発売予定】商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
     "productTitle": "商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
-    "eventType": "発売日",
+    "eventType": "発売予定",
     "saleType": "一般",
     "source": "フュージョンワールド イベント",
     "url": "https://www.dbs-cardgame.com/fw/jp/products/?tags=BoosterPack&page=1#available",
     "xSearchUrl": "https://x.com/search?q=%E5%95%86%E5%93%81%E6%83%85%E5%A0%B1%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:12+09:00",
+    "detectedAt": "2026-05-14T18:24:15+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
-      "発売"
+      "ブースターパック",
+      "型番",
+      "発売",
+      "発売予定"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site すべてのブースターパック すべてのブースターパック すべてのブースターパック すべてのブースターパック https://www.dbs-cardgame.com/fw/jp/products/?tags=BoosterPack&page=1#available /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.png"
+    "memo": "自動検知。日付候補: 2026年秋予定 / 発売時期: 2026年秋予定 / 判定文脈: 3 メーカー希望小売価格 ￥220(税込) STORY BOOSTER 01 [ST01] 発売日 2026.08.08 メーカー希望小売価格 ￥330(税込) ブースターパック BRIGHTNESS OF HOPE [FB11] 発売日 2026年秋予定 メーカー希望小売価格 ￥240(税込) GLOBAL JP | 日本語 JP | 日本語 EN | NA/LatAm/Europe/Oceania EN | English(Asia) TC | 繁體中文 TH | Thai 公式SNS "
   },
   {
-    "id": "237f16d884c2940c",
+    "id": "1ced3488bd2fbc56",
     "productId": "b826cac9a4381811",
-    "title": "【発売日】商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
+    "title": "【発売予定】商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
     "productTitle": "商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
-    "eventType": "発売日",
+    "eventType": "発売予定",
     "saleType": "一般",
     "source": "フュージョンワールド イベント",
     "url": "https://www.dbs-cardgame.com/fw/jp/products/?tags=StarterDecks&page=1#available",
     "xSearchUrl": "https://x.com/search?q=%E5%95%86%E5%93%81%E6%83%85%E5%A0%B1%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:18+09:00",
+    "detectedAt": "2026-05-14T18:24:22+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
-      "発売"
+      "ブースターパック",
+      "型番",
+      "発売",
+      "発売予定"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site すべてのスタートデッキ すべてのスタートデッキ すべてのスタートデッキ すべてのスタートデッキ https://www.dbs-cardgame.com/fw/jp/products/?tags=StarterDecks&page=1#available /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.png /f"
+    "memo": "自動検知。日付候補: 2026年秋予定 / 発売時期: 2026年秋予定 / 判定文脈: 3 メーカー希望小売価格 ￥220(税込) STORY BOOSTER 01 [ST01] 発売日 2026.08.08 メーカー希望小売価格 ￥330(税込) ブースターパック BRIGHTNESS OF HOPE [FB11] 発売日 2026年秋予定 メーカー希望小売価格 ￥240(税込) GLOBAL JP | 日本語 JP | 日本語 EN | NA/LatAm/Europe/Oceania EN | English(Asia) TC | 繁體中文 TH | Thai 公式SNS "
   },
   {
-    "id": "dc3c5ac46b89e9b1",
+    "id": "3109f4186bc3a445",
     "productId": "596c6b5aa82505f2",
-    "title": "【発売日】商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
+    "title": "【発売予定】商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
     "productTitle": "商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
-    "eventType": "発売日",
+    "eventType": "発売予定",
     "saleType": "受注",
     "source": "フュージョンワールド イベント",
     "url": "https://www.dbs-cardgame.com/fw/jp/products/?tags=ACCESSORIES&page=1#available",
     "xSearchUrl": "https://x.com/search?q=%E5%95%86%E5%93%81%E6%83%85%E5%A0%B1%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:23+09:00",
+    "detectedAt": "2026-05-14T18:24:26+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
-      "発売"
+      "ブースターパック",
+      "型番",
+      "発売",
+      "発売予定"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site すべての周辺アイテム すべての周辺アイテム すべての周辺アイテム すべての周辺アイテム https://www.dbs-cardgame.com/fw/jp/products/?tags=ACCESSORIES&page=1#available /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.png /fw/ren"
+    "memo": "自動検知。日付候補: 2026年秋予定 / 発売時期: 2026年秋予定 / 判定文脈: 3 メーカー希望小売価格 ￥220(税込) STORY BOOSTER 01 [ST01] 発売日 2026.08.08 メーカー希望小売価格 ￥330(税込) ブースターパック BRIGHTNESS OF HOPE [FB11] 発売日 2026年秋予定 メーカー希望小売価格 ￥240(税込) GLOBAL JP | 日本語 JP | 日本語 EN | NA/LatAm/Europe/Oceania EN | English(Asia) TC | 繁體中文 TH | Thai 公式SNS "
   },
   {
     "id": "0ad5380c801c2397",
@@ -1272,18 +1334,23 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:24+09:00",
+    "detectedAt": "2026-05-14T18:24:27+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
+      "ブースターパック",
+      "型番",
       "発売",
       "限定"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: イベント | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site イベント イベント イベント イベント イベント イベント https://www.dbs-cardgame.com/fw/jp/events/ /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.png /fw/renewal01/images/common/icon_menu.png ドラゴンボールスーパーカードゲ"
+    "memo": "自動検知。日付候補: なし / 判定文脈: イベント | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site イベント | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site イベント イベント イベント イベント イベント イベント https://www.dbs-cardgame.com/fw/jp/events/ /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.png /"
   },
   {
     "id": "3a1920820ac9b144",
@@ -1297,18 +1364,23 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:25+09:00",
+    "detectedAt": "2026-05-14T18:24:28+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
+      "ブースターパック",
+      "型番",
       "発売",
       "限定"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: イベント | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site 交流会 交流会 交流会 交流会 https://www.dbs-cardgame.com/fw/jp/events/?tags=MEETUPEVENT&page=1 /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.png /fw/renewal01/images/common/icon_menu.png ドラゴンボ"
+    "memo": "自動検知。日付候補: なし / 判定文脈: イベント | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site イベント | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site 交流会 交流会 交流会 交流会 https://www.dbs-cardgame.com/fw/jp/events/?tags=MEETUPEVENT&page=1 /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_"
   },
   {
     "id": "fa4368c10b9b24a1",
@@ -1322,42 +1394,53 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:26+09:00",
+    "detectedAt": "2026-05-14T18:24:29+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
+      "ブースターパック",
+      "型番",
       "発売",
       "限定"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: イベント | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site ショップバトル ショップバトル ショップバトル ショップバトル https://www.dbs-cardgame.com/fw/jp/events/?tags=StoreEvent&page=1 /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.png /fw/renewal01/images/common/icon"
+    "memo": "自動検知。日付候補: なし / 判定文脈: イベント | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site イベント | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site ショップバトル ショップバトル ショップバトル ショップバトル https://www.dbs-cardgame.com/fw/jp/events/?tags=StoreEvent&page=1 /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/imag"
   },
   {
-    "id": "87b562feac0bea64",
+    "id": "e7b900bcb68231ce",
     "productId": "b5ae85ea0c7512f5",
-    "title": "【発売日】商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
+    "title": "【発売予定】商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
     "productTitle": "商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
-    "eventType": "発売日",
+    "eventType": "発売予定",
     "saleType": "受注",
     "source": "フュージョンワールド 商品情報",
     "url": "https://www.dbs-cardgame.com/fw/jp/products/#headerSearchModal",
     "xSearchUrl": "https://x.com/search?q=%E5%95%86%E5%93%81%E6%83%85%E5%A0%B1%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:43:27+09:00",
+    "detectedAt": "2026-05-14T18:23:27+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
-      "発売"
+      "ブースターパック",
+      "型番",
+      "発売",
+      "発売予定"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site カード検索 /fw/renewal01/images/common/icon_serch.png カード検索 カード検索 /fw/renewal01/images/common/icon_serch.png カード検索 https://www.dbs-cardgame.com/fw/jp/products/#headerSearchModal /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド"
+    "memo": "自動検知。日付候補: 2026年秋予定 / 発売時期: 2026年秋予定 / 判定文脈: 3 メーカー希望小売価格 ￥220(税込) STORY BOOSTER 01 [ST01] 発売日 2026.08.08 メーカー希望小売価格 ￥330(税込) ブースターパック BRIGHTNESS OF HOPE [FB11] 発売日 2026年秋予定 メーカー希望小売価格 ￥240(税込) GLOBAL JP | 日本語 JP | 日本語 EN | NA/LatAm/Europe/Oceania EN | English(Asia) TC | 繁體中文 TH | Thai 公式SNS "
   },
   {
     "id": "94f35933dfbfe35a",
@@ -1371,17 +1454,22 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%AB%E3%83%BC%E3%83%89%E3%83%AA%E3%82%B9%E3%83%88%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:43:31+09:00",
+    "detectedAt": "2026-05-14T18:23:31+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
+      "ブースターパック",
+      "型番",
       "発売"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: カードリスト | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site カードリスト カードリスト カードリスト カードリスト https://www.dbs-cardgame.com/fw/jp/cardlist/ /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.png /fw/renewal01/images/common/icon_menu.png ドラゴンボールスーパーカー"
+    "memo": "自動検知。日付候補: なし / 判定文脈: カードリスト | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site カードリスト | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site カードリスト カードリスト カードリスト カードリスト https://www.dbs-cardgame.com/fw/jp/cardlist/ /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.p"
   },
   {
     "id": "b7a480d2bf49427a",
@@ -1395,113 +1483,142 @@
     "xSearchUrl": "https://x.com/search?q=%E7%B7%8F%E5%90%88%E3%83%AB%E3%83%BC%E3%83%AB%E3%80%81%E3%83%AB%E3%83%BC%E3%83%ABQ%26A%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:43:32+09:00",
+    "detectedAt": "2026-05-14T18:23:32+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
+      "ブースターパック",
+      "型番",
       "発売"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 総合ルール、ルールQ&A | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site ルール ルール ルール ルール https://www.dbs-cardgame.com/fw/jp/news/01_31.html /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.png /fw/renewal01/images/common/icon_menu.png ドラゴンボールスーパーカー"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 総合ルール、ルールQ&A | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site 総合ルール、ルールQ&A | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site ルール ルール ルール ルール https://www.dbs-cardgame.com/fw/jp/news/01_31.html /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_"
   },
   {
-    "id": "cc5fb5bcc8cc73ff",
+    "id": "e99d2b06fda7f27f",
     "productId": "0b370583f6c6b242",
-    "title": "【発売日】商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
+    "title": "【発売予定】商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
     "productTitle": "商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
-    "eventType": "発売日",
+    "eventType": "発売予定",
     "saleType": "受注",
     "source": "フュージョンワールド 商品情報",
     "url": "https://www.dbs-cardgame.com/fw/jp/products/",
     "xSearchUrl": "https://x.com/search?q=%E5%95%86%E5%93%81%E6%83%85%E5%A0%B1%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:43:33+09:00",
+    "detectedAt": "2026-05-14T18:23:33+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
-      "発売"
+      "ブースターパック",
+      "型番",
+      "発売",
+      "発売予定"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site 商品情報 商品情報 商品情報 商品情報 商品情報 商品情報 https://www.dbs-cardgame.com/fw/jp/products/ /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.png /fw/renewal01/images/common/icon_menu.png ドラゴンボールスーパーカー"
+    "memo": "自動検知。日付候補: 2026年秋予定 / 発売時期: 2026年秋予定 / 判定文脈: 3 メーカー希望小売価格 ￥220(税込) STORY BOOSTER 01 [ST01] 発売日 2026.08.08 メーカー希望小売価格 ￥330(税込) ブースターパック BRIGHTNESS OF HOPE [FB11] 発売日 2026年秋予定 メーカー希望小売価格 ￥240(税込) GLOBAL JP | 日本語 JP | 日本語 EN | NA/LatAm/Europe/Oceania EN | English(Asia) TC | 繁體中文 TH | Thai 公式SNS "
   },
   {
-    "id": "11ef0964da756857",
+    "id": "012b77efbc2438a5",
     "productId": "dd1a7b20d3c662fc",
-    "title": "【発売日】商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
+    "title": "【発売予定】商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
     "productTitle": "商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
-    "eventType": "発売日",
+    "eventType": "発売予定",
     "saleType": "一般",
     "source": "フュージョンワールド 商品情報",
     "url": "https://www.dbs-cardgame.com/fw/jp/products/?tags=BoosterPack&page=1#available",
     "xSearchUrl": "https://x.com/search?q=%E5%95%86%E5%93%81%E6%83%85%E5%A0%B1%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:43:39+09:00",
+    "detectedAt": "2026-05-14T18:23:40+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
-      "発売"
+      "ブースターパック",
+      "型番",
+      "発売",
+      "発売予定"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site すべてのブースターパック すべてのブースターパック すべてのブースターパック すべてのブースターパック https://www.dbs-cardgame.com/fw/jp/products/?tags=BoosterPack&page=1#available /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.png"
+    "memo": "自動検知。日付候補: 2026年秋予定 / 発売時期: 2026年秋予定 / 判定文脈: 3 メーカー希望小売価格 ￥220(税込) STORY BOOSTER 01 [ST01] 発売日 2026.08.08 メーカー希望小売価格 ￥330(税込) ブースターパック BRIGHTNESS OF HOPE [FB11] 発売日 2026年秋予定 メーカー希望小売価格 ￥240(税込) GLOBAL JP | 日本語 JP | 日本語 EN | NA/LatAm/Europe/Oceania EN | English(Asia) TC | 繁體中文 TH | Thai 公式SNS "
   },
   {
-    "id": "77621058c42d4741",
+    "id": "058541be91616c7f",
     "productId": "70d3b737fb98de8a",
-    "title": "【発売日】商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
+    "title": "【発売予定】商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
     "productTitle": "商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
-    "eventType": "発売日",
+    "eventType": "発売予定",
     "saleType": "一般",
     "source": "フュージョンワールド 商品情報",
     "url": "https://www.dbs-cardgame.com/fw/jp/products/?tags=StarterDecks&page=1#available",
     "xSearchUrl": "https://x.com/search?q=%E5%95%86%E5%93%81%E6%83%85%E5%A0%B1%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:43:46+09:00",
+    "detectedAt": "2026-05-14T18:23:47+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
-      "発売"
+      "ブースターパック",
+      "型番",
+      "発売",
+      "発売予定"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site すべてのスタートデッキ すべてのスタートデッキ すべてのスタートデッキ すべてのスタートデッキ https://www.dbs-cardgame.com/fw/jp/products/?tags=StarterDecks&page=1#available /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.png /f"
+    "memo": "自動検知。日付候補: 2026年秋予定 / 発売時期: 2026年秋予定 / 判定文脈: 3 メーカー希望小売価格 ￥220(税込) STORY BOOSTER 01 [ST01] 発売日 2026.08.08 メーカー希望小売価格 ￥330(税込) ブースターパック BRIGHTNESS OF HOPE [FB11] 発売日 2026年秋予定 メーカー希望小売価格 ￥240(税込) GLOBAL JP | 日本語 JP | 日本語 EN | NA/LatAm/Europe/Oceania EN | English(Asia) TC | 繁體中文 TH | Thai 公式SNS "
   },
   {
-    "id": "e1f8d250fd41bbd5",
+    "id": "e7c79a71bb1f0f23",
     "productId": "a6ce940252effbd8",
-    "title": "【発売日】商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
+    "title": "【発売予定】商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
     "productTitle": "商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
-    "eventType": "発売日",
+    "eventType": "発売予定",
     "saleType": "受注",
     "source": "フュージョンワールド 商品情報",
     "url": "https://www.dbs-cardgame.com/fw/jp/products/?tags=ACCESSORIES&page=1#available",
     "xSearchUrl": "https://x.com/search?q=%E5%95%86%E5%93%81%E6%83%85%E5%A0%B1%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:43:50+09:00",
+    "detectedAt": "2026-05-14T18:23:52+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
-      "発売"
+      "ブースターパック",
+      "型番",
+      "発売",
+      "発売予定"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site すべての周辺アイテム すべての周辺アイテム すべての周辺アイテム すべての周辺アイテム https://www.dbs-cardgame.com/fw/jp/products/?tags=ACCESSORIES&page=1#available /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.png /fw/ren"
+    "memo": "自動検知。日付候補: 2026年秋予定 / 発売時期: 2026年秋予定 / 判定文脈: 3 メーカー希望小売価格 ￥220(税込) STORY BOOSTER 01 [ST01] 発売日 2026.08.08 メーカー希望小売価格 ￥330(税込) ブースターパック BRIGHTNESS OF HOPE [FB11] 発売日 2026年秋予定 メーカー希望小売価格 ￥240(税込) GLOBAL JP | 日本語 JP | 日本語 EN | NA/LatAm/Europe/Oceania EN | English(Asia) TC | 繁體中文 TH | Thai 公式SNS "
   },
   {
     "id": "9ae11000afbf9d01",
@@ -1515,18 +1632,23 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:43:51+09:00",
+    "detectedAt": "2026-05-14T18:23:52+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
+      "ブースターパック",
+      "型番",
       "発売",
       "限定"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: イベント | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site イベント イベント イベント イベント イベント イベント https://www.dbs-cardgame.com/fw/jp/events/ /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.png /fw/renewal01/images/common/icon_menu.png ドラゴンボールスーパーカードゲ"
+    "memo": "自動検知。日付候補: なし / 判定文脈: イベント | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site イベント | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site イベント イベント イベント イベント イベント イベント https://www.dbs-cardgame.com/fw/jp/events/ /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.png /"
   },
   {
     "id": "3b6a640482bf0c9a",
@@ -1540,18 +1662,23 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:43:52+09:00",
+    "detectedAt": "2026-05-14T18:23:53+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
+      "ブースターパック",
+      "型番",
       "発売",
       "限定"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: イベント | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site 交流会 交流会 交流会 交流会 https://www.dbs-cardgame.com/fw/jp/events/?tags=MEETUPEVENT&page=1 /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.png /fw/renewal01/images/common/icon_menu.png ドラゴンボ"
+    "memo": "自動検知。日付候補: なし / 判定文脈: イベント | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site イベント | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site 交流会 交流会 交流会 交流会 https://www.dbs-cardgame.com/fw/jp/events/?tags=MEETUPEVENT&page=1 /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_"
   },
   {
     "id": "afef3701707d56e3",
@@ -1565,18 +1692,23 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:43:53+09:00",
+    "detectedAt": "2026-05-14T18:23:54+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
+      "ブースターパック",
+      "型番",
       "発売",
       "限定"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: イベント | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site ショップバトル ショップバトル ショップバトル ショップバトル https://www.dbs-cardgame.com/fw/jp/events/?tags=StoreEvent&page=1 /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.png /fw/renewal01/images/common/icon"
+    "memo": "自動検知。日付候補: なし / 判定文脈: イベント | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site イベント | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site ショップバトル ショップバトル ショップバトル ショップバトル https://www.dbs-cardgame.com/fw/jp/events/?tags=StoreEvent&page=1 /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/imag"
   },
   {
     "id": "2b308945aefaadff",
@@ -1590,17 +1722,22 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%AB%E3%83%BC%E3%83%89%E3%83%AA%E3%82%B9%E3%83%88%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:42:56+09:00",
+    "detectedAt": "2026-05-14T18:22:55+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
+      "ブースターパック",
+      "型番",
       "発売"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: カードリスト | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site カードリスト カードリスト カードリスト カードリスト https://www.dbs-cardgame.com/fw/jp/cardlist/ /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.png /fw/renewal01/images/common/icon_menu.png ドラゴンボールスーパーカー"
+    "memo": "自動検知。日付候補: なし / 判定文脈: カードリスト | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site カードリスト | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site カードリスト カードリスト カードリスト カードリスト https://www.dbs-cardgame.com/fw/jp/cardlist/ /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.p"
   },
   {
     "id": "f5b4ae2031f8ddff",
@@ -1614,113 +1751,142 @@
     "xSearchUrl": "https://x.com/search?q=%E7%B7%8F%E5%90%88%E3%83%AB%E3%83%BC%E3%83%AB%E3%80%81%E3%83%AB%E3%83%BC%E3%83%ABQ%26A%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:42:57+09:00",
+    "detectedAt": "2026-05-14T18:22:57+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
+      "ブースターパック",
+      "型番",
       "発売"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 総合ルール、ルールQ&A | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site ルール ルール ルール ルール https://www.dbs-cardgame.com/fw/jp/news/01_31.html /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.png /fw/renewal01/images/common/icon_menu.png ドラゴンボールスーパーカー"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 総合ルール、ルールQ&A | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site 総合ルール、ルールQ&A | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site ルール ルール ルール ルール https://www.dbs-cardgame.com/fw/jp/news/01_31.html /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_"
   },
   {
-    "id": "77b12ec453417e6b",
+    "id": "eae19115ca4a7721",
     "productId": "99eca1905de24447",
-    "title": "【発売日】商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
+    "title": "【発売予定】商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
     "productTitle": "商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
-    "eventType": "発売日",
+    "eventType": "発売予定",
     "saleType": "受注",
     "source": "フュージョンワールド公式トップ",
     "url": "https://www.dbs-cardgame.com/fw/jp/products/",
     "xSearchUrl": "https://x.com/search?q=%E5%95%86%E5%93%81%E6%83%85%E5%A0%B1%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:42:58+09:00",
+    "detectedAt": "2026-05-14T18:22:58+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
-      "発売"
+      "ブースターパック",
+      "型番",
+      "発売",
+      "発売予定"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site 商品情報 商品情報 商品情報 商品情報 商品情報 商品情報 https://www.dbs-cardgame.com/fw/jp/products/ /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.png /fw/renewal01/images/common/icon_menu.png ドラゴンボールスーパーカー"
+    "memo": "自動検知。日付候補: 2026年秋予定 / 発売時期: 2026年秋予定 / 判定文脈: 3 メーカー希望小売価格 ￥220(税込) STORY BOOSTER 01 [ST01] 発売日 2026.08.08 メーカー希望小売価格 ￥330(税込) ブースターパック BRIGHTNESS OF HOPE [FB11] 発売日 2026年秋予定 メーカー希望小売価格 ￥240(税込) GLOBAL JP | 日本語 JP | 日本語 EN | NA/LatAm/Europe/Oceania EN | English(Asia) TC | 繁體中文 TH | Thai 公式SNS "
   },
   {
-    "id": "96f30051df81a499",
+    "id": "7f4ca3fe62fac2f2",
     "productId": "75c3e79b5a0b155c",
-    "title": "【発売日】商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
+    "title": "【発売予定】商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
     "productTitle": "商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
-    "eventType": "発売日",
+    "eventType": "発売予定",
     "saleType": "一般",
     "source": "フュージョンワールド公式トップ",
     "url": "https://www.dbs-cardgame.com/fw/jp/products/?tags=BoosterPack&page=1#available",
     "xSearchUrl": "https://x.com/search?q=%E5%95%86%E5%93%81%E6%83%85%E5%A0%B1%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:43:06+09:00",
+    "detectedAt": "2026-05-14T18:23:05+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
-      "発売"
+      "ブースターパック",
+      "型番",
+      "発売",
+      "発売予定"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site すべてのブースターパック すべてのブースターパック すべてのブースターパック すべてのブースターパック https://www.dbs-cardgame.com/fw/jp/products/?tags=BoosterPack&page=1#available /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.png"
+    "memo": "自動検知。日付候補: 2026年秋予定 / 発売時期: 2026年秋予定 / 判定文脈: 3 メーカー希望小売価格 ￥220(税込) STORY BOOSTER 01 [ST01] 発売日 2026.08.08 メーカー希望小売価格 ￥330(税込) ブースターパック BRIGHTNESS OF HOPE [FB11] 発売日 2026年秋予定 メーカー希望小売価格 ￥240(税込) GLOBAL JP | 日本語 JP | 日本語 EN | NA/LatAm/Europe/Oceania EN | English(Asia) TC | 繁體中文 TH | Thai 公式SNS "
   },
   {
-    "id": "bc1a79fe3669065b",
+    "id": "0a54d34c89abbe3c",
     "productId": "3feab501c077befa",
-    "title": "【発売日】商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
+    "title": "【発売予定】商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
     "productTitle": "商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
-    "eventType": "発売日",
+    "eventType": "発売予定",
     "saleType": "一般",
     "source": "フュージョンワールド公式トップ",
     "url": "https://www.dbs-cardgame.com/fw/jp/products/?tags=StarterDecks&page=1#available",
     "xSearchUrl": "https://x.com/search?q=%E5%95%86%E5%93%81%E6%83%85%E5%A0%B1%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:43:12+09:00",
+    "detectedAt": "2026-05-14T18:23:12+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
-      "発売"
+      "ブースターパック",
+      "型番",
+      "発売",
+      "発売予定"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site すべてのスタートデッキ すべてのスタートデッキ すべてのスタートデッキ すべてのスタートデッキ https://www.dbs-cardgame.com/fw/jp/products/?tags=StarterDecks&page=1#available /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.png /f"
+    "memo": "自動検知。日付候補: 2026年秋予定 / 発売時期: 2026年秋予定 / 判定文脈: 3 メーカー希望小売価格 ￥220(税込) STORY BOOSTER 01 [ST01] 発売日 2026.08.08 メーカー希望小売価格 ￥330(税込) ブースターパック BRIGHTNESS OF HOPE [FB11] 発売日 2026年秋予定 メーカー希望小売価格 ￥240(税込) GLOBAL JP | 日本語 JP | 日本語 EN | NA/LatAm/Europe/Oceania EN | English(Asia) TC | 繁體中文 TH | Thai 公式SNS "
   },
   {
-    "id": "bae1d94e202a8f70",
+    "id": "9df073c86e4fb200",
     "productId": "9ea91490928abbb8",
-    "title": "【発売日】商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
+    "title": "【発売予定】商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
     "productTitle": "商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site",
-    "eventType": "発売日",
+    "eventType": "発売予定",
     "saleType": "受注",
     "source": "フュージョンワールド公式トップ",
     "url": "https://www.dbs-cardgame.com/fw/jp/products/?tags=ACCESSORIES&page=1#available",
     "xSearchUrl": "https://x.com/search?q=%E5%95%86%E5%93%81%E6%83%85%E5%A0%B1%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:43:16+09:00",
+    "detectedAt": "2026-05-14T18:23:16+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
-      "発売"
+      "ブースターパック",
+      "型番",
+      "発売",
+      "発売予定"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 商品情報 | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site すべての周辺アイテム すべての周辺アイテム すべての周辺アイテム すべての周辺アイテム https://www.dbs-cardgame.com/fw/jp/products/?tags=ACCESSORIES&page=1#available /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.png /fw/ren"
+    "memo": "自動検知。日付候補: 2026年秋予定 / 発売時期: 2026年秋予定 / 判定文脈: 3 メーカー希望小売価格 ￥220(税込) STORY BOOSTER 01 [ST01] 発売日 2026.08.08 メーカー希望小売価格 ￥330(税込) ブースターパック BRIGHTNESS OF HOPE [FB11] 発売日 2026年秋予定 メーカー希望小売価格 ￥240(税込) GLOBAL JP | 日本語 JP | 日本語 EN | NA/LatAm/Europe/Oceania EN | English(Asia) TC | 繁體中文 TH | Thai 公式SNS "
   },
   {
     "id": "5e7c108975066748",
@@ -1734,18 +1900,23 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:43:18+09:00",
+    "detectedAt": "2026-05-14T18:23:17+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
+      "ブースターパック",
+      "型番",
       "発売",
       "限定"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: イベント | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site イベント イベント イベント イベント イベント イベント https://www.dbs-cardgame.com/fw/jp/events/ /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.png /fw/renewal01/images/common/icon_menu.png ドラゴンボールスーパーカードゲ"
+    "memo": "自動検知。日付候補: なし / 判定文脈: イベント | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site イベント | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site イベント イベント イベント イベント イベント イベント https://www.dbs-cardgame.com/fw/jp/events/ /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.png /"
   },
   {
     "id": "96fb4c35071476b9",
@@ -1759,18 +1930,23 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:43:19+09:00",
+    "detectedAt": "2026-05-14T18:23:18+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
+      "ブースターパック",
+      "型番",
       "発売",
       "限定"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: イベント | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site 交流会 交流会 交流会 交流会 https://www.dbs-cardgame.com/fw/jp/events/?tags=MEETUPEVENT&page=1 /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.png /fw/renewal01/images/common/icon_menu.png ドラゴンボ"
+    "memo": "自動検知。日付候補: なし / 判定文脈: イベント | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site イベント | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site 交流会 交流会 交流会 交流会 https://www.dbs-cardgame.com/fw/jp/events/?tags=MEETUPEVENT&page=1 /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_"
   },
   {
     "id": "58f766e6ae859529",
@@ -1784,18 +1960,23 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:43:20+09:00",
+    "detectedAt": "2026-05-14T18:23:19+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
+      "ブースターパック",
+      "型番",
       "発売",
       "限定"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: イベント | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site ショップバトル ショップバトル ショップバトル ショップバトル https://www.dbs-cardgame.com/fw/jp/events/?tags=StoreEvent&page=1 /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.png /fw/renewal01/images/common/icon"
+    "memo": "自動検知。日付候補: なし / 判定文脈: イベント | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site イベント | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site ショップバトル ショップバトル ショップバトル ショップバトル https://www.dbs-cardgame.com/fw/jp/events/?tags=StoreEvent&page=1 /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/imag"
   },
   {
     "id": "25574db89c31d8ad",
@@ -1809,17 +1990,22 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:43:21+09:00",
+    "detectedAt": "2026-05-14T18:23:20+09:00",
     "flags": [
+      "BOOSTER",
       "CARD GAME",
       "DRAGON BALL",
+      "STORY BOOSTER",
       "ショップ",
+      "スタートデッキ",
       "ドラゴンボール",
+      "パック",
       "フュージョンワールド",
-      "ブースター",
+      "ブースターパック",
+      "型番",
       "発売"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: イベント | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site アルティメットバトル アルティメットバトル アルティメットバトル アルティメットバトル https://www.dbs-cardgame.com/fw/jp/events/?tags=UltimateBattle&page=1 /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /fw/renewal01/images/common/logo_fw_w.png /fw/renewal01/im"
+    "memo": "自動検知。日付候補: なし / 判定文脈: イベント | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site イベント | ドラゴンボールスーパーカードゲーム フュージョンワールド - Official Web Site アルティメットバトル アルティメットバトル アルティメットバトル アルティメットバトル https://www.dbs-cardgame.com/fw/jp/events/?tags=UltimateBattle&page=1 /fw/renewal01/images/common/icon_serch.png ドラゴンボールスーパーカードゲーム フュージョンワールド /f"
   },
   {
     "id": "1df0a5d84598646e",
@@ -1833,12 +2019,12 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-calendar.svg%20%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:54+09:00",
+    "detectedAt": "2026-05-14T18:25:03+09:00",
     "flags": [
-      "予約",
-      "ショップ"
+      "ショップ",
+      "予約"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る https://www.1999.co.jp/more/reserve/figure"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る 予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る https://www.1999.co.jp/more/reserve/figure"
   },
   {
     "id": "b5d631924ea33863",
@@ -1852,13 +2038,32 @@
     "xSearchUrl": "https://x.com/search?q=%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-restock.svg%20%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:54+09:00",
+    "detectedAt": "2026-05-14T18:25:03+09:00",
     "flags": [
+      "ショップ",
       "入荷",
-      "再入荷",
+      "再入荷"
+    ],
+    "memo": "自動検知。日付候補: なし / 判定文脈: 再入荷品 を見る /images/parts/icon-goods-restock.svg 再入荷品 を見る 再入荷品 を見る /images/parts/icon-goods-restock.svg 再入荷品 を見る https://www.1999.co.jp/more/restock/figure"
+  },
+  {
+    "id": "7e6ddfb8a377ea41",
+    "productId": "0ee3151096313e89",
+    "title": "【ショップ要確認】その他 トレーディングフィギュア(BOX・食玩) その他 トレーディングフィギュア(BOX・食玩)",
+    "productTitle": "その他 トレーディングフィギュア(BOX・食玩) その他 トレーディングフィギュア(BOX・食玩)",
+    "eventType": "ショップ要確認",
+    "saleType": "要確認",
+    "source": "ホビーサーチ DBFW",
+    "url": "https://www.1999.co.jp/mlist/297/7/1",
+    "xSearchUrl": "https://x.com/search?q=%E3%81%9D%E3%81%AE%E4%BB%96%20%E3%83%88%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%28BOX%E3%83%BB%E9%A3%9F%E7%8E%A9%29%20%E3%81%9D%E3%81%AE%E4%BB%96%20%E3%83%88%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%28BOX%E3%83%BB%E9%A3%9F%E7%8E%A9%29%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
+    "date": null,
+    "startAt": null,
+    "detectedAt": "2026-05-14T18:25:03+09:00",
+    "flags": [
+      "BOX",
       "ショップ"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 再入荷品 を見る /images/parts/icon-goods-restock.svg 再入荷品 を見る https://www.1999.co.jp/more/restock/figure"
+    "memo": "自動検知。日付候補: なし / 判定文脈: その他 トレーディングフィギュア(BOX・食玩) その他 トレーディングフィギュア(BOX・食玩) その他 トレーディングフィギュア(BOX・食玩) その他 トレーディングフィギュア(BOX・食玩) https://www.1999.co.jp/mlist/297/7/1"
   },
   {
     "id": "145fbda17b1e8aa6",
@@ -1872,12 +2077,12 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-calendar.svg%20%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:54+09:00",
+    "detectedAt": "2026-05-14T18:25:03+09:00",
     "flags": [
-      "予約",
-      "ショップ"
+      "ショップ",
+      "予約"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る https://www.1999.co.jp/more/reserve/mecha"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る 予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る https://www.1999.co.jp/more/reserve/mecha"
   },
   {
     "id": "051d1d62b5fe8bdd",
@@ -1891,32 +2096,13 @@
     "xSearchUrl": "https://x.com/search?q=%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-restock.svg%20%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:54+09:00",
+    "detectedAt": "2026-05-14T18:25:03+09:00",
     "flags": [
+      "ショップ",
       "入荷",
-      "再入荷",
-      "ショップ"
+      "再入荷"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 再入荷品 を見る /images/parts/icon-goods-restock.svg 再入荷品 を見る https://www.1999.co.jp/more/restock/mecha"
-  },
-  {
-    "id": "acd15f007a8fae46",
-    "productId": "1195e09cb0789172",
-    "title": "【ショップ予約要確認】予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る",
-    "productTitle": "予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る",
-    "eventType": "ショップ予約要確認",
-    "saleType": "予約",
-    "source": "ホビーサーチ DBFW",
-    "url": "https://www.1999.co.jp/more/reserve/gundam",
-    "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-calendar.svg%20%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
-    "date": null,
-    "startAt": null,
-    "detectedAt": "2026-05-14T17:44:54+09:00",
-    "flags": [
-      "予約",
-      "ショップ"
-    ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る https://www.1999.co.jp/more/reserve/gundam"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 再入荷品 を見る /images/parts/icon-goods-restock.svg 再入荷品 を見る 再入荷品 を見る /images/parts/icon-goods-restock.svg 再入荷品 を見る https://www.1999.co.jp/more/restock/mecha"
   },
   {
     "id": "c0dd531d8f8c4a2f",
@@ -1930,12 +2116,12 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-calendar.svg%20%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:54+09:00",
+    "detectedAt": "2026-05-14T18:25:03+09:00",
     "flags": [
-      "予約",
-      "ショップ"
+      "ショップ",
+      "予約"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る https://www.1999.co.jp/more/reserve/figure"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る 予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る https://www.1999.co.jp/more/reserve/figure"
   },
   {
     "id": "a4920df67524c727",
@@ -1949,13 +2135,32 @@
     "xSearchUrl": "https://x.com/search?q=%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-restock.svg%20%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:54+09:00",
+    "detectedAt": "2026-05-14T18:25:03+09:00",
     "flags": [
+      "ショップ",
       "入荷",
-      "再入荷",
+      "再入荷"
+    ],
+    "memo": "自動検知。日付候補: なし / 判定文脈: 再入荷品 を見る /images/parts/icon-goods-restock.svg 再入荷品 を見る 再入荷品 を見る /images/parts/icon-goods-restock.svg 再入荷品 を見る https://www.1999.co.jp/more/restock/figure"
+  },
+  {
+    "id": "b05b220abe8e9427",
+    "productId": "0c3540175145a10c",
+    "title": "【ショップ要確認】その他 トレーディングフィギュア(BOX・食玩) その他 トレーディングフィギュア(BOX・食玩)",
+    "productTitle": "その他 トレーディングフィギュア(BOX・食玩) その他 トレーディングフィギュア(BOX・食玩)",
+    "eventType": "ショップ要確認",
+    "saleType": "要確認",
+    "source": "ホビーサーチ ドラゴンボール フュージョンワールド",
+    "url": "https://www.1999.co.jp/mlist/297/7/1",
+    "xSearchUrl": "https://x.com/search?q=%E3%81%9D%E3%81%AE%E4%BB%96%20%E3%83%88%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%28BOX%E3%83%BB%E9%A3%9F%E7%8E%A9%29%20%E3%81%9D%E3%81%AE%E4%BB%96%20%E3%83%88%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%28BOX%E3%83%BB%E9%A3%9F%E7%8E%A9%29%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
+    "date": null,
+    "startAt": null,
+    "detectedAt": "2026-05-14T18:25:03+09:00",
+    "flags": [
+      "BOX",
       "ショップ"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 再入荷品 を見る /images/parts/icon-goods-restock.svg 再入荷品 を見る https://www.1999.co.jp/more/restock/figure"
+    "memo": "自動検知。日付候補: なし / 判定文脈: その他 トレーディングフィギュア(BOX・食玩) その他 トレーディングフィギュア(BOX・食玩) その他 トレーディングフィギュア(BOX・食玩) その他 トレーディングフィギュア(BOX・食玩) https://www.1999.co.jp/mlist/297/7/1"
   },
   {
     "id": "60f381228830baff",
@@ -1969,12 +2174,12 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-calendar.svg%20%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:54+09:00",
+    "detectedAt": "2026-05-14T18:25:03+09:00",
     "flags": [
-      "予約",
-      "ショップ"
+      "ショップ",
+      "予約"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る https://www.1999.co.jp/more/reserve/mecha"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る 予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る https://www.1999.co.jp/more/reserve/mecha"
   },
   {
     "id": "71213f46d63548f0",
@@ -1988,32 +2193,13 @@
     "xSearchUrl": "https://x.com/search?q=%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-restock.svg%20%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:54+09:00",
+    "detectedAt": "2026-05-14T18:25:03+09:00",
     "flags": [
+      "ショップ",
       "入荷",
-      "再入荷",
-      "ショップ"
+      "再入荷"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 再入荷品 を見る /images/parts/icon-goods-restock.svg 再入荷品 を見る https://www.1999.co.jp/more/restock/mecha"
-  },
-  {
-    "id": "5e44a7fa2701d2c7",
-    "productId": "48d400b53c88842d",
-    "title": "【ショップ予約要確認】予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る",
-    "productTitle": "予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る",
-    "eventType": "ショップ予約要確認",
-    "saleType": "予約",
-    "source": "ホビーサーチ ドラゴンボール フュージョンワールド",
-    "url": "https://www.1999.co.jp/more/reserve/gundam",
-    "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-calendar.svg%20%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
-    "date": null,
-    "startAt": null,
-    "detectedAt": "2026-05-14T17:44:54+09:00",
-    "flags": [
-      "予約",
-      "ショップ"
-    ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る https://www.1999.co.jp/more/reserve/gundam"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 再入荷品 を見る /images/parts/icon-goods-restock.svg 再入荷品 を見る 再入荷品 を見る /images/parts/icon-goods-restock.svg 再入荷品 を見る https://www.1999.co.jp/more/restock/mecha"
   },
   {
     "id": "f6fde172af3bf459",
@@ -2027,12 +2213,12 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-calendar.svg%20%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:53+09:00",
+    "detectedAt": "2026-05-14T18:25:03+09:00",
     "flags": [
-      "予約",
-      "ショップ"
+      "ショップ",
+      "予約"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る https://www.1999.co.jp/more/reserve/figure"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る 予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る https://www.1999.co.jp/more/reserve/figure"
   },
   {
     "id": "b8522430a7ec81db",
@@ -2046,13 +2232,32 @@
     "xSearchUrl": "https://x.com/search?q=%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-restock.svg%20%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:53+09:00",
+    "detectedAt": "2026-05-14T18:25:03+09:00",
     "flags": [
+      "ショップ",
       "入荷",
-      "再入荷",
+      "再入荷"
+    ],
+    "memo": "自動検知。日付候補: なし / 判定文脈: 再入荷品 を見る /images/parts/icon-goods-restock.svg 再入荷品 を見る 再入荷品 を見る /images/parts/icon-goods-restock.svg 再入荷品 を見る https://www.1999.co.jp/more/restock/figure"
+  },
+  {
+    "id": "38a421a4406e50d8",
+    "productId": "ea92f7212eac1dbd",
+    "title": "【ショップ要確認】その他 トレーディングフィギュア(BOX・食玩) その他 トレーディングフィギュア(BOX・食玩)",
+    "productTitle": "その他 トレーディングフィギュア(BOX・食玩) その他 トレーディングフィギュア(BOX・食玩)",
+    "eventType": "ショップ要確認",
+    "saleType": "要確認",
+    "source": "ホビーサーチ フュージョンワールド",
+    "url": "https://www.1999.co.jp/mlist/297/7/1",
+    "xSearchUrl": "https://x.com/search?q=%E3%81%9D%E3%81%AE%E4%BB%96%20%E3%83%88%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%28BOX%E3%83%BB%E9%A3%9F%E7%8E%A9%29%20%E3%81%9D%E3%81%AE%E4%BB%96%20%E3%83%88%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%28BOX%E3%83%BB%E9%A3%9F%E7%8E%A9%29%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
+    "date": null,
+    "startAt": null,
+    "detectedAt": "2026-05-14T18:25:03+09:00",
+    "flags": [
+      "BOX",
       "ショップ"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 再入荷品 を見る /images/parts/icon-goods-restock.svg 再入荷品 を見る https://www.1999.co.jp/more/restock/figure"
+    "memo": "自動検知。日付候補: なし / 判定文脈: その他 トレーディングフィギュア(BOX・食玩) その他 トレーディングフィギュア(BOX・食玩) その他 トレーディングフィギュア(BOX・食玩) その他 トレーディングフィギュア(BOX・食玩) https://www.1999.co.jp/mlist/297/7/1"
   },
   {
     "id": "82e448d5f71ab021",
@@ -2066,12 +2271,12 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-calendar.svg%20%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:53+09:00",
+    "detectedAt": "2026-05-14T18:25:03+09:00",
     "flags": [
-      "予約",
-      "ショップ"
+      "ショップ",
+      "予約"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る https://www.1999.co.jp/more/reserve/mecha"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る 予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る https://www.1999.co.jp/more/reserve/mecha"
   },
   {
     "id": "8dca3b21189b0125",
@@ -2085,32 +2290,13 @@
     "xSearchUrl": "https://x.com/search?q=%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-restock.svg%20%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:53+09:00",
+    "detectedAt": "2026-05-14T18:25:03+09:00",
     "flags": [
+      "ショップ",
       "入荷",
-      "再入荷",
-      "ショップ"
+      "再入荷"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 再入荷品 を見る /images/parts/icon-goods-restock.svg 再入荷品 を見る https://www.1999.co.jp/more/restock/mecha"
-  },
-  {
-    "id": "7a5b9ad1bba0cd59",
-    "productId": "cea2d0c05b29d81a",
-    "title": "【ショップ予約要確認】予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る",
-    "productTitle": "予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る",
-    "eventType": "ショップ予約要確認",
-    "saleType": "予約",
-    "source": "ホビーサーチ フュージョンワールド",
-    "url": "https://www.1999.co.jp/more/reserve/gundam",
-    "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-calendar.svg%20%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
-    "date": null,
-    "startAt": null,
-    "detectedAt": "2026-05-14T17:44:53+09:00",
-    "flags": [
-      "予約",
-      "ショップ"
-    ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る https://www.1999.co.jp/more/reserve/gundam"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 再入荷品 を見る /images/parts/icon-goods-restock.svg 再入荷品 を見る 再入荷品 を見る /images/parts/icon-goods-restock.svg 再入荷品 を見る https://www.1999.co.jp/more/restock/mecha"
   },
   {
     "id": "51d45ea685039c74",
@@ -2124,12 +2310,12 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-calendar.svg%20%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:55+09:00",
+    "detectedAt": "2026-05-14T18:25:04+09:00",
     "flags": [
-      "予約",
-      "ショップ"
+      "ショップ",
+      "予約"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る https://www.1999.co.jp/more/reserve/figure"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る 予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る https://www.1999.co.jp/more/reserve/figure"
   },
   {
     "id": "36b1bf978a109792",
@@ -2143,13 +2329,32 @@
     "xSearchUrl": "https://x.com/search?q=%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-restock.svg%20%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:55+09:00",
+    "detectedAt": "2026-05-14T18:25:04+09:00",
     "flags": [
+      "ショップ",
       "入荷",
-      "再入荷",
+      "再入荷"
+    ],
+    "memo": "自動検知。日付候補: なし / 判定文脈: 再入荷品 を見る /images/parts/icon-goods-restock.svg 再入荷品 を見る 再入荷品 を見る /images/parts/icon-goods-restock.svg 再入荷品 を見る https://www.1999.co.jp/more/restock/figure"
+  },
+  {
+    "id": "7dd9a3181b1ee647",
+    "productId": "ad8edad2c20b3f43",
+    "title": "【ショップ要確認】その他 トレーディングフィギュア(BOX・食玩) その他 トレーディングフィギュア(BOX・食玩)",
+    "productTitle": "その他 トレーディングフィギュア(BOX・食玩) その他 トレーディングフィギュア(BOX・食玩)",
+    "eventType": "ショップ要確認",
+    "saleType": "要確認",
+    "source": "ホビーサーチ フュージョンワールド 予約",
+    "url": "https://www.1999.co.jp/mlist/297/7/1",
+    "xSearchUrl": "https://x.com/search?q=%E3%81%9D%E3%81%AE%E4%BB%96%20%E3%83%88%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%28BOX%E3%83%BB%E9%A3%9F%E7%8E%A9%29%20%E3%81%9D%E3%81%AE%E4%BB%96%20%E3%83%88%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%28BOX%E3%83%BB%E9%A3%9F%E7%8E%A9%29%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
+    "date": null,
+    "startAt": null,
+    "detectedAt": "2026-05-14T18:25:04+09:00",
+    "flags": [
+      "BOX",
       "ショップ"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 再入荷品 を見る /images/parts/icon-goods-restock.svg 再入荷品 を見る https://www.1999.co.jp/more/restock/figure"
+    "memo": "自動検知。日付候補: なし / 判定文脈: その他 トレーディングフィギュア(BOX・食玩) その他 トレーディングフィギュア(BOX・食玩) その他 トレーディングフィギュア(BOX・食玩) その他 トレーディングフィギュア(BOX・食玩) https://www.1999.co.jp/mlist/297/7/1"
   },
   {
     "id": "4ee74ee475de861e",
@@ -2163,12 +2368,12 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-calendar.svg%20%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:55+09:00",
+    "detectedAt": "2026-05-14T18:25:04+09:00",
     "flags": [
-      "予約",
-      "ショップ"
+      "ショップ",
+      "予約"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る https://www.1999.co.jp/more/reserve/mecha"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る 予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る https://www.1999.co.jp/more/reserve/mecha"
   },
   {
     "id": "b73978bd52ff81b8",
@@ -2182,31 +2387,12 @@
     "xSearchUrl": "https://x.com/search?q=%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-restock.svg%20%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-14T17:44:55+09:00",
+    "detectedAt": "2026-05-14T18:25:04+09:00",
     "flags": [
+      "ショップ",
       "入荷",
-      "再入荷",
-      "ショップ"
+      "再入荷"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 再入荷品 を見る /images/parts/icon-goods-restock.svg 再入荷品 を見る https://www.1999.co.jp/more/restock/mecha"
-  },
-  {
-    "id": "9ffbaa0c43eba8ea",
-    "productId": "219cb8c94e3069aa",
-    "title": "【ショップ予約要確認】予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る",
-    "productTitle": "予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る",
-    "eventType": "ショップ予約要確認",
-    "saleType": "予約",
-    "source": "ホビーサーチ フュージョンワールド 予約",
-    "url": "https://www.1999.co.jp/more/reserve/gundam",
-    "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-calendar.svg%20%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
-    "date": null,
-    "startAt": null,
-    "detectedAt": "2026-05-14T17:44:55+09:00",
-    "flags": [
-      "予約",
-      "ショップ"
-    ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 予約品 を見る /images/parts/icon-goods-calendar.svg 予約品 を見る https://www.1999.co.jp/more/reserve/gundam"
+    "memo": "自動検知。日付候補: なし / 判定文脈: 再入荷品 を見る /images/parts/icon-goods-restock.svg 再入荷品 を見る 再入荷品 を見る /images/parts/icon-goods-restock.svg 再入荷品 を見る https://www.1999.co.jp/more/restock/mecha"
   }
 ]
