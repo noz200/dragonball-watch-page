@@ -1,5 +1,6 @@
-const STATUS_OPTIONS = ["未確認", "応募予定", "応募済み", "購入済み", "スルー"];
-const STATUS_KEY = "dragonball-event-status-v2";
+const STATUS_OPTIONS = ["未確認", "確認済み", "重要", "応募予定", "応募済み", "購入済み", "スルー"];
+const STATUS_KEY = "dragonball-event-status-v3";
+const OLD_STATUS_KEYS = ["dragonball-event-status-v2", "dragonball-event-status-v1"];
 
 let events = [];
 let currentFilter = "all";
@@ -7,21 +8,49 @@ let calendar = null;
 
 function loadStatuses() {
   try {
-    return JSON.parse(localStorage.getItem(STATUS_KEY)) || {};
+    const current = JSON.parse(localStorage.getItem(STATUS_KEY)) || {};
+    for (const oldKey of OLD_STATUS_KEYS) {
+      const old = JSON.parse(localStorage.getItem(oldKey)) || {};
+      for (const [key, value] of Object.entries(old)) {
+        if (current[key] === undefined) current[key] = value;
+      }
+    }
+    localStorage.setItem(STATUS_KEY, JSON.stringify(current));
+    return current;
   } catch {
     return {};
   }
 }
 
-function saveStatus(productId, status) {
+function normalizeUrl(value) {
+  if (!value) return "";
+  try {
+    const url = new URL(value);
+    url.search = "";
+    url.hash = "";
+    return url.toString().replace(/\/$/, "");
+  } catch {
+    return String(value).split("?")[0].split("#")[0].replace(/\/$/, "");
+  }
+}
+
+function getEventStatusKey(event) {
+  if (event.statusKey) return event.statusKey;
+  if (event.eventKey) return event.eventKey;
+  if (event.url) return `url:${normalizeUrl(event.url)}`;
+  if (event.productId) return `product:${event.productId}`;
+  return `id:${event.id}`;
+}
+
+function saveStatus(event, status) {
   const statuses = loadStatuses();
-  statuses[productId] = status;
+  statuses[getEventStatusKey(event)] = status;
   localStorage.setItem(STATUS_KEY, JSON.stringify(statuses));
   renderLists();
 }
 
-function getStatus(productId) {
-  return loadStatuses()[productId] || "未確認";
+function getStatus(event) {
+  return loadStatuses()[getEventStatusKey(event)] || "未確認";
 }
 
 function hasValidDate(event) {
@@ -69,26 +98,31 @@ function escapeHtml(value) {
 }
 
 function makeCard(event) {
-  const status = getStatus(event.productId || event.id);
+  const status = getStatus(event);
   const d = daysUntil(event.startAt || event.date);
   const near = event.eventType?.includes("締切") && d !== null && d >= 0 && d <= 3;
   const undated = !hasValidDate(event);
+  const isX = String(event.source || "").startsWith("X検索") || (event.flags || []).includes("X");
   const card = document.createElement("div");
-  card.className = `card ${near ? "deadline" : ""}`;
+  card.className = `card ${near ? "deadline" : ""} ${isX ? "xCard" : ""}`;
 
   const flags = (event.flags || []).map(f => `<span class="flag">${escapeHtml(f)}</span>`).join("");
 
   card.innerHTML = `
-    <div class="cardTitle">${escapeHtml(event.title || event.productTitle)}</div>
+    <div class="cardTop">
+      <div class="cardTitle">${escapeHtml(event.title || event.productTitle)}</div>
+      <span class="statusBadge status-${escapeHtml(status)}">${escapeHtml(status)}</span>
+    </div>
     <div class="meta">
       種別：${escapeHtml(event.eventType || "-")} / 販売形式：${escapeHtml(event.saleType || "-")}<br>
       日時：${escapeHtml(formatDateTime(event.startAt || event.date))}${undated ? "（カレンダー未掲載）" : ""}<br>
-      検知元：${escapeHtml(event.source || "-")}
+      検知元：${escapeHtml(event.source || "-")}<br>
+      検知：${escapeHtml(formatDateTime(event.detectedAt))}
     </div>
     <div class="flags">${flags}</div>
     <div class="actions">
-      ${event.url ? `<a href="${event.url}" target="_blank" rel="noopener">公式/販売ページ</a>` : ""}
-      ${event.xSearchUrl ? `<a href="${event.xSearchUrl}" target="_blank" rel="noopener">X検索</a>` : ""}
+      ${event.url ? `<a href="${escapeHtml(event.url)}" target="_blank" rel="noopener">公式/販売ページ</a>` : ""}
+      ${event.xSearchUrl ? `<a href="${escapeHtml(event.xSearchUrl)}" target="_blank" rel="noopener">X検索</a>` : ""}
       <a href="#" class="detailLink">詳細</a>
     </div>
     <div class="statusRow">
@@ -99,7 +133,7 @@ function makeCard(event) {
   `;
 
   card.querySelector(".statusSelect").addEventListener("change", (e) => {
-    saveStatus(event.productId || event.id, e.target.value);
+    saveStatus(event, e.target.value);
   });
 
   card.querySelector(".detailLink").addEventListener("click", (e) => {
@@ -115,6 +149,7 @@ function showDetail(event) {
   const content = document.getElementById("detailContent");
   content.innerHTML = `
     <h2>${escapeHtml(event.productTitle || event.title)}</h2>
+    <p><strong>ステータスキー：</strong>${escapeHtml(getEventStatusKey(event))}</p>
     <p><strong>イベント：</strong>${escapeHtml(event.eventType || "-")}</p>
     <p><strong>販売形式：</strong>${escapeHtml(event.saleType || "-")}</p>
     <p><strong>日時：</strong>${escapeHtml(formatDateTime(event.startAt || event.date))}</p>
@@ -123,8 +158,8 @@ function showDetail(event) {
     <p><strong>フラグ：</strong>${escapeHtml((event.flags || []).join(" / ") || "-")}</p>
     <p><strong>メモ：</strong>${escapeHtml(event.memo || "-")}</p>
     <div class="actions">
-      ${event.url ? `<a href="${event.url}" target="_blank" rel="noopener">公式/販売ページ</a>` : ""}
-      ${event.xSearchUrl ? `<a href="${event.xSearchUrl}" target="_blank" rel="noopener">X検索</a>` : ""}
+      ${event.url ? `<a href="${escapeHtml(event.url)}" target="_blank" rel="noopener">公式/販売ページ</a>` : ""}
+      ${event.xSearchUrl ? `<a href="${escapeHtml(event.xSearchUrl)}" target="_blank" rel="noopener">X検索</a>` : ""}
     </div>
   `;
   dialog.showModal();
@@ -138,39 +173,51 @@ function sortEvents(list) {
     if (!aValid && bValid) return 1;
     const da = new Date(a.startAt || a.date).getTime() || 0;
     const db = new Date(b.startAt || b.date).getTime() || 0;
-    return da - db;
+    if (da !== db) return da - db;
+    return new Date(b.detectedAt || 0).getTime() - new Date(a.detectedAt || 0).getTime();
   });
+}
+
+function sortByDetectedDesc(list) {
+  return [...list].sort((a, b) => new Date(b.detectedAt || 0).getTime() - new Date(a.detectedAt || 0).getTime());
 }
 
 function renderLists() {
   const sorted = sortEvents(events);
 
+  const unconfirmedEvents = sortByDetectedDesc(events).filter(e => {
+    return getStatus(e) === "未確認" && isFutureOrUndated(e);
+  });
+
   const deadlineEvents = sorted.filter(e => {
     const d = daysUntil(e.startAt || e.date);
-    return e.eventType?.includes("締切") && d !== null && d >= 0 && d <= 7;
+    return e.eventType?.includes("締切") && d !== null && d >= 0 && d <= 7 && getStatus(e) !== "スルー";
   });
 
   const activeEvents = sorted.filter(e => {
-    const status = getStatus(e.productId || e.id);
-    return status !== "スルー" && isFutureOrUndated(e);
+    const status = getStatus(e);
+    return status !== "スルー" && status !== "確認済み" && isFutureOrUndated(e);
   }).slice(0, 12);
 
   const filtered = sorted.filter(e => {
     if (currentFilter === "all") return true;
-    return getStatus(e.productId || e.id) === currentFilter;
+    return getStatus(e) === currentFilter;
   });
 
+  renderContainer("unconfirmedList", unconfirmedEvents.slice(0, 16));
   renderContainer("deadlineList", deadlineEvents.slice(0, 8));
   renderContainer("activeList", activeEvents);
   renderContainer("allList", filtered);
 
   const datedCount = events.filter(hasValidDate).length;
   const undatedCount = events.length - datedCount;
-  document.getElementById("summary").textContent = `全${events.length}件 / カレンダー${datedCount}件 / 日付未取得${undatedCount}件`;
+  const unconfirmedCount = events.filter(e => getStatus(e) === "未確認").length;
+  document.getElementById("summary").textContent = `全${events.length}件 / 未確認${unconfirmedCount}件 / カレンダー${datedCount}件 / 日付未取得${undatedCount}件`;
 }
 
 function renderContainer(id, list) {
   const el = document.getElementById(id);
+  if (!el) return;
   el.innerHTML = "";
   if (!list.length) {
     el.innerHTML = `<div class="meta">該当なし。平和です。今だけ。</div>`;
@@ -187,7 +234,7 @@ function renderCalendar() {
     initialView: "dayGridMonth",
     locale: "ja",
     height: "auto",
-    events: events.filter(hasValidDate).map(e => ({
+    events: events.filter(hasValidDate).filter(e => getStatus(e) !== "スルー").map(e => ({
       id: e.id,
       title: e.title,
       start: e.startAt || e.date,
