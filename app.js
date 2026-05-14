@@ -46,6 +46,7 @@ function saveStatus(event, status) {
   const statuses = loadStatuses();
   statuses[getEventStatusKey(event)] = status;
   localStorage.setItem(STATUS_KEY, JSON.stringify(statuses));
+  renderCalendar();
   renderLists();
 }
 
@@ -95,6 +96,26 @@ function escapeHtml(value) {
     .replaceAll(">", "&gt;")
     .replaceAll('"', "&quot;")
     .replaceAll("'", "&#039;");
+}
+
+function stripTitlePrefix(value) {
+  return String(value || "").replace(/^【[^】]+】/, "").trim();
+}
+
+function shortTitle(event, maxLength = 28) {
+  const raw = stripTitlePrefix(event.productTitle || event.title || "");
+  if (raw.length <= maxLength) return raw;
+  return `${raw.slice(0, maxLength)}…`;
+}
+
+function calendarTitle(event) {
+  const type = String(event.eventType || "要確認")
+    .replace(/^X/, "")
+    .replace("要確認", "")
+    .replace("ショップ", "")
+    .replace("予定", "");
+  const prefix = type || "要確認";
+  return `${prefix}：${shortTitle(event, 18)}`;
 }
 
 function makeCard(event) {
@@ -226,17 +247,27 @@ function renderContainer(id, list) {
   list.forEach(event => el.appendChild(makeCard(event)));
 }
 
+function isSmallScreen() {
+  return window.matchMedia("(max-width: 720px)").matches;
+}
+
 function renderCalendar() {
   const calendarEl = document.getElementById("calendar");
   if (calendar) calendar.destroy();
 
   calendar = new FullCalendar.Calendar(calendarEl, {
-    initialView: "dayGridMonth",
+    initialView: isSmallScreen() ? "listWeek" : "dayGridMonth",
+    headerToolbar: isSmallScreen()
+      ? { left: "prev,next", center: "title", right: "listWeek,dayGridMonth" }
+      : { left: "prev,next today", center: "title", right: "dayGridMonth,listWeek" },
     locale: "ja",
     height: "auto",
+    contentHeight: "auto",
+    eventDisplay: "block",
+    eventTimeFormat: { hour: "2-digit", minute: "2-digit", hour12: false },
     events: events.filter(hasValidDate).filter(e => getStatus(e) !== "スルー").map(e => ({
       id: e.id,
-      title: e.title,
+      title: calendarTitle(e),
       start: e.startAt || e.date,
       extendedProps: e
     })),
@@ -269,6 +300,11 @@ document.querySelectorAll(".filter").forEach(button => {
     currentFilter = button.dataset.filter;
     renderLists();
   });
+});
+
+window.addEventListener("resize", () => {
+  clearTimeout(window.__calendarResizeTimer);
+  window.__calendarResizeTimer = setTimeout(renderCalendar, 200);
 });
 
 loadEvents().catch(err => {
