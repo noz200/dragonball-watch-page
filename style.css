@@ -70,6 +70,11 @@ button:hover { border-color: var(--accent); }
   box-shadow: var(--shadow);
 }
 
+.priorityPanel {
+  border-color: #bfdbfe;
+  background: linear-gradient(180deg, #eff6ff 0%, #ffffff 72%);
+}
+
 .full { margin: 0 clamp(14px, 3vw, 28px) 28px; }
 
 .panelHeader {
@@ -127,13 +132,49 @@ button:hover { border-color: var(--accent); }
   background: #fff7ed;
 }
 
+.card.xCard {
+  border-color: #dbeafe;
+}
+
+.cardTop {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  align-items: flex-start;
+  min-width: 0;
+}
+
 .cardTitle {
   font-weight: 700;
   margin-bottom: 6px;
   line-height: 1.45;
   overflow-wrap: anywhere;
   word-break: break-word;
+  min-width: 0;
 }
+
+.statusBadge {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  padding: 3px 8px;
+  font-size: 12px;
+  font-weight: 700;
+  border: 1px solid var(--line);
+  background: #f8fafc;
+  color: #475467;
+  white-space: nowrap;
+}
+
+.status-未確認 { background: #fff7ed; color: #9a3412; border-color: #fed7aa; }
+.status-確認済み { background: #f1f5f9; color: #475569; border-color: #cbd5e1; }
+.status-重要 { background: #fef2f2; color: #b91c1c; border-color: #fecaca; }
+.status-応募予定 { background: #ecfdf3; color: #027a48; border-color: #abefc6; }
+.status-応募済み { background: #eff6ff; color: #1d4ed8; border-color: #bfdbfe; }
+.status-購入済み { background: #f5f3ff; color: #6d28d9; border-color: #ddd6fe; }
+.status-スルー { background: #f8fafc; color: #64748b; border-color: #e2e8f0; }
 
 .meta {
   color: var(--muted);
