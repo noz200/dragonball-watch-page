@@ -132,9 +132,7 @@ button:hover { border-color: var(--accent); }
   background: #fff7ed;
 }
 
-.card.xCard {
-  border-color: #dbeafe;
-}
+.card.xCard { border-color: #dbeafe; }
 
 .cardTop {
   display: flex;
@@ -238,11 +236,12 @@ button:hover { border-color: var(--accent); }
 
 #calendar {
   max-width: 100%;
-  overflow-x: auto;
+  overflow: hidden;
 }
 
 .fc {
-  min-width: 680px;
+  width: 100%;
+  max-width: 100%;
   font-size: 13px;
 }
 
@@ -256,20 +255,27 @@ button:hover { border-color: var(--accent); }
 }
 
 .fc .fc-daygrid-event {
-  white-space: normal;
-  align-items: flex-start;
-  line-height: 1.35;
+  white-space: nowrap;
+  line-height: 1.25;
   padding: 2px 3px;
+  overflow: hidden;
 }
 
 .fc .fc-event-title,
 .fc .fc-event-time {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.fc .fc-daygrid-day-frame { min-height: 96px; }
+
+.fc .fc-list-event-title,
+.fc .fc-list-event-time {
   white-space: normal;
   overflow-wrap: anywhere;
   word-break: break-word;
 }
-
-.fc .fc-daygrid-day-frame { min-height: 108px; }
 
 #detailDialog {
   border: 0;
@@ -300,18 +306,101 @@ button:hover { border-color: var(--accent); }
 }
 
 @media (max-width: 720px) {
+  body { overflow-x: hidden; }
+
   .header {
     flex-direction: column;
     align-items: stretch;
+    padding: 16px 12px;
   }
 
   .header button { width: 100%; }
-  .filters button { flex: 1 1 auto; }
+
+  .layout {
+    display: block;
+    padding: 0 10px 18px;
+  }
+
+  .panel {
+    border-radius: 14px;
+    padding: 12px;
+    margin-bottom: 12px;
+  }
+
+  .full {
+    margin: 0 10px 18px;
+  }
+
+  .side {
+    display: block;
+  }
+
+  .gridList {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .filters {
+    width: 100%;
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    padding-bottom: 4px;
+  }
+
+  .filters button {
+    flex: 0 0 auto;
+    white-space: nowrap;
+  }
+
+  .cardTop {
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .statusBadge {
+    align-self: flex-start;
+  }
+
+  #calendar {
+    overflow: visible;
+  }
 
   .fc {
-    min-width: 560px;
+    min-width: 0;
+    width: 100%;
     font-size: 12px;
   }
 
-  .fc .fc-daygrid-day-frame { min-height: 92px; }
+  .fc .fc-toolbar {
+    display: grid;
+    grid-template-columns: 1fr;
+    align-items: stretch;
+  }
+
+  .fc .fc-toolbar-chunk {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+
+  .fc .fc-toolbar-title {
+    font-size: 18px;
+    text-align: center;
+  }
+
+  .fc .fc-button {
+    padding: 6px 8px;
+    font-size: 12px;
+  }
+
+  .fc .fc-list-event-title,
+  .fc .fc-list-event-time {
+    font-size: 12px;
+  }
+
+  #detailDialog {
+    width: calc(100vw - 20px);
+    padding: 14px;
+  }
 }
