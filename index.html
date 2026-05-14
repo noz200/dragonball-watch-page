@@ -3,16 +3,15 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Dragon Ball 商品カレンダー</title>
-
+  <title>商品カレンダー</title>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.15/index.global.min.css">
   <link rel="stylesheet" href="./style.css" />
 </head>
 <body>
   <header class="header">
     <div>
-      <h1>Dragon Ball 商品カレンダー</h1>
-      <p>予約・抽選・再販・締切の認知漏れ防止用。人生の予定表に悟空を混ぜないための専用ページです。</p>
+      <h1>商品カレンダー</h1>
+      <p>予約・抽選・再販・締切の認知漏れ防止用ページです。</p>
     </div>
     <button id="reloadButton">再読み込み</button>
   </header>
@@ -27,11 +26,14 @@
     </section>
 
     <aside class="side">
+      <section class="panel priorityPanel">
+        <h2>新着・未確認</h2>
+        <div id="unconfirmedList" class="cardList"></div>
+      </section>
       <section class="panel">
         <h2>締切近い</h2>
         <div id="deadlineList" class="cardList"></div>
       </section>
-
       <section class="panel">
         <h2>受付中・要確認</h2>
         <div id="activeList" class="cardList"></div>
@@ -45,6 +47,8 @@
       <div class="filters">
         <button data-filter="all" class="filter active">全件</button>
         <button data-filter="未確認" class="filter">未確認</button>
+        <button data-filter="確認済み" class="filter">確認済み</button>
+        <button data-filter="重要" class="filter">重要</button>
         <button data-filter="応募予定" class="filter">応募予定</button>
         <button data-filter="応募済み" class="filter">応募済み</button>
         <button data-filter="購入済み" class="filter">購入済み</button>
