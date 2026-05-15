@@ -133,6 +133,7 @@ button:hover { border-color: var(--accent); }
 }
 
 .card.xCard { border-color: #dbeafe; }
+.card.freshCard { border-color: #f97316; box-shadow: 0 0 0 2px rgba(249, 115, 22, 0.12); }
 
 .cardTop {
   display: flex;
@@ -259,6 +260,7 @@ button:hover { border-color: var(--accent); }
   line-height: 1.25;
   padding: 2px 3px;
   overflow: hidden;
+  border: 0;
 }
 
 .fc .fc-event-title,
@@ -276,6 +278,19 @@ button:hover { border-color: var(--accent); }
   overflow-wrap: anywhere;
   word-break: break-word;
 }
+
+.fc .calFreshUnconfirmed { background: #f97316; color: #fff; border-color: #ea580c; }
+.fc .calUnconfirmed { background: #f59e0b; color: #fff; border-color: #d97706; }
+.fc .calImportant { background: #dc2626; color: #fff; border-color: #b91c1c; }
+.fc .calChecked { background: #94a3b8; color: #fff; border-color: #64748b; }
+.fc .calActioned { background: #2563eb; color: #fff; border-color: #1d4ed8; }
+.fc .calStatusOther { background: #64748b; color: #fff; border-color: #475569; }
+.fc .calX { border-left: 4px solid #111827; }
+.fc .fc-list-event.calFreshUnconfirmed td { background: #fff7ed; }
+.fc .fc-list-event.calUnconfirmed td { background: #fffbeb; }
+.fc .fc-list-event.calImportant td { background: #fef2f2; }
+.fc .fc-list-event.calChecked td { background: #f8fafc; }
+.fc .fc-list-event.calActioned td { background: #eff6ff; }
 
 #detailDialog {
   border: 0;
