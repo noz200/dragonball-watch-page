@@ -54,6 +54,14 @@ function getStatus(event) {
   return loadStatuses()[getEventStatusKey(event)] || "未確認";
 }
 
+function getScore(event) {
+  return Number(event.score || 0);
+}
+
+function priorityRank(priority) {
+  return { S: 4, A: 3, B: 2, C: 1 }[priority] || 0;
+}
+
 function hasValidDate(event) {
   const value = event.startAt || event.date;
   if (!value) return false;
@@ -122,12 +130,13 @@ function calendarTitle(event) {
     .replace("ショップ", "")
     .replace("予定", "");
   const prefix = type || "要確認";
-  return `${prefix}：${shortTitle(event, 18)}`;
+  const priority = event.priority ? `${event.priority} ` : "";
+  return `${priority}${prefix}：${shortTitle(event, 16)}`;
 }
 
 function calendarClassNames(event) {
   const status = getStatus(event);
-  const classes = ["calStatusOther"];
+  const classes = ["calStatusOther", `calPriority${event.priority || "C"}`];
   if (status === "未確認" && isFresh(event, 48)) classes.push("calFreshUnconfirmed");
   else if (status === "未確認") classes.push("calUnconfirmed");
   else if (status === "重要") classes.push("calImportant");
@@ -143,22 +152,29 @@ function makeCard(event) {
   const near = event.eventType?.includes("締切") && d !== null && d >= 0 && d <= 3;
   const undated = !hasValidDate(event);
   const isX = String(event.source || "").startsWith("X検索") || (event.flags || []).includes("X");
+  const priority = event.priority || "C";
   const card = document.createElement("div");
-  card.className = `card ${near ? "deadline" : ""} ${isX ? "xCard" : ""} ${status === "未確認" && isFresh(event, 48) ? "freshCard" : ""}`;
+  card.className = `card priority-${priority} ${near ? "deadline" : ""} ${isX ? "xCard" : ""} ${status === "未確認" && isFresh(event, 48) ? "freshCard" : ""}`;
 
   const flags = (event.flags || []).map(f => `<span class="flag">${escapeHtml(f)}</span>`).join("");
+  const reasons = (event.scoreReasons || []).slice(0, 4).map(r => `<span class="reason">${escapeHtml(r)}</span>`).join("");
 
   card.innerHTML = `
     <div class="cardTop">
       <div class="cardTitle">${escapeHtml(event.title || event.productTitle)}</div>
-      <span class="statusBadge status-${escapeHtml(status)}">${escapeHtml(status)}</span>
+      <div class="badgeStack">
+        <span class="priorityBadge priorityBadge-${escapeHtml(priority)}">${escapeHtml(priority)} / ${escapeHtml(getScore(event))}</span>
+        <span class="statusBadge status-${escapeHtml(status)}">${escapeHtml(status)}</span>
+      </div>
     </div>
     <div class="meta">
       種別：${escapeHtml(event.eventType || "-")} / 販売形式：${escapeHtml(event.saleType || "-")}<br>
+      判定：${escapeHtml(event.actionability || "-")}<br>
       日時：${escapeHtml(formatDateTime(event.startAt || event.date))}${undated ? "（カレンダー未掲載）" : ""}<br>
       検知元：${escapeHtml(event.source || "-")}<br>
       検知：${escapeHtml(formatDateTime(event.detectedAt))}
     </div>
+    <div class="reasonRow">${reasons}</div>
     <div class="flags">${flags}</div>
     <div class="actions">
       ${event.url ? `<a href="${escapeHtml(event.url)}" target="_blank" rel="noopener">公式/販売ページ</a>` : ""}
@@ -189,6 +205,9 @@ function showDetail(event) {
   const content = document.getElementById("detailContent");
   content.innerHTML = `
     <h2>${escapeHtml(event.productTitle || event.title)}</h2>
+    <p><strong>優先度：</strong>${escapeHtml(event.priority || "-")} / ${escapeHtml(getScore(event))}</p>
+    <p><strong>判定：</strong>${escapeHtml(event.actionability || "-")}</p>
+    <p><strong>理由：</strong>${escapeHtml((event.scoreReasons || []).join(" / ") || "-")}</p>
     <p><strong>ステータスキー：</strong>${escapeHtml(getEventStatusKey(event))}</p>
     <p><strong>イベント：</strong>${escapeHtml(event.eventType || "-")}</p>
     <p><strong>販売形式：</strong>${escapeHtml(event.saleType || "-")}</p>
@@ -207,6 +226,10 @@ function showDetail(event) {
 
 function sortEvents(list) {
   return [...list].sort((a, b) => {
+    const pr = priorityRank(b.priority) - priorityRank(a.priority);
+    if (pr !== 0) return pr;
+    const scoreDiff = getScore(b) - getScore(a);
+    if (scoreDiff !== 0) return scoreDiff;
     const aValid = hasValidDate(a);
     const bValid = hasValidDate(b);
     if (aValid && !bValid) return -1;
@@ -218,14 +241,20 @@ function sortEvents(list) {
   });
 }
 
-function sortByDetectedDesc(list) {
-  return [...list].sort((a, b) => new Date(b.detectedAt || 0).getTime() - new Date(a.detectedAt || 0).getTime());
+function sortByPriorityThenDetected(list) {
+  return [...list].sort((a, b) => {
+    const pr = priorityRank(b.priority) - priorityRank(a.priority);
+    if (pr !== 0) return pr;
+    const scoreDiff = getScore(b) - getScore(a);
+    if (scoreDiff !== 0) return scoreDiff;
+    return new Date(b.detectedAt || 0).getTime() - new Date(a.detectedAt || 0).getTime();
+  });
 }
 
 function renderLists() {
   const sorted = sortEvents(events);
 
-  const unconfirmedEvents = sortByDetectedDesc(events).filter(e => {
+  const unconfirmedEvents = sortByPriorityThenDetected(events).filter(e => {
     return getStatus(e) === "未確認" && isFutureOrUndated(e);
   });
 
@@ -252,7 +281,9 @@ function renderLists() {
   const datedCount = events.filter(hasValidDate).length;
   const undatedCount = events.length - datedCount;
   const unconfirmedCount = events.filter(e => getStatus(e) === "未確認").length;
-  document.getElementById("summary").textContent = `全${events.length}件 / 未確認${unconfirmedCount}件 / カレンダー${datedCount}件 / 日付未取得${undatedCount}件`;
+  const sCount = events.filter(e => e.priority === "S").length;
+  const aCount = events.filter(e => e.priority === "A").length;
+  document.getElementById("summary").textContent = `全${events.length}件 / S${sCount}件 / A${aCount}件 / 未確認${unconfirmedCount}件 / カレンダー${datedCount}件`;
 }
 
 function renderContainer(id, list) {
