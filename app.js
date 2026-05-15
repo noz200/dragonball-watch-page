@@ -89,6 +89,13 @@ function isFutureOrUndated(event) {
   return d >= today;
 }
 
+function isFresh(event, hours = 24) {
+  if (!event.detectedAt) return false;
+  const detected = new Date(event.detectedAt);
+  if (Number.isNaN(detected.getTime())) return false;
+  return Date.now() - detected.getTime() <= hours * 60 * 60 * 1000;
+}
+
 function escapeHtml(value) {
   return String(value ?? "")
     .replaceAll("&", "&amp;")
@@ -118,6 +125,18 @@ function calendarTitle(event) {
   return `${prefix}：${shortTitle(event, 18)}`;
 }
 
+function calendarClassNames(event) {
+  const status = getStatus(event);
+  const classes = ["calStatusOther"];
+  if (status === "未確認" && isFresh(event, 48)) classes.push("calFreshUnconfirmed");
+  else if (status === "未確認") classes.push("calUnconfirmed");
+  else if (status === "重要") classes.push("calImportant");
+  else if (status === "確認済み") classes.push("calChecked");
+  else if (["応募予定", "応募済み", "購入済み"].includes(status)) classes.push("calActioned");
+  if (String(event.source || "").startsWith("X検索") || (event.flags || []).includes("X")) classes.push("calX");
+  return classes;
+}
+
 function makeCard(event) {
   const status = getStatus(event);
   const d = daysUntil(event.startAt || event.date);
@@ -125,7 +144,7 @@ function makeCard(event) {
   const undated = !hasValidDate(event);
   const isX = String(event.source || "").startsWith("X検索") || (event.flags || []).includes("X");
   const card = document.createElement("div");
-  card.className = `card ${near ? "deadline" : ""} ${isX ? "xCard" : ""}`;
+  card.className = `card ${near ? "deadline" : ""} ${isX ? "xCard" : ""} ${status === "未確認" && isFresh(event, 48) ? "freshCard" : ""}`;
 
   const flags = (event.flags || []).map(f => `<span class="flag">${escapeHtml(f)}</span>`).join("");
 
@@ -269,6 +288,7 @@ function renderCalendar() {
       id: e.id,
       title: calendarTitle(e),
       start: e.startAt || e.date,
+      classNames: calendarClassNames(e),
       extendedProps: e
     })),
     eventClick(info) {
