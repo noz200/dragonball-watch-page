@@ -5,6 +5,8 @@ const OLD_STATUS_KEYS = ["dragonball-event-status-v2", "dragonball-event-status-
 let events = [];
 let currentFilter = "all";
 let calendar = null;
+let lastCalendarView = null;
+let lastCalendarDate = null;
 
 function loadStatuses() {
   try {
@@ -46,7 +48,7 @@ function saveStatus(event, status) {
   const statuses = loadStatuses();
   statuses[getEventStatusKey(event)] = status;
   localStorage.setItem(STATUS_KEY, JSON.stringify(statuses));
-  renderCalendar();
+  renderCalendar(true);
   renderLists();
 }
 
@@ -279,7 +281,6 @@ function renderLists() {
   renderContainer("allList", filtered);
 
   const datedCount = events.filter(hasValidDate).length;
-  const undatedCount = events.length - datedCount;
   const unconfirmedCount = events.filter(e => getStatus(e) === "未確認").length;
   const sCount = events.filter(e => e.priority === "S").length;
   const aCount = events.filter(e => e.priority === "A").length;
@@ -301,12 +302,47 @@ function isSmallScreen() {
   return window.matchMedia("(max-width: 720px)").matches;
 }
 
-function renderCalendar() {
+function rememberCalendarState() {
+  if (!calendar) return;
+  lastCalendarView = calendar.view?.type || lastCalendarView;
+  lastCalendarDate = calendar.getDate ? calendar.getDate() : lastCalendarDate;
+}
+
+function getCalendarEvents() {
+  return events.filter(hasValidDate).filter(e => getStatus(e) !== "スルー").map(e => ({
+    id: e.id,
+    title: calendarTitle(e),
+    start: e.startAt || e.date,
+    classNames: calendarClassNames(e),
+    extendedProps: e
+  }));
+}
+
+function refreshCalendarEventsOnly() {
+  if (!calendar) return;
+  rememberCalendarState();
+  calendar.removeAllEvents();
+  calendar.addEventSource(getCalendarEvents());
+}
+
+function renderCalendar(preserveState = false) {
   const calendarEl = document.getElementById("calendar");
-  if (calendar) calendar.destroy();
+  if (calendar && preserveState) {
+    refreshCalendarEventsOnly();
+    return;
+  }
+
+  if (calendar) {
+    rememberCalendarState();
+    calendar.destroy();
+  }
+
+  const initialView = lastCalendarView || (isSmallScreen() ? "listWeek" : "dayGridMonth");
+  const initialDate = lastCalendarDate || undefined;
 
   calendar = new FullCalendar.Calendar(calendarEl, {
-    initialView: isSmallScreen() ? "listWeek" : "dayGridMonth",
+    initialView,
+    initialDate,
     headerToolbar: isSmallScreen()
       ? { left: "prev,next", center: "title", right: "listWeek,dayGridMonth" }
       : { left: "prev,next today", center: "title", right: "dayGridMonth,listWeek" },
@@ -315,13 +351,11 @@ function renderCalendar() {
     contentHeight: "auto",
     eventDisplay: "block",
     eventTimeFormat: { hour: "2-digit", minute: "2-digit", hour12: false },
-    events: events.filter(hasValidDate).filter(e => getStatus(e) !== "スルー").map(e => ({
-      id: e.id,
-      title: calendarTitle(e),
-      start: e.startAt || e.date,
-      classNames: calendarClassNames(e),
-      extendedProps: e
-    })),
+    events: getCalendarEvents(),
+    datesSet(info) {
+      lastCalendarView = info.view.type;
+      lastCalendarDate = calendar ? calendar.getDate() : null;
+    },
     eventClick(info) {
       showDetail(info.event.extendedProps);
     }
@@ -351,11 +385,6 @@ document.querySelectorAll(".filter").forEach(button => {
     currentFilter = button.dataset.filter;
     renderLists();
   });
-});
-
-window.addEventListener("resize", () => {
-  clearTimeout(window.__calendarResizeTimer);
-  window.__calendarResizeTimer = setTimeout(renderCalendar, 200);
 });
 
 loadEvents().catch(err => {
