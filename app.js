@@ -111,6 +111,10 @@ function isCalendarCategoryMatch(event) {
   return detectCategory(event) === currentCalendarCategory;
 }
 
+function getCategoryScopedEvents() {
+  return events.filter(isCalendarCategoryMatch);
+}
+
 function hasValidDate(event) {
   const value = event.startAt || event.date;
   if (!value) return false;
@@ -304,9 +308,10 @@ function sortByPriorityThenDetected(list) {
 }
 
 function renderLists() {
-  const sorted = sortEvents(events);
+  const categoryEvents = getCategoryScopedEvents();
+  const sorted = sortEvents(categoryEvents);
 
-  const unconfirmedEvents = sortByPriorityThenDetected(events).filter(e => {
+  const unconfirmedEvents = sortByPriorityThenDetected(categoryEvents).filter(e => {
     return getStatus(e) === "未確認" && isFutureOrUndated(e);
   });
 
@@ -320,7 +325,8 @@ function renderLists() {
     return status !== "スルー" && status !== "確認済み" && isFutureOrUndated(e);
   }).slice(0, 12);
 
-  const filtered = sorted.filter(e => {
+  const allSorted = sortEvents(events);
+  const filtered = allSorted.filter(e => {
     if (currentFilter === "all") return true;
     return getStatus(e) === currentFilter;
   });
@@ -332,10 +338,12 @@ function renderLists() {
 
   const datedEvents = events.filter(hasValidDate).filter(e => getStatus(e) !== "スルー");
   const calendarShown = datedEvents.filter(isCalendarCategoryMatch).length;
+  const categoryTotal = categoryEvents.length;
+  const categoryUnconfirmed = categoryEvents.filter(e => getStatus(e) === "未確認").length;
   const unconfirmedCount = events.filter(e => getStatus(e) === "未確認").length;
-  const sCount = events.filter(e => e.priority === "S").length;
-  const aCount = events.filter(e => e.priority === "A").length;
-  document.getElementById("summary").textContent = `表示:${categoryLabel(currentCalendarCategory)} ${calendarShown}/${datedEvents.length}件 / 全${events.length}件 / S${sCount}件 / A${aCount}件 / 未確認${unconfirmedCount}件`;
+  const sCount = categoryEvents.filter(e => e.priority === "S").length;
+  const aCount = categoryEvents.filter(e => e.priority === "A").length;
+  document.getElementById("summary").textContent = `表示:${categoryLabel(currentCalendarCategory)} ${calendarShown}/${datedEvents.length}件 / このカテゴリ${categoryTotal}件 / S${sCount}件 / A${aCount}件 / 未確認${categoryUnconfirmed}件（全体${unconfirmedCount}件）`;
 }
 
 function renderContainer(id, list) {
