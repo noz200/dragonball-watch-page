@@ -1,9 +1,11 @@
 const STATUS_OPTIONS = ["未確認", "確認済み", "重要", "応募予定", "応募済み", "購入済み", "スルー"];
 const STATUS_KEY = "dragonball-event-status-v3";
 const OLD_STATUS_KEYS = ["dragonball-event-status-v2", "dragonball-event-status-v1"];
+const CALENDAR_CATEGORY_KEY = "watch-calendar-category-v1";
 
 let events = [];
 let currentFilter = "all";
+let currentCalendarCategory = localStorage.getItem(CALENDAR_CATEGORY_KEY) || "all";
 let calendar = null;
 let lastCalendarView = null;
 let lastCalendarDate = null;
@@ -62,6 +64,51 @@ function getScore(event) {
 
 function priorityRank(priority) {
   return { S: 4, A: 3, B: 2, C: 1 }[priority] || 0;
+}
+
+function eventText(event) {
+  return [
+    event.title,
+    event.productTitle,
+    event.eventType,
+    event.saleType,
+    event.source,
+    event.memo,
+    ...(event.flags || [])
+  ].join(" ");
+}
+
+function detectCategory(event) {
+  const text = eventText(event);
+  if (/DBFW|フュージョンワールド|ドラゴンボール|ダイバーズ|アドバンスパック/i.test(text)) return "dragonball";
+  if (/ポケカ|ポケモンカード|Pokemon|Pokémon/i.test(text)) return "pokemon";
+  if (/ワンピカード|ワンピースカード|ONE PIECE/i.test(text)) return "onepiece";
+  if (/遊戯王|遊戯王OCG|Yu-Gi-Oh/i.test(text)) return "yugioh";
+  if (/ホロカ|ホロライブ|ヴァイス|ヴァイスシュヴァルツ|Weiss/i.test(text)) return "hololive";
+  if (/ガンダムカード|ガンダムカードゲーム|ガンプラ|GUNDAM|プレバン/i.test(text)) return "gundam";
+  if (/MTG|マジックザギャザリング|Magic: The Gathering|コレクターブースター/i.test(text)) return "mtg";
+  if (/一番くじ|くじオンライン|くじ/i.test(text)) return "kuji";
+  return "other";
+}
+
+function categoryLabel(value) {
+  return {
+    all: "全部",
+    dragonball: "ドラゴンボール/DBFW",
+    pokemon: "ポケカ",
+    onepiece: "ワンピカード",
+    yugioh: "遊戯王",
+    hololive: "ホロカ/ヴァイス",
+    gundam: "ガンダム/ガンプラ",
+    mtg: "MTG",
+    kuji: "一番くじ",
+    other: "その他"
+  }[value] || "全部";
+}
+
+function isCalendarCategoryMatch(event) {
+  if (currentCalendarCategory === "all") return true;
+  return detectCategory(event) === currentCalendarCategory;
 }
 
 function hasValidDate(event) {
@@ -138,7 +185,7 @@ function calendarTitle(event) {
 
 function calendarClassNames(event) {
   const status = getStatus(event);
-  const classes = ["calStatusOther", `calPriority${event.priority || "C"}`];
+  const classes = ["calStatusOther", `calPriority${event.priority || "C"}`, `calCat-${detectCategory(event)}`];
   if (status === "未確認" && isFresh(event, 48)) classes.push("calFreshUnconfirmed");
   else if (status === "未確認") classes.push("calUnconfirmed");
   else if (status === "重要") classes.push("calImportant");
@@ -160,6 +207,7 @@ function makeCard(event) {
 
   const flags = (event.flags || []).map(f => `<span class="flag">${escapeHtml(f)}</span>`).join("");
   const reasons = (event.scoreReasons || []).slice(0, 4).map(r => `<span class="reason">${escapeHtml(r)}</span>`).join("");
+  const category = categoryLabel(detectCategory(event));
 
   card.innerHTML = `
     <div class="cardTop">
@@ -170,6 +218,7 @@ function makeCard(event) {
       </div>
     </div>
     <div class="meta">
+      カテゴリ：${escapeHtml(category)}<br>
       種別：${escapeHtml(event.eventType || "-")} / 販売形式：${escapeHtml(event.saleType || "-")}<br>
       判定：${escapeHtml(event.actionability || "-")}<br>
       日時：${escapeHtml(formatDateTime(event.startAt || event.date))}${undated ? "（カレンダー未掲載）" : ""}<br>
@@ -207,6 +256,7 @@ function showDetail(event) {
   const content = document.getElementById("detailContent");
   content.innerHTML = `
     <h2>${escapeHtml(event.productTitle || event.title)}</h2>
+    <p><strong>カテゴリ：</strong>${escapeHtml(categoryLabel(detectCategory(event)))}</p>
     <p><strong>優先度：</strong>${escapeHtml(event.priority || "-")} / ${escapeHtml(getScore(event))}</p>
     <p><strong>判定：</strong>${escapeHtml(event.actionability || "-")}</p>
     <p><strong>理由：</strong>${escapeHtml((event.scoreReasons || []).join(" / ") || "-")}</p>
@@ -280,11 +330,12 @@ function renderLists() {
   renderContainer("activeList", activeEvents);
   renderContainer("allList", filtered);
 
-  const datedCount = events.filter(hasValidDate).length;
+  const datedEvents = events.filter(hasValidDate).filter(e => getStatus(e) !== "スルー");
+  const calendarShown = datedEvents.filter(isCalendarCategoryMatch).length;
   const unconfirmedCount = events.filter(e => getStatus(e) === "未確認").length;
   const sCount = events.filter(e => e.priority === "S").length;
   const aCount = events.filter(e => e.priority === "A").length;
-  document.getElementById("summary").textContent = `全${events.length}件 / S${sCount}件 / A${aCount}件 / 未確認${unconfirmedCount}件 / カレンダー${datedCount}件`;
+  document.getElementById("summary").textContent = `表示:${categoryLabel(currentCalendarCategory)} ${calendarShown}/${datedEvents.length}件 / 全${events.length}件 / S${sCount}件 / A${aCount}件 / 未確認${unconfirmedCount}件`;
 }
 
 function renderContainer(id, list) {
@@ -309,13 +360,17 @@ function rememberCalendarState() {
 }
 
 function getCalendarEvents() {
-  return events.filter(hasValidDate).filter(e => getStatus(e) !== "スルー").map(e => ({
-    id: e.id,
-    title: calendarTitle(e),
-    start: e.startAt || e.date,
-    classNames: calendarClassNames(e),
-    extendedProps: e
-  }));
+  return events
+    .filter(hasValidDate)
+    .filter(e => getStatus(e) !== "スルー")
+    .filter(isCalendarCategoryMatch)
+    .map(e => ({
+      id: e.id,
+      title: calendarTitle(e),
+      start: e.startAt || e.date,
+      classNames: calendarClassNames(e),
+      extendedProps: e
+    }));
 }
 
 function refreshCalendarEventsOnly() {
@@ -366,6 +421,8 @@ function renderCalendar(preserveState = false) {
 async function loadEvents() {
   const res = await fetch(`./public/events.json?ts=${Date.now()}`);
   events = await res.json();
+  const select = document.getElementById("calendarCategorySelect");
+  if (select) select.value = currentCalendarCategory;
   renderCalendar();
   renderLists();
 }
@@ -386,6 +443,17 @@ document.querySelectorAll(".filter").forEach(button => {
     renderLists();
   });
 });
+
+const calendarCategorySelect = document.getElementById("calendarCategorySelect");
+if (calendarCategorySelect) {
+  calendarCategorySelect.value = currentCalendarCategory;
+  calendarCategorySelect.addEventListener("change", (e) => {
+    currentCalendarCategory = e.target.value;
+    localStorage.setItem(CALENDAR_CATEGORY_KEY, currentCalendarCategory);
+    renderCalendar(true);
+    renderLists();
+  });
+}
 
 loadEvents().catch(err => {
   console.error(err);
