@@ -18,9 +18,26 @@
 
   <main class="layout">
     <section class="panel">
-      <div class="panelHeader">
-        <h2>カレンダー</h2>
-        <div id="summary"></div>
+      <div class="panelHeader calendarHeader">
+        <div>
+          <h2>カレンダー</h2>
+          <div id="summary"></div>
+        </div>
+        <label class="controlLabel">
+          カテゴリ
+          <select id="calendarCategorySelect">
+            <option value="all">全部</option>
+            <option value="dragonball">ドラゴンボール/DBFW</option>
+            <option value="pokemon">ポケカ</option>
+            <option value="onepiece">ワンピカード</option>
+            <option value="yugioh">遊戯王</option>
+            <option value="hololive">ホロカ/ヴァイス</option>
+            <option value="gundam">ガンダム/ガンプラ</option>
+            <option value="mtg">MTG</option>
+            <option value="kuji">一番くじ</option>
+            <option value="other">その他</option>
+          </select>
+        </label>
       </div>
       <div id="calendar"></div>
     </section>
