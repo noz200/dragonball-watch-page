@@ -1,6 +1,150 @@
 [
   {
-    "id": "0b47da129729656b",
+    "id": "58130700d3df363c",
+    "productId": "f01c778cce7955b1",
+    "statusKey": "x:2059021768913019108",
+    "eventKey": "x-event:2059021768913019108:X要確認:2026-05-26",
+    "title": "【X要確認】ポケカ MEGA スタートデッキ100",
+    "productTitle": "ポケカ MEGA スタートデッキ100",
+    "eventType": "X要確認",
+    "saleType": "要確認",
+    "source": "X検索: (ポケカ OR ポケモンカード) (予約 OR 抽選 OR 入荷 OR 再販 OR 発売) filter:links",
+    "url": "https://x.com/sharinajib/status/2059021768913019108",
+    "xSearchUrl": "https://x.com/search?q=%28%E3%83%9D%E3%82%B1%E3%82%AB%20OR%20%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%89%29%20%28%E4%BA%88%E7%B4%84%20OR%20%E6%8A%BD%E9%81%B8%20OR%20%E5%85%A5%E8%8D%B7%20OR%20%E5%86%8D%E8%B2%A9%20OR%20%E7%99%BA%E5%A3%B2%29%20filter%3Alinks&src=typed_query&f=live",
+    "date": "2026-05-26",
+    "startAt": "2026-05-26T09:00:00+09:00",
+    "detectedAt": "2026-05-26T06:42:17+09:00",
+    "flags": [
+      "X",
+      "カレンダー候補",
+      "優先度S",
+      "要確認",
+      "買えるかも"
+    ],
+    "memo": "X検索で自動検知。検索語: (ポケカ OR ポケモンカード) (予約 OR 抽選 OR 入荷 OR 再販 OR 発売) filter:links / 推定日付: 05/26 -> 2026-05-26 / 投稿本文: 吉田紗理那 @sharinajib · 21m うわあぁあ ポケカ MEGA スタートデッキ100 Amazonで抽選予約きたーー https:// amazon.co.jp/dp/B0FLD7HMRP/ ref=nosim?tag=6578387yoshida-22 … ポケセンオンライン当選したことない ピカチュウex SAR欲しすぎる #メガドリーム #ポケカ #ad #ポケモンカードゲーム 05/26 06:20 ポケモンカードゲーム MEGA スタートデッキ100 バトルコレクション From amazon.co.jp 36",
+    "score": 100,
+    "priority": "S",
+    "actionability": "買える可能性あり",
+    "scoreReasons": [
+      "買える可能性ワード",
+      "強カテゴリ",
+      "高騰しやすい商品語",
+      "X初動",
+      "新着48h",
+      "今日/明日",
+      "直接リンクあり"
+    ]
+  },
+  {
+    "id": "c9b4313219416049",
+    "productId": "f01c778cce7955b1",
+    "statusKey": "x:2059006745041907729",
+    "eventKey": "x-event:2059006745041907729:X要確認:2026-05-26",
+    "title": "【X要確認】ポケカ MEGA スタートデッキ100",
+    "productTitle": "ポケカ MEGA スタートデッキ100",
+    "eventType": "X要確認",
+    "saleType": "要確認",
+    "source": "X検索: (ポケカ OR ポケモンカード) (予約 OR 抽選 OR 入荷 OR 再販 OR 発売) filter:links",
+    "url": "https://x.com/sharinajib/status/2059006745041907729",
+    "xSearchUrl": "https://x.com/search?q=%28%E3%83%9D%E3%82%B1%E3%82%AB%20OR%20%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%89%29%20%28%E4%BA%88%E7%B4%84%20OR%20%E6%8A%BD%E9%81%B8%20OR%20%E5%85%A5%E8%8D%B7%20OR%20%E5%86%8D%E8%B2%A9%20OR%20%E7%99%BA%E5%A3%B2%29%20filter%3Alinks&src=typed_query&f=live",
+    "date": "2026-05-26",
+    "startAt": "2026-05-26T09:00:00+09:00",
+    "detectedAt": "2026-05-26T06:42:17+09:00",
+    "flags": [
+      "X",
+      "カレンダー候補",
+      "優先度S",
+      "要確認",
+      "買えるかも"
+    ],
+    "memo": "X検索で自動検知。検索語: (ポケカ OR ポケモンカード) (予約 OR 抽選 OR 入荷 OR 再販 OR 発売) filter:links / 推定日付: 05/26 -> 2026-05-26 / 投稿本文: 吉田紗理那 @sharinajib · 1h ぐあああ ポケカ MEGA スタートデッキ100 Amazonで抽選予約はココ見て当落チェック https:// amazon.co.jp/dp/B0FLD7HMRP/ ref=nosim?tag=59738753yoshida-22 … ヤマダ電機にエディオンも当たらない イーブイAR新カードやばい #ポケセンオンライン #ad #メガドリーム #ポケカ 05/26 05:20 ポケモンカードゲーム MEGA スタートデッキ100 バトルコレクション From amazon.co.jp 101",
+    "score": 100,
+    "priority": "S",
+    "actionability": "買える可能性あり",
+    "scoreReasons": [
+      "買える可能性ワード",
+      "強カテゴリ",
+      "高騰しやすい商品語",
+      "X初動",
+      "新着48h",
+      "今日/明日",
+      "直接リンクあり"
+    ]
+  },
+  {
+    "id": "7aeab4ca3d84431a",
+    "productId": "dc480036dc252bb8",
+    "statusKey": "x:2058961421967438141",
+    "eventKey": "x-event:2058961421967438141:X要確認:2026-05-26",
+    "title": "【X要確認】ポケモンカードゲーム スタートデッキ100",
+    "productTitle": "ポケモンカードゲーム スタートデッキ100",
+    "eventType": "X要確認",
+    "saleType": "要確認",
+    "source": "X検索: (ポケカ OR ポケモンカード) (予約 OR 抽選 OR 入荷 OR 再販 OR 発売) filter:links",
+    "url": "https://x.com/sharinajib/status/2058961421967438141",
+    "xSearchUrl": "https://x.com/search?q=%28%E3%83%9D%E3%82%B1%E3%82%AB%20OR%20%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%89%29%20%28%E4%BA%88%E7%B4%84%20OR%20%E6%8A%BD%E9%81%B8%20OR%20%E5%85%A5%E8%8D%B7%20OR%20%E5%86%8D%E8%B2%A9%20OR%20%E7%99%BA%E5%A3%B2%29%20filter%3Alinks&src=typed_query&f=live",
+    "date": "2026-05-26",
+    "startAt": "2026-05-26T09:00:00+09:00",
+    "detectedAt": "2026-05-26T06:42:17+09:00",
+    "flags": [
+      "X",
+      "カレンダー候補",
+      "優先度S",
+      "要確認",
+      "買えるかも"
+    ],
+    "memo": "X検索で自動検知。検索語: (ポケカ OR ポケモンカード) (予約 OR 抽選 OR 入荷 OR 再販 OR 発売) filter:links / 推定日付: 05/26 -> 2026-05-26 / 投稿本文: 吉田紗理那 @sharinajib · 4h ぎゃあああ ポケモンカードゲーム スタートデッキ100 Amazonの抽選予約の当落確認しておこ https:// amazon.co.jp/dp/B0FLD7HMRP/ ref=nosim?tag=59738753yoshida-22 … イオンキッズリパブリック毎回落選してる！！ ピカチュウex SAR欲しすぎる！！ #ad #メガドリーム #ポケカ #ad #スタートデッキ100 05/26 02:20 ポケモンカードゲーム MEGA スタートデッキ100 バトルコレクション From amazon.co.jp 144",
+    "score": 100,
+    "priority": "S",
+    "actionability": "買える可能性あり",
+    "scoreReasons": [
+      "買える可能性ワード",
+      "強カテゴリ",
+      "高騰しやすい商品語",
+      "X初動",
+      "新着48h",
+      "今日/明日",
+      "直接リンクあり"
+    ]
+  },
+  {
+    "id": "adf5176f2ea0e850",
+    "productId": "8076994e1de7393c",
+    "statusKey": "x:2058947871488323659",
+    "eventKey": "x-event:2058947871488323659:X要確認:2026-05-26",
+    "title": "【X要確認】関西ポケカ速報",
+    "productTitle": "関西ポケカ速報",
+    "eventType": "X要確認",
+    "saleType": "要確認",
+    "source": "X検索: (ポケカ OR ポケモンカード) (予約 OR 抽選 OR 入荷 OR 再販 OR 発売) filter:links",
+    "url": "https://x.com/otoku_ku_n/status/2058947871488323659",
+    "xSearchUrl": "https://x.com/search?q=%28%E3%83%9D%E3%82%B1%E3%82%AB%20OR%20%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%89%29%20%28%E4%BA%88%E7%B4%84%20OR%20%E6%8A%BD%E9%81%B8%20OR%20%E5%85%A5%E8%8D%B7%20OR%20%E5%86%8D%E8%B2%A9%20OR%20%E7%99%BA%E5%A3%B2%29%20filter%3Alinks&src=typed_query&f=live",
+    "date": "2026-05-26",
+    "startAt": "2026-05-26T09:00:00+09:00",
+    "detectedAt": "2026-05-26T06:42:17+09:00",
+    "flags": [
+      "X",
+      "カレンダー候補",
+      "優先度S",
+      "要確認",
+      "買えるかも"
+    ],
+    "memo": "X検索で自動検知。検索語: (ポケカ OR ポケモンカード) (予約 OR 抽選 OR 入荷 OR 再販 OR 発売) filter:links / 推定日付: 今日 -> 2026-05-26 / 投稿本文: 関西ポケカ速報 @otoku_ku_n · 5h 今日も関西で拾えてます ・古本市場 ・京都ヨドバシ 実際に購入報告いただいてます 「再販あったの知らんかった…」 ってなる前に入っといてください 関西のポケカ再販はできるだけ早く流してます https:// line.me/ti/g2/u-27j5hT AGLSu0PSTjEMvU_fVsgnFdhTrQ-CQQ?utm_source=invitation&utm_medium=link_copy&utm_campaign=default … #ポケカ再販 #ポケモンカード #関西 #京都ヨドバシ #古本市場 1 1 340",
+    "score": 100,
+    "priority": "S",
+    "actionability": "買える可能性あり",
+    "scoreReasons": [
+      "買える可能性ワード",
+      "強カテゴリ",
+      "高騰しやすい商品語",
+      "X初動",
+      "新着48h",
+      "今日/明日",
+      "直接リンクあり"
+    ]
+  },
+  {
+    "id": "be1252c362a71181",
     "productId": "0070e9fab4c6c8b3",
     "statusKey": "x:2058958523258540388",
     "eventKey": "x-event:2058958523258540388:X売り切れ要確認:undated",
@@ -13,13 +157,13 @@
     "xSearchUrl": "https://x.com/search?q=%28%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%20OR%20DRAGONBALL%20OR%20DB%29%20%28%E3%82%AB%E3%83%BC%E3%83%89%20OR%20%E3%83%88%E3%83%AC%E3%82%AB%20OR%20TCG%20OR%20%E3%83%91%E3%83%83%E3%82%AF%20OR%20BOX%29%20%28%E4%BA%88%E7%B4%84%20OR%20%E6%8A%BD%E9%81%B8%20OR%20%E5%85%A5%E8%8D%B7%20OR%20%E5%86%8D%E8%B2%A9%20OR%20%E7%99%BA%E5%A3%B2%29%20filter%3Alinks&src=typed_query&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:06:24+09:00",
+    "detectedAt": "2026-05-26T06:41:42+09:00",
     "flags": [
       "X",
       "優先度S",
       "要確認"
     ],
-    "memo": "X検索で自動検知。検索語: (ドラゴンボール OR DRAGONBALL OR DB) (カード OR トレカ OR TCG OR パック OR BOX) (予約 OR 抽選 OR 入荷 OR 再販 OR 発売) filter:links / 投稿本文: のの @elmo01230 · 2h 最強ジャンプ 2026年 06 月号 予約開始♪ https:// amzn.to/3NKElOp ドラゴンボールカードゲーム FP-083「ゴテンクス」 遊戯王RD ベアサイクロイド他付属 毎号売り切れ早いのでお早めに 2026/5/2発売予定【PR】 最強ジャンプ (6月号) From amazon.co.jp Paid partnership 36",
+    "memo": "X検索で自動検知。検索語: (ドラゴンボール OR DRAGONBALL OR DB) (カード OR トレカ OR TCG OR パック OR BOX) (予約 OR 抽選 OR 入荷 OR 再販 OR 発売) filter:links / 投稿本文: のの @elmo01230 · 4h 最強ジャンプ 2026年 06 月号 予約開始♪ https:// amzn.to/3NKElOp ドラゴンボールカードゲーム FP-083「ゴテンクス」 遊戯王RD ベアサイクロイド他付属 毎号売り切れ早いのでお早めに 2026/5/2発売予定【PR】 最強ジャンプ (6月号) From amazon.co.jp Paid partnership 63",
     "score": 100,
     "priority": "S",
     "actionability": "要確認",
@@ -34,7 +178,7 @@
     ]
   },
   {
-    "id": "46d0f7be6be8796a",
+    "id": "f5fc194c122ecfb0",
     "productId": "fd16d49adc0e968b",
     "statusKey": "x:2058908695132766266",
     "eventKey": "x-event:2058908695132766266:X売り切れ要確認:undated",
@@ -47,13 +191,13 @@
     "xSearchUrl": "https://x.com/search?q=%28%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%20OR%20DRAGONBALL%20OR%20DB%29%20%28%E3%82%AB%E3%83%BC%E3%83%89%20OR%20%E3%83%88%E3%83%AC%E3%82%AB%20OR%20TCG%20OR%20%E3%83%91%E3%83%83%E3%82%AF%20OR%20BOX%29%20%28%E4%BA%88%E7%B4%84%20OR%20%E6%8A%BD%E9%81%B8%20OR%20%E5%85%A5%E8%8D%B7%20OR%20%E5%86%8D%E8%B2%A9%20OR%20%E7%99%BA%E5%A3%B2%29%20filter%3Alinks&src=typed_query&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:06:24+09:00",
+    "detectedAt": "2026-05-26T06:41:42+09:00",
     "flags": [
       "X",
       "優先度S",
       "要確認"
     ],
-    "memo": "X検索で自動検知。検索語: (ドラゴンボール OR DRAGONBALL OR DB) (カード OR トレカ OR TCG OR パック OR BOX) (予約 OR 抽選 OR 入荷 OR 再販 OR 発売) filter:links / 投稿本文: のの @elmo01230 · 6h 最強ジャンプ 2026年 06 月号 Amazon 予約開始 https:// amzn.to/3NKElOp ドラゴンボールカードゲーム FP-083「ゴテンクス」 遊戯王RD ベアサイクロイド他付属 毎号売り切れ早いのでお早めに 2026/5/2発売予定【PR】 最強ジャンプ (6月号) From amazon.co.jp Paid partnership 1 181",
+    "memo": "X検索で自動検知。検索語: (ドラゴンボール OR DRAGONBALL OR DB) (カード OR トレカ OR TCG OR パック OR BOX) (予約 OR 抽選 OR 入荷 OR 再販 OR 発売) filter:links / 投稿本文: のの @elmo01230 · 7h 最強ジャンプ 2026年 06 月号 Amazon 予約開始 https:// amzn.to/3NKElOp ドラゴンボールカードゲーム FP-083「ゴテンクス」 遊戯王RD ベアサイクロイド他付属 毎号売り切れ早いのでお早めに 2026/5/2発売予定【PR】 最強ジャンプ (6月号) From amazon.co.jp Paid partnership 1 199",
     "score": 100,
     "priority": "S",
     "actionability": "要確認",
@@ -68,7 +212,7 @@
     ]
   },
   {
-    "id": "834752ff2bed30a3",
+    "id": "4f043e49ee8d0a4a",
     "productId": "7026c4796d46bee5",
     "statusKey": "x:2058882380526682508",
     "eventKey": "x-event:2058882380526682508:X抽選要確認:2026-06-13",
@@ -81,7 +225,7 @@
     "xSearchUrl": "https://x.com/search?q=%28DBFW%20OR%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20OR%20FUSION%20WORLD%29%20%28%E4%BA%88%E7%B4%84%20OR%20%E6%8A%BD%E9%81%B8%20OR%20%E5%85%A5%E8%8D%B7%20OR%20%E5%86%8D%E8%B2%A9%20OR%20%E7%99%BA%E5%A3%B2%20OR%20%E6%96%B0%E5%BC%BE%29%20filter%3Alinks&src=typed_query&f=live",
     "date": "2026-06-13",
     "startAt": "2026-06-13T09:00:00+09:00",
-    "detectedAt": "2026-05-26T05:06:34+09:00",
+    "detectedAt": "2026-05-26T06:41:53+09:00",
     "flags": [
       "X",
       "カレンダー候補",
@@ -89,7 +233,7 @@
       "要確認",
       "買えるかも"
     ],
-    "memo": "X検索で自動検知。検索語: (DBFW OR フュージョンワールド OR FUSION WORLD) (予約 OR 抽選 OR 入荷 OR 再販 OR 発売 OR 新弾) filter:links / 推定日付: 6月13日 -> 2026-06-13 / 投稿本文: 人気トレカゲットナビ 定価購入支援速報 @gamegetnavi · 8h ドラゴンボールカードゲーム フュージョンワールド ブースターパック『CROSS FORCE』 入店抽選6月13日(土)JUMP SHOP受付開始 応募期間 5月25日(月)～5月30日(土) 当選発表 5月31日(日)～6月1日(月)中 購入期間 6月13日(土) 抽選URLなど https:// gamenv.net/tc/stores/#com ment-310184 … #ドラゴンボール #DBFW Quote 人気トレカゲットナビ 定価購入支援速報 @gamegetnavi · May 23 ドラゴンボールフュージョンワールド『CROSS FORCE FB10』収録カード #AD 6月13日(土)発売 ヤバそう… ビジュアルパラレル FB10-014 地球のみんな シークレットレア FB10-122 孫悟飯：少年期 FB10-121 ベジット FB10-123 セル パラレル版リーダーカード FB10-001 孫悟空 FB10-001 孫悟空 x.com/gamegetnavi/st… 10 74 41K",
+    "memo": "X検索で自動検知。検索語: (DBFW OR フュージョンワールド OR FUSION WORLD) (予約 OR 抽選 OR 入荷 OR 再販 OR 発売 OR 新弾) filter:links / 推定日付: 6月13日 -> 2026-06-13 / 投稿本文: 人気トレカゲットナビ 定価購入支援速報 @gamegetnavi · 9h ドラゴンボールカードゲーム フュージョンワールド ブースターパック『CROSS FORCE』 入店抽選6月13日(土)JUMP SHOP受付開始 応募期間 5月25日(月)～5月30日(土) 当選発表 5月31日(日)～6月1日(月)中 購入期間 6月13日(土) 抽選URLなど https:// gamenv.net/tc/stores/#com ment-310184 … #ドラゴンボール #DBFW Quote 人気トレカゲットナビ 定価購入支援速報 @gamegetnavi · May 23 ドラゴンボールフュージョンワールド『CROSS FORCE FB10』収録カード #AD 6月13日(土)発売 ヤバそう… ビジュアルパラレル FB10-014 地球のみんな シークレットレア FB10-122 孫悟飯：少年期 FB10-121 ベジット FB10-123 セル パラレル版リーダーカード FB10-001 孫悟空 FB10-001 孫悟空 x.com/gamegetnavi/st… 10 80 45K",
     "score": 97,
     "priority": "S",
     "actionability": "買える可能性あり",
@@ -103,7 +247,7 @@
     ]
   },
   {
-    "id": "e70073f492e2b047",
+    "id": "f5f07b0b874b1576",
     "productId": "5d4f4c1dcd123752",
     "statusKey": "x:2058909953583145353",
     "eventKey": "x-event:2058909953583145353:X予約要確認:undated",
@@ -116,14 +260,14 @@
     "xSearchUrl": "https://x.com/search?q=%28%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%20OR%20DRAGONBALL%20OR%20DB%29%20%28%E3%82%AB%E3%83%BC%E3%83%89%20OR%20%E3%83%88%E3%83%AC%E3%82%AB%20OR%20TCG%20OR%20%E3%83%91%E3%83%83%E3%82%AF%20OR%20BOX%29%20%28%E4%BA%88%E7%B4%84%20OR%20%E6%8A%BD%E9%81%B8%20OR%20%E5%85%A5%E8%8D%B7%20OR%20%E5%86%8D%E8%B2%A9%20OR%20%E7%99%BA%E5%A3%B2%29%20filter%3Alinks&src=typed_query&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:06:24+09:00",
+    "detectedAt": "2026-05-26T06:41:42+09:00",
     "flags": [
       "X",
       "優先度S",
       "要確認",
       "買えるかも"
     ],
-    "memo": "X検索で自動検知。検索語: (ドラゴンボール OR DRAGONBALL OR DB) (カード OR トレカ OR TCG OR パック OR BOX) (予約 OR 抽選 OR 入荷 OR 再販 OR 発売) filter:links / 投稿本文: 陽 @7myyou8 · 6h 予約開始したけど即在庫切れ 復活を願って何度も見てみてる https:// amzn.to/4bmhNgk ドラゴンボールスーパーカードゲーム フュージョンワールド 公式カードカタログ 2nd COMPLETE CARD COLLECTION 孫悟空 孫悟飯 限定付録つき 【PR】Amazon ドラゴンボールスーパーカードゲーム フュージョンワールド 公式カードカタログ 2nd COMPLETE CARD COLLECTION (Vジャンプブックス(書籍)) From amazon.co.jp Paid partnership 2 176",
+    "memo": "X検索で自動検知。検索語: (ドラゴンボール OR DRAGONBALL OR DB) (カード OR トレカ OR TCG OR パック OR BOX) (予約 OR 抽選 OR 入荷 OR 再販 OR 発売) filter:links / 投稿本文: 陽 @7myyou8 · 7h 予約開始したけど即在庫切れ 復活を願って何度も見てみてる https:// amzn.to/4bmhNgk ドラゴンボールスーパーカードゲーム フュージョンワールド 公式カードカタログ 2nd COMPLETE CARD COLLECTION 孫悟空 孫悟飯 限定付録つき 【PR】Amazon ドラゴンボールスーパーカードゲーム フュージョンワールド 公式カードカタログ 2nd COMPLETE CARD COLLECTION (Vジャンプブックス(書籍)) From amazon.co.jp Paid partnership 2 193",
     "score": 95,
     "priority": "S",
     "actionability": "買える可能性あり",
@@ -137,7 +281,7 @@
     ]
   },
   {
-    "id": "0dc66f960c494cd5",
+    "id": "ae2313dc5c0d6441",
     "productId": "5ec73564512c0421",
     "statusKey": "x:2058939397362405854",
     "eventKey": "x-event:2058939397362405854:X抽選要確認:undated",
@@ -150,14 +294,14 @@
     "xSearchUrl": "https://x.com/search?q=%28DBFW%20OR%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20OR%20FUSION%20WORLD%29%20%28%E4%BA%88%E7%B4%84%20OR%20%E6%8A%BD%E9%81%B8%20OR%20%E5%85%A5%E8%8D%B7%20OR%20%E5%86%8D%E8%B2%A9%20OR%20%E7%99%BA%E5%A3%B2%20OR%20%E6%96%B0%E5%BC%BE%29%20filter%3Alinks&src=typed_query&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:06:34+09:00",
+    "detectedAt": "2026-05-26T06:41:53+09:00",
     "flags": [
       "X",
       "優先度S",
       "要確認",
       "買えるかも"
     ],
-    "memo": "X検索で自動検知。検索語: (DBFW OR フュージョンワールド OR FUSION WORLD) (予約 OR 抽選 OR 入荷 OR 再販 OR 発売 OR 新弾) filter:links / 投稿本文: トレカスタイル@ストームエメラルダの抽選予約情報 @gamesearch1 · 4h \\新弾予約受付開始/ 【予約商品】ドラゴンボール フュージョンワールド STORY BOOSTER 01 [ST01](ストーリーブースター01) #dragonball #フュージョンワールド #ドラゴンボールスーパーダイバーズ #DBSDV #STORYBOOSTER01 #ストーリーブースター 予約はこちら https:// gamesearch.base.ec/items/143158115 419",
+    "memo": "X検索で自動検知。検索語: (DBFW OR フュージョンワールド OR FUSION WORLD) (予約 OR 抽選 OR 入荷 OR 再販 OR 発売 OR 新弾) filter:links / 投稿本文: トレカスタイル@ストームエメラルダの抽選予約情報 @gamesearch1 · 5h \\新弾予約受付開始/ 【予約商品】ドラゴンボール フュージョンワールド STORY BOOSTER 01 [ST01](ストーリーブースター01) #dragonball #フュージョンワールド #ドラゴンボールスーパーダイバーズ #DBSDV #STORYBOOSTER01 #ストーリーブースター 予約はこちら https:// gamesearch.base.ec/items/143158115 600",
     "score": 94,
     "priority": "S",
     "actionability": "買える可能性あり",
@@ -171,7 +315,7 @@
     ]
   },
   {
-    "id": "8780780caf779127",
+    "id": "abf14531694674cc",
     "productId": "5ec73564512c0421",
     "statusKey": "x:2058894103216271631",
     "eventKey": "x-event:2058894103216271631:X抽選要確認:undated",
@@ -184,14 +328,14 @@
     "xSearchUrl": "https://x.com/search?q=%28DBFW%20OR%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20OR%20FUSION%20WORLD%29%20%28%E4%BA%88%E7%B4%84%20OR%20%E6%8A%BD%E9%81%B8%20OR%20%E5%85%A5%E8%8D%B7%20OR%20%E5%86%8D%E8%B2%A9%20OR%20%E7%99%BA%E5%A3%B2%20OR%20%E6%96%B0%E5%BC%BE%29%20filter%3Alinks&src=typed_query&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:06:34+09:00",
+    "detectedAt": "2026-05-26T06:41:53+09:00",
     "flags": [
       "X",
       "優先度S",
       "要確認",
       "買えるかも"
     ],
-    "memo": "X検索で自動検知。検索語: (DBFW OR フュージョンワールド OR FUSION WORLD) (予約 OR 抽選 OR 入荷 OR 再販 OR 発売 OR 新弾) filter:links / 投稿本文: トレカスタイル@ストームエメラルダの抽選予約情報 @gamesearch1 · 7h \\新弾予約受付開始/ 【予約商品】ドラゴンボール フュージョンワールド STORY BOOSTER 01 [ST01](ストーリーブースター01) #dragonball #フュージョンワールド #ドラゴンボールスーパーダイバーズ #DBSDV #STORYBOOSTER01 #ストーリーブースター 予約はこちら https:// gamesearch.base.ec/items/143158115 1 998",
+    "memo": "X検索で自動検知。検索語: (DBFW OR フュージョンワールド OR FUSION WORLD) (予約 OR 抽選 OR 入荷 OR 再販 OR 発売 OR 新弾) filter:links / 投稿本文: トレカスタイル@ストームエメラルダの抽選予約情報 @gamesearch1 · 8h \\新弾予約受付開始/ 【予約商品】ドラゴンボール フュージョンワールド STORY BOOSTER 01 [ST01](ストーリーブースター01) #dragonball #フュージョンワールド #ドラゴンボールスーパーダイバーズ #DBSDV #STORYBOOSTER01 #ストーリーブースター 予約はこちら https:// gamesearch.base.ec/items/143158115 1 1K",
     "score": 94,
     "priority": "S",
     "actionability": "買える可能性あり",
@@ -205,20 +349,20 @@
     ]
   },
   {
-    "id": "3ccb6b4762e78175",
-    "productId": "9106af89991a7568",
-    "statusKey": "x:2057000158538477603",
-    "eventKey": "x-event:2057000158538477603:X要確認:2026-06-01",
-    "title": "【X要確認】カードラボ千葉中央店＠遊戯王ラッシュデュエル強化中！",
-    "productTitle": "カードラボ千葉中央店＠遊戯王ラッシュデュエル強化中！",
-    "eventType": "X要確認",
+    "id": "99d02f172826c6c6",
+    "productId": "4e9e63236c8791da",
+    "statusKey": "x:2058886428806070344",
+    "eventKey": "x-event:2058886428806070344:X抽選要確認:2027-03-28",
+    "title": "【X抽選要確認】★抽選販売情報★",
+    "productTitle": "★抽選販売情報★",
+    "eventType": "X抽選要確認",
     "saleType": "要確認",
-    "source": "X検索: DBFW 再販",
-    "url": "https://x.com/chiba_labo/status/2057000158538477603",
-    "xSearchUrl": "https://x.com/search?q=DBFW%20%E5%86%8D%E8%B2%A9&src=typed_query&f=live",
-    "date": "2026-06-01",
-    "startAt": "2026-06-01T09:00:00+09:00",
-    "detectedAt": "2026-05-26T05:06:03+09:00",
+    "source": "X検索: (ドラゴンボール OR DBFW OR フュージョンワールド OR ダイバーズ) (予約受付中 OR 予約開始 OR 抽選販売 OR 在庫復活 OR 販売開始)",
+    "url": "https://x.com/TSUTAYA74558903/status/2058886428806070344",
+    "xSearchUrl": "https://x.com/search?q=%28%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%20OR%20DBFW%20OR%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20OR%20%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%29%20%28%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20OR%20%E4%BA%88%E7%B4%84%E9%96%8B%E5%A7%8B%20OR%20%E6%8A%BD%E9%81%B8%E8%B2%A9%E5%A3%B2%20OR%20%E5%9C%A8%E5%BA%AB%E5%BE%A9%E6%B4%BB%20OR%20%E8%B2%A9%E5%A3%B2%E9%96%8B%E5%A7%8B%29&src=typed_query&f=live",
+    "date": "2027-03-28",
+    "startAt": "2027-03-28T09:00:00+09:00",
+    "detectedAt": "2026-05-26T06:42:08+09:00",
     "flags": [
       "X",
       "カレンダー候補",
@@ -226,8 +370,146 @@
       "要確認",
       "買えるかも"
     ],
-    "memo": "X検索で自動検知。検索語: DBFW 再販 / 推定日付: 6.1 -> 2026-06-01 / 投稿本文: カードラボ千葉中央店＠遊戯王ラッシュデュエル強化中！ @chiba_labo · May 20 【DBFW 販売情報】 ブースターパック DUAL EVOLUTION [FB09] お一人様6パックまで 再入荷しました 購入の際、BANDAITCGを登録済みか確認を行います。 確認ができない方には販売できません。予めご了承ください。 皆様のご来店お待ちしております ※下記の画像部分を確認させていただきます 1 4 6.1K",
-    "score": 89,
+    "memo": "X検索で自動検知。検索語: (ドラゴンボール OR DBFW OR フュージョンワールド OR ダイバーズ) (予約受付中 OR 予約開始 OR 抽選販売 OR 在庫復活 OR 販売開始) / 推定日付: ３月２８日 -> 2027-03-28 / 投稿本文: TSUTAYA辰巳台店（トレカ２６年３月２８日ＯＰＥＮ） @TSUTAYA74558903 · 9h ★抽選販売情報★ #ドラゴンボールＳＣＧＦＷ #CROSSFORCE 抽選販売実施いたします。 ６／５～７までの応募受付 ６／１３～１４までの販売 新LivePocketよりお申込となります。 ご参加お待ちしております #TSUTAYA辰巳台 3 16 2.2K",
+    "score": 93,
+    "priority": "S",
+    "actionability": "買える可能性あり",
+    "scoreReasons": [
+      "買える可能性ワード",
+      "強カテゴリ",
+      "高騰しやすい商品語",
+      "X初動",
+      "新着48h",
+      "直接リンクあり"
+    ]
+  },
+  {
+    "id": "671515cb73d2c9d4",
+    "productId": "c8baab447998d516",
+    "statusKey": "x:2059001558247895474",
+    "eventKey": "x-event:2059001558247895474:X抽選要確認:undated",
+    "title": "【X要確認】招待制リクエスト予約開始",
+    "productTitle": "招待制リクエスト予約開始",
+    "eventType": "X抽選要確認",
+    "saleType": "要確認",
+    "source": "X検索: (ポケカ OR ポケモンカード) (予約 OR 抽選 OR 入荷 OR 再販 OR 発売) filter:links",
+    "url": "https://x.com/H8s4tOPdcI3023/status/2059001558247895474",
+    "xSearchUrl": "https://x.com/search?q=%28%E3%83%9D%E3%82%B1%E3%82%AB%20OR%20%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%89%29%20%28%E4%BA%88%E7%B4%84%20OR%20%E6%8A%BD%E9%81%B8%20OR%20%E5%85%A5%E8%8D%B7%20OR%20%E5%86%8D%E8%B2%A9%20OR%20%E7%99%BA%E5%A3%B2%29%20filter%3Alinks&src=typed_query&f=live",
+    "date": null,
+    "startAt": null,
+    "detectedAt": "2026-05-26T06:42:17+09:00",
+    "flags": [
+      "X",
+      "優先度S",
+      "要確認",
+      "買えるかも"
+    ],
+    "memo": "X検索で自動検知。検索語: (ポケカ OR ポケモンカード) (予約 OR 抽選 OR 入荷 OR 再販 OR 発売) filter:links / 投稿本文: りあ @H8s4tOPdcI3023 · 1h 招待制リクエスト予約開始 ↓↓ポケモンカードゲーム MEGA 拡張パック アビスアイ https:// amazon.co.jp/dp/B0GP9QHQ3Y/ ?tag=nono05-22 … ↓↓当落結果がきてるかも？ https:// amzn.to/4mCIuAZ 抽選に当たるといいな 【PR】 Amazon ポケカ ポケモンカードゲーム MEGA 拡張パック アビスアイ BOX From amazon.co.jp Paid partnership 77",
+    "score": 92,
+    "priority": "S",
+    "actionability": "買える可能性あり",
+    "scoreReasons": [
+      "買える可能性ワード",
+      "強カテゴリ",
+      "高騰しやすい商品語",
+      "X初動",
+      "新着48h",
+      "直接リンクあり"
+    ]
+  },
+  {
+    "id": "8373b5e6a154cc71",
+    "productId": "52c07dafa7769c25",
+    "statusKey": "x:2058963053006504138",
+    "eventKey": "x-event:2058963053006504138:X締切要確認:undated",
+    "title": "【X要確認】【PR】ポケモンカードゲーム",
+    "productTitle": "【PR】ポケモンカードゲーム",
+    "eventType": "X締切要確認",
+    "saleType": "要確認",
+    "source": "X検索: (ポケカ OR ポケモンカード) (予約 OR 抽選 OR 入荷 OR 再販 OR 発売) filter:links",
+    "url": "https://x.com/7myyou8/status/2058963053006504138",
+    "xSearchUrl": "https://x.com/search?q=%28%E3%83%9D%E3%82%B1%E3%82%AB%20OR%20%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%89%29%20%28%E4%BA%88%E7%B4%84%20OR%20%E6%8A%BD%E9%81%B8%20OR%20%E5%85%A5%E8%8D%B7%20OR%20%E5%86%8D%E8%B2%A9%20OR%20%E7%99%BA%E5%A3%B2%29%20filter%3Alinks&src=typed_query&f=live",
+    "date": null,
+    "startAt": null,
+    "detectedAt": "2026-05-26T06:42:17+09:00",
+    "flags": [
+      "X",
+      "優先度S",
+      "要確認",
+      "買えるかも"
+    ],
+    "memo": "X検索で自動検知。検索語: (ポケカ OR ポケモンカード) (予約 OR 抽選 OR 入荷 OR 再販 OR 発売) filter:links / 投稿本文: 陽 @7myyou8 · 4h 【PR】ポケモンカードゲーム スカーレット&バイオレット ハイクラスパック テラスタルフェスex BOX 招待制リクエスト受付中 https:// amzn.to/42T0xdk 結果はココから確認 https:// amzn.to/48LW4Nk 抽選後の当選は48時間までの有効期限 #ポケカ ポケモンカードゲーム スカーレット&バイオレット ハイクラスパック テラスタルフェスex BOX From amazon.co.jp Paid partnership 82",
+    "score": 92,
+    "priority": "S",
+    "actionability": "買える可能性あり",
+    "scoreReasons": [
+      "買える可能性ワード",
+      "強カテゴリ",
+      "高騰しやすい商品語",
+      "X初動",
+      "新着48h",
+      "直接リンクあり"
+    ]
+  },
+  {
+    "id": "570d358e110f478e",
+    "productId": "c3fdeb9a6228dc19",
+    "statusKey": "x:2058899246770966579",
+    "eventKey": "x-event:2058899246770966579:X在庫要確認:2027-04-01",
+    "title": "【X在庫要確認】DBFW入荷情報",
+    "productTitle": "DBFW入荷情報",
+    "eventType": "X在庫要確認",
+    "saleType": "要確認",
+    "source": "X検索: (DBFW OR フュージョンワールド OR FUSION WORLD) (予約 OR 抽選 OR 入荷 OR 再販 OR 発売 OR 新弾) filter:links",
+    "url": "https://x.com/mercard_akiba/status/2058899246770966579",
+    "xSearchUrl": "https://x.com/search?q=%28DBFW%20OR%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20OR%20FUSION%20WORLD%29%20%28%E4%BA%88%E7%B4%84%20OR%20%E6%8A%BD%E9%81%B8%20OR%20%E5%85%A5%E8%8D%B7%20OR%20%E5%86%8D%E8%B2%A9%20OR%20%E7%99%BA%E5%A3%B2%20OR%20%E6%96%B0%E5%BC%BE%29%20filter%3Alinks&src=typed_query&f=live",
+    "date": "2027-04-01",
+    "startAt": "2027-04-01T09:00:00+09:00",
+    "detectedAt": "2026-05-26T06:41:53+09:00",
+    "flags": [
+      "X",
+      "カレンダー候補",
+      "優先度S",
+      "要確認",
+      "買えるかも"
+    ],
+    "memo": "X検索で自動検知。検索語: (DBFW OR フュージョンワールド OR FUSION WORLD) (予約 OR 抽選 OR 入荷 OR 再販 OR 発売 OR 新弾) filter:links / 推定日付: 4.1 -> 2027-04-01 / 投稿本文: メルカード@アキバカードショップ @mercard_akiba · 8h DBFW入荷情報 ゴジータGTスーパーパラレル入荷いたしました！！ めったに入荷入らないのでお探しの方はお早めに！！ ↓購入はこちらから！！ https:// mercarddb.jp/product/2710 2 4.1K",
+    "score": 91,
+    "priority": "S",
+    "actionability": "買える可能性あり",
+    "scoreReasons": [
+      "買える可能性ワード",
+      "強カテゴリ",
+      "高騰しやすい商品語",
+      "X初動",
+      "新着48h",
+      "直接リンクあり"
+    ]
+  },
+  {
+    "id": "f84b8f786072a6e5",
+    "productId": "667bfb1f4d000275",
+    "statusKey": "x:2058760836861280742",
+    "eventKey": "x-event:2058760836861280742:X発売予定:2026-06-01",
+    "title": "【X発売予定】2026年6月に発売するドラゴンボールフィギュアまとめ！来月は市販品と一番くじが激アツ！！",
+    "productTitle": "2026年6月に発売するドラゴンボールフィギュアまとめ！来月は市販品と一番くじが激アツ！！",
+    "eventType": "X発売予定",
+    "saleType": "要確認",
+    "source": "X検索: (一番くじ OR くじ) ドラゴンボール (予約 OR 抽選 OR 販売開始 OR 発売) filter:links",
+    "url": "https://x.com/roi_31859/status/2058760836861280742",
+    "xSearchUrl": "https://x.com/search?q=%28%E4%B8%80%E7%95%AA%E3%81%8F%E3%81%98%20OR%20%E3%81%8F%E3%81%98%29%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%20%28%E4%BA%88%E7%B4%84%20OR%20%E6%8A%BD%E9%81%B8%20OR%20%E8%B2%A9%E5%A3%B2%E9%96%8B%E5%A7%8B%20OR%20%E7%99%BA%E5%A3%B2%29%20filter%3Alinks&src=typed_query&f=live",
+    "date": "2026-06-01",
+    "startAt": "2026-06-01T09:00:00+09:00",
+    "detectedAt": "2026-05-26T06:42:13+09:00",
+    "flags": [
+      "X",
+      "カレンダー候補",
+      "優先度S",
+      "要確認",
+      "買えるかも"
+    ],
+    "memo": "X検索で自動検知。検索語: (一番くじ OR くじ) ドラゴンボール (予約 OR 抽選 OR 販売開始 OR 発売) filter:links / 推定日付: 2026年6月 -> 2026-06-01 / 投稿本文: Roi@Youtube @roi_31859 · 17h 2026年6月に発売するドラゴンボールフィギュアまとめ！来月は市販品と一番くじが激アツ！！ https:// youtu.be/o5rc84KD-Pg?si =lp-c0AJm-Qs6OqwG … @YouTube より 15 390",
+    "score": 90,
     "priority": "S",
     "actionability": "買える可能性あり",
     "scoreReasons": [
@@ -241,7 +523,7 @@
     ]
   },
   {
-    "id": "48a3a51baf5e272f",
+    "id": "be2855605f25fb11",
     "productId": "c24e7dcd4681b75a",
     "statusKey": "x:2058905022260539694",
     "eventKey": "x-event:2058905022260539694:X在庫要確認:undated",
@@ -254,14 +536,14 @@
     "xSearchUrl": "https://x.com/search?q=%28%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%20OR%20DRAGONBALL%20OR%20DB%29%20%28%E3%82%AB%E3%83%BC%E3%83%89%20OR%20%E3%83%88%E3%83%AC%E3%82%AB%20OR%20TCG%20OR%20%E3%83%91%E3%83%83%E3%82%AF%20OR%20BOX%29%20%28%E4%BA%88%E7%B4%84%20OR%20%E6%8A%BD%E9%81%B8%20OR%20%E5%85%A5%E8%8D%B7%20OR%20%E5%86%8D%E8%B2%A9%20OR%20%E7%99%BA%E5%A3%B2%29%20filter%3Alinks&src=typed_query&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:06:24+09:00",
+    "detectedAt": "2026-05-26T06:41:42+09:00",
     "flags": [
       "X",
       "優先度S",
       "要確認",
       "買えるかも"
     ],
-    "memo": "X検索で自動検知。検索語: (ドラゴンボール OR DRAGONBALL OR DB) (カード OR トレカ OR TCG OR パック OR BOX) (予約 OR 抽選 OR 入荷 OR 再販 OR 発売) filter:links / 投稿本文: フルアヘッド@フュージョンワールド @Fullahead_fw · 6h 入荷情報 #フュージョンワールド！！ 人気の高額カードを入荷しました！ 画像以外にも入荷しておりますので、是非お買い求めください！！ 販売ページをチェック https:// fullahead-dbs.com #ドラゴンボール 1 290",
+    "memo": "X検索で自動検知。検索語: (ドラゴンボール OR DRAGONBALL OR DB) (カード OR トレカ OR TCG OR パック OR BOX) (予約 OR 抽選 OR 入荷 OR 再販 OR 発売) filter:links / 投稿本文: フルアヘッド@フュージョンワールド @Fullahead_fw · 8h 入荷情報 #フュージョンワールド！！ 人気の高額カードを入荷しました！ 画像以外にも入荷しておりますので、是非お買い求めください！！ 販売ページをチェック https:// fullahead-dbs.com #ドラゴンボール 1 312",
     "score": 88,
     "priority": "S",
     "actionability": "買える可能性あり",
@@ -275,56 +557,20 @@
     ]
   },
   {
-    "id": "674b9488a664aff2",
-    "productId": "4514d1a0ff2b6c10",
-    "statusKey": "x:2048361378591945056",
-    "eventKey": "x-event:2048361378591945056:X抽選要確認:2026-05-26",
-    "title": "【X抽選要確認】今日はドラゴンボールダイバーズの大会行っても当然抽選漏れ",
-    "productTitle": "今日はドラゴンボールダイバーズの大会行っても当然抽選漏れ",
-    "eventType": "X抽選要確認",
-    "saleType": "要確認",
-    "source": "X検索: ドラゴンボールダイバーズ 抽選",
-    "url": "https://x.com/T1072323574/status/2048361378591945056",
-    "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%20%E6%8A%BD%E9%81%B8&src=typed_query&f=live",
-    "date": "2026-05-26",
-    "startAt": "2026-05-26T09:00:00+09:00",
-    "detectedAt": "2026-05-26T05:06:19+09:00",
-    "flags": [
-      "X",
-      "カレンダー候補",
-      "優先度S",
-      "要確認",
-      "買えるかも"
-    ],
-    "memo": "X検索で自動検知。検索語: ドラゴンボールダイバーズ 抽選 / 推定日付: 今日 -> 2026-05-26 / 投稿本文: トケユマのおうち @T1072323574 · Apr 26 今日はドラゴンボールダイバーズの大会行っても当然抽選漏れ 即退散後、鞍掛峠から永源寺経由でとても快適でしたが帰りは雨にやられました（笑） 3 1 45 1.2K",
-    "score": 86,
-    "priority": "S",
-    "actionability": "買える可能性あり",
-    "scoreReasons": [
-      "買える可能性ワード",
-      "強カテゴリ",
-      "高騰しやすい商品語",
-      "X初動",
-      "新着48h",
-      "今日/明日",
-      "直接リンクあり"
-    ]
-  },
-  {
-    "id": "8b29d50f119fdc5b",
-    "productId": "cfd9b7653afe07c1",
-    "statusKey": "x:2045328675013582867",
-    "eventKey": "x-event:2045328675013582867:X要確認:2026-05-27",
-    "title": "【X要確認】チャンピオンシップ予選大会、自分は抽選落ち…",
-    "productTitle": "チャンピオンシップ予選大会、自分は抽選落ち…",
+    "id": "4220c553b32b6035",
+    "productId": "66890ccff55097cb",
+    "statusKey": "x:2056686369779728553",
+    "eventKey": "x-event:2056686369779728553:X要確認:2027-02-02",
+    "title": "【X要確認】【ダイバーシティ東京 プラザ店/オンライン入荷情報】",
+    "productTitle": "【ダイバーシティ東京 プラザ店/オンライン入荷情報】",
     "eventType": "X要確認",
     "saleType": "要確認",
-    "source": "X検索: ドラゴンボールダイバーズ 抽選",
-    "url": "https://x.com/fu_game_youtube/status/2045328675013582867",
-    "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%20%E6%8A%BD%E9%81%B8&src=typed_query&f=live",
-    "date": "2026-05-27",
-    "startAt": "2026-05-27T09:00:00+09:00",
-    "detectedAt": "2026-05-26T05:06:19+09:00",
+    "source": "X検索: (一番くじ OR くじ) ドラゴンボール (予約 OR 抽選 OR 販売開始 OR 発売) filter:links",
+    "url": "https://x.com/lashin_odaiba/status/2056686369779728553",
+    "xSearchUrl": "https://x.com/search?q=%28%E4%B8%80%E7%95%AA%E3%81%8F%E3%81%98%20OR%20%E3%81%8F%E3%81%98%29%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%20%28%E4%BA%88%E7%B4%84%20OR%20%E6%8A%BD%E9%81%B8%20OR%20%E8%B2%A9%E5%A3%B2%E9%96%8B%E5%A7%8B%20OR%20%E7%99%BA%E5%A3%B2%29%20filter%3Alinks&src=typed_query&f=live",
+    "date": "2027-02-02",
+    "startAt": "2027-02-02T09:00:00+09:00",
+    "detectedAt": "2026-05-26T06:42:13+09:00",
     "flags": [
       "X",
       "カレンダー候補",
@@ -332,8 +578,8 @@
       "要確認",
       "買えるかも"
     ],
-    "memo": "X検索で自動検知。検索語: ドラゴンボールダイバーズ 抽選 / 推定日付: 明日 -> 2026-05-27 / 投稿本文: フウgames【DBSDV】 @fu_game_youtube · Apr 18 チャンピオンシップ予選大会、自分は抽選落ち… 親が当たったので頑張ってと思ったのですが、一回戦敗退でした… 悔しいですが、チャンピオンシップには出場ならず。 また、平大会とかに向けて修行します #ドラゴンボールスーパーダイバーズ #ドラゴンボールダイバーズ #チャンピオンシップ #大会 Quote フウgames【DBSDV】 @fu_game_youtube · Apr 17 明日はいよいよ決戦の日 まずはエントリーできるかどうかだ 絶対に出てみせる！！ #ドラゴンボールスーパーダイバーズ #ドラゴンボールダイバーズ #大会 #店舗大会 #チャンピオンシップ予選 752",
-    "score": 86,
+    "memo": "X検索で自動検知。検索語: (一番くじ OR くじ) ドラゴンボール (予約 OR 抽選 OR 販売開始 OR 発売) filter:links / 推定日付: 2.2 -> 2027-02-02 / 投稿本文: らしんばん ダイバーシティ東京 プラザ店 @lashin_odaiba · May 19 【ダイバーシティ東京 プラザ店/オンライン入荷情報】 【未開封】一番くじ ドラゴンボール DRAGON BALL 40th ～其之二～ ラストワン賞 40th Anniversary Figure ～神龍～入荷しました！ #ドラゴンボール #神龍 らしんばんオンラインで販売中 https:// shop.lashinbang.com/products/detai l/8017051 … 7 2.2K",
+    "score": 87,
     "priority": "S",
     "actionability": "買える可能性あり",
     "scoreReasons": [
@@ -342,12 +588,11 @@
       "高騰しやすい商品語",
       "X初動",
       "新着48h",
-      "今日/明日",
       "直接リンクあり"
     ]
   },
   {
-    "id": "9a254b13af72fca7",
+    "id": "53b6301d82bd8847",
     "productId": "7ecd4730659e6d73",
     "statusKey": "x:2058903663004078113",
     "eventKey": "x-event:2058903663004078113:X在庫要確認:undated",
@@ -360,14 +605,14 @@
     "xSearchUrl": "https://x.com/search?q=%28%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%20OR%20DRAGONBALL%20OR%20DB%29%20%28%E3%82%AB%E3%83%BC%E3%83%89%20OR%20%E3%83%88%E3%83%AC%E3%82%AB%20OR%20TCG%20OR%20%E3%83%91%E3%83%83%E3%82%AF%20OR%20BOX%29%20%28%E4%BA%88%E7%B4%84%20OR%20%E6%8A%BD%E9%81%B8%20OR%20%E5%85%A5%E8%8D%B7%20OR%20%E5%86%8D%E8%B2%A9%20OR%20%E7%99%BA%E5%A3%B2%29%20filter%3Alinks&src=typed_query&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:06:24+09:00",
+    "detectedAt": "2026-05-26T06:41:42+09:00",
     "flags": [
       "X",
       "優先度S",
       "要確認",
       "買えるかも"
     ],
-    "memo": "X検索で自動検知。検索語: (ドラゴンボール OR DRAGONBALL OR DB) (カード OR トレカ OR TCG OR パック OR BOX) (予約 OR 抽選 OR 入荷 OR 再販 OR 発売) filter:links / 投稿本文: フルアヘッド＠ドラゴンボールスーパーダイバーズ/ドラゴンボールヒーローズ @fullaheaddbsd · 6h 入荷情報 人気のカードをはじめ多数入荷しました！ 皆様、是非お買い求めください！！ 詳細はこちらから https:// pt-fullahead.com #ドラゴンボール #ヒーローズ 1 5 480",
+    "memo": "X検索で自動検知。検索語: (ドラゴンボール OR DRAGONBALL OR DB) (カード OR トレカ OR TCG OR パック OR BOX) (予約 OR 抽選 OR 入荷 OR 再販 OR 発売) filter:links / 投稿本文: フルアヘッド＠ドラゴンボールスーパーダイバーズ/ドラゴンボールヒーローズ @fullaheaddbsd · 8h 入荷情報 人気のカードをはじめ多数入荷しました！ 皆様、是非お買い求めください！！ 詳細はこちらから https:// pt-fullahead.com #ドラゴンボール #ヒーローズ 1 5 507",
     "score": 85,
     "priority": "S",
     "actionability": "買える可能性あり",
@@ -381,7 +626,7 @@
     ]
   },
   {
-    "id": "f08cc66a453674fc",
+    "id": "ad9e672e0b2bca9e",
     "productId": "a7f8b906bdeb90f2",
     "statusKey": "x:2058903535752974465",
     "eventKey": "x-event:2058903535752974465:X在庫要確認:undated",
@@ -394,14 +639,14 @@
     "xSearchUrl": "https://x.com/search?q=%28%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%20OR%20DRAGONBALL%20OR%20DB%29%20%28%E3%82%AB%E3%83%BC%E3%83%89%20OR%20%E3%83%88%E3%83%AC%E3%82%AB%20OR%20TCG%20OR%20%E3%83%91%E3%83%83%E3%82%AF%20OR%20BOX%29%20%28%E4%BA%88%E7%B4%84%20OR%20%E6%8A%BD%E9%81%B8%20OR%20%E5%85%A5%E8%8D%B7%20OR%20%E5%86%8D%E8%B2%A9%20OR%20%E7%99%BA%E5%A3%B2%29%20filter%3Alinks&src=typed_query&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:06:24+09:00",
+    "detectedAt": "2026-05-26T06:41:42+09:00",
     "flags": [
       "X",
       "優先度S",
       "要確認",
       "買えるかも"
     ],
-    "memo": "X検索で自動検知。検索語: (ドラゴンボール OR DRAGONBALL OR DB) (カード OR トレカ OR TCG OR パック OR BOX) (予約 OR 抽選 OR 入荷 OR 再販 OR 発売) filter:links / 投稿本文: フルアヘッド＠ドラゴンボールスーパーダイバーズ/ドラゴンボールヒーローズ @fullaheaddbsd · 6h 入荷情報 人気の高額カードはじめ多数入荷しました！ 皆様、是非お買い求めください！！ 詳細はこちらから https:// pt-fullahead.com #ドラゴンボール #スーパーダイバーズ 3 450",
+    "memo": "X検索で自動検知。検索語: (ドラゴンボール OR DRAGONBALL OR DB) (カード OR トレカ OR TCG OR パック OR BOX) (予約 OR 抽選 OR 入荷 OR 再販 OR 発売) filter:links / 投稿本文: フルアヘッド＠ドラゴンボールスーパーダイバーズ/ドラゴンボールヒーローズ @fullaheaddbsd · 8h 入荷情報 人気の高額カードはじめ多数入荷しました！ 皆様、是非お買い求めください！！ 詳細はこちらから https:// pt-fullahead.com #ドラゴンボール #スーパーダイバーズ 3 470",
     "score": 85,
     "priority": "S",
     "actionability": "買える可能性あり",
@@ -415,56 +660,20 @@
     ]
   },
   {
-    "id": "65cec4dbf248355c",
-    "productId": "59d3d95177633ac2",
-    "statusKey": "x:2058020123848683875",
-    "eventKey": "x-event:2058020123848683875:X締切要確認:2026-05-29",
-    "title": "【X締切要確認】『DUAL EVOLUTION FB09』再販の抽選券申込受付を開始",
-    "productTitle": "『DUAL EVOLUTION FB09』再販の抽選券申込受付を開始",
-    "eventType": "X締切要確認",
+    "id": "f6420e79004d1517",
+    "productId": "b1184e9fc1941303",
+    "statusKey": "x:2056882166781575227",
+    "eventKey": "x-event:2056882166781575227:X発売予定:2026-10-01",
+    "title": "【X発売予定】「一番くじ ドラゴンボール SPIRIT OF THE SAIYAN」2026年10月中旬発売予定！悟空や超サイヤ人悟飯、悟天、バーダック、ラディッツの「MASTERLISE」フィギュアがラインナップ",
+    "productTitle": "「一番くじ ドラゴンボール SPIRIT OF THE SAIYAN」2026年10月中旬発売予定！悟空や超サイヤ人悟飯、悟天、バーダック、ラディッツの「MASTERLISE」フィギュアがラインナップ",
+    "eventType": "X発売予定",
     "saleType": "要確認",
-    "source": "X検索: DBFW 再販",
-    "url": "https://x.com/gamegetnavi/status/2058020123848683875",
-    "xSearchUrl": "https://x.com/search?q=DBFW%20%E5%86%8D%E8%B2%A9&src=typed_query&f=live",
-    "date": "2026-05-29",
-    "startAt": "2026-05-29T09:00:00+09:00",
-    "detectedAt": "2026-05-26T05:06:03+09:00",
-    "flags": [
-      "X",
-      "カレンダー候補",
-      "優先度S",
-      "要確認",
-      "買えるかも"
-    ],
-    "memo": "X検索で自動検知。検索語: DBFW 再販 / 推定日付: 5月29日 -> 2026-05-29 / 投稿本文: 人気トレカゲットナビ 定価購入支援速報 @gamegetnavi · May 23 ドラゴンボール公式ストア 『DUAL EVOLUTION FB09』再販の抽選券申込受付を開始 エナジーマーカーパック配布も 応募期間 5月29日(金)まで 当選発表 5月30日(土)12:00以降 購入期間 6月6日(土)・6月7日(日) 抽選URLなど https:// gamenv.net/tc/stores/#com ment-308847 … #ドラゴンボール #DBFW Show more 10 136 35K",
-    "score": 85,
-    "priority": "S",
-    "actionability": "買える可能性あり",
-    "scoreReasons": [
-      "買える可能性ワード",
-      "強カテゴリ",
-      "高騰しやすい商品語",
-      "X初動",
-      "新着48h",
-      "7日以内",
-      "直接リンクあり"
-    ]
-  },
-  {
-    "id": "b4cf6be71b175c5b",
-    "productId": "69b94d63363b8120",
-    "statusKey": "x:2058487219439255959",
-    "eventKey": "x-event:2058487219439255959:X締切要確認:2027-01-03",
-    "title": "【X締切要確認】#フュージョンワールド 商品情報",
-    "productTitle": "#フュージョンワールド 商品情報",
-    "eventType": "X締切要確認",
-    "saleType": "要確認",
-    "source": "X検索: DBFW 入荷",
-    "url": "https://x.com/top_card1/status/2058487219439255959",
-    "xSearchUrl": "https://x.com/search?q=DBFW%20%E5%85%A5%E8%8D%B7&src=typed_query&f=live",
-    "date": "2027-01-03",
-    "startAt": "2027-01-03T09:00:00+09:00",
-    "detectedAt": "2026-05-26T05:06:09+09:00",
+    "source": "X検索: (一番くじ OR くじ) ドラゴンボール (予約 OR 抽選 OR 販売開始 OR 発売) filter:links",
+    "url": "https://x.com/xQlc6epsn56383/status/2056882166781575227",
+    "xSearchUrl": "https://x.com/search?q=%28%E4%B8%80%E7%95%AA%E3%81%8F%E3%81%98%20OR%20%E3%81%8F%E3%81%98%29%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%20%28%E4%BA%88%E7%B4%84%20OR%20%E6%8A%BD%E9%81%B8%20OR%20%E8%B2%A9%E5%A3%B2%E9%96%8B%E5%A7%8B%20OR%20%E7%99%BA%E5%A3%B2%29%20filter%3Alinks&src=typed_query&f=live",
+    "date": "2026-10-01",
+    "startAt": "2026-10-01T09:00:00+09:00",
+    "detectedAt": "2026-05-26T06:42:13+09:00",
     "flags": [
       "X",
       "カレンダー候補",
@@ -472,8 +681,8 @@
       "要確認",
       "買えるかも"
     ],
-    "memo": "X検索で自動検知。検索語: DBFW 入荷 / 推定日付: 1.3 -> 2027-01-03 / 投稿本文: トップカード名古屋大須店 @top_card1 · May 24 #フュージョンワールド 商品情報 シリアル「孫悟空(ﾐﾆ):DA」(未開封)を入荷しております 状態確認も承っております お気軽にスタッフまでお声掛けください #ドラゴンボール #DBFW 2 1.3K",
-    "score": 77,
+    "memo": "X検索で自動検知。検索語: (一番くじ OR くじ) ドラゴンボール (予約 OR 抽選 OR 販売開始 OR 発売) filter:links / 推定日付: 2026年10月中旬発売 -> 2026-10-01 / 投稿本文: Lunaref（ルナレフ） @xQlc6epsn56383 · May 20 クオリティー高いな 「一番くじ ドラゴンボール SPIRIT OF THE SAIYAN」2026年10月中旬発売予定！悟空や超サイヤ人悟飯、悟天、バーダック、ラディッツの「MASTERLISE」フィギュアがラインナップ！ #ドラゴンボール #一番くじ 「一番くじ ドラゴンボール SPIRIT OF THE SAIYAN」2026年10月中旬発売予定！悟空や超サイヤ人悟飯、悟天、バーダック、ラディッツの「MASTERLISE」フィギュアがライン... From hobby.dengeki.com 373",
+    "score": 82,
     "priority": "A",
     "actionability": "買える可能性あり",
     "scoreReasons": [
@@ -486,20 +695,20 @@
     ]
   },
   {
-    "id": "258ca6055efaab8d",
-    "productId": "c910a56f08f2c01b",
-    "statusKey": "x:2028107790645170394",
-    "eventKey": "x-event:2028107790645170394:X予約要確認:2026-05-27",
-    "title": "【X予約要確認】明日10時に動画予約投稿しました！ダイバーズ動画です！下手なりに頑張りました！登録拡散よろしくお願いします！",
-    "productTitle": "明日10時に動画予約投稿しました！ダイバーズ動画です！下手なりに頑張りました！登録拡散よろしくお願いします！",
-    "eventType": "X予約要確認",
+    "id": "0890f0394f6cdb3e",
+    "productId": "29686990b31607cc",
+    "statusKey": "x:2057489468790358369",
+    "eventKey": "x-event:2057489468790358369:X発売予定:2027-05-08",
+    "title": "【X発売予定】「ドラゴンボール」新作一番くじ、いよいよ5月8日発売！テーマは“悟空の歴史”、幼少期や超サイヤ人、身勝手の極意フィギュアなど最強ラインナップ(インサイド)",
+    "productTitle": "「ドラゴンボール」新作一番くじ、いよいよ5月8日発売！テーマは“悟空の歴史”、幼少期や超サイヤ人、身勝手の極意フィギュアなど最強ラインナップ(インサイド)",
+    "eventType": "X発売予定",
     "saleType": "要確認",
-    "source": "X検索: ドラゴンボールダイバーズ 予約",
-    "url": "https://x.com/pansandayo09/status/2028107790645170394",
-    "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%20%E4%BA%88%E7%B4%84&src=typed_query&f=live",
-    "date": "2026-05-27",
-    "startAt": "2026-05-27T09:00:00+09:00",
-    "detectedAt": "2026-05-26T05:06:14+09:00",
+    "source": "X検索: (一番くじ OR くじ) ドラゴンボール (予約 OR 抽選 OR 販売開始 OR 発売) filter:links",
+    "url": "https://x.com/yo75626/status/2057489468790358369",
+    "xSearchUrl": "https://x.com/search?q=%28%E4%B8%80%E7%95%AA%E3%81%8F%E3%81%98%20OR%20%E3%81%8F%E3%81%98%29%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%20%28%E4%BA%88%E7%B4%84%20OR%20%E6%8A%BD%E9%81%B8%20OR%20%E8%B2%A9%E5%A3%B2%E9%96%8B%E5%A7%8B%20OR%20%E7%99%BA%E5%A3%B2%29%20filter%3Alinks&src=typed_query&f=live",
+    "date": "2027-05-08",
+    "startAt": "2027-05-08T09:00:00+09:00",
+    "detectedAt": "2026-05-26T06:42:13+09:00",
     "flags": [
       "X",
       "カレンダー候補",
@@ -507,320 +716,8 @@
       "要確認",
       "買えるかも"
     ],
-    "memo": "X検索で自動検知。検索語: ドラゴンボールダイバーズ 予約 / 推定日付: 明日 -> 2026-05-27 / 投稿本文: ぱんさん_sdv @pansandayo09 · Mar 1 https:// youtube.com/channel/UCL-4R Hllx-SGUf1sTdV-n4A?si=BXnxWg6nzBB2HtE5 … 明日10時に動画予約投稿しました！ダイバーズ動画です！下手なりに頑張りました！登録拡散よろしくお願いします！ #ドラゴンボールダイバーズ #ダイバーズプレイヤーと繋がりたい youtube.com ぱんさん 概要欄まで来てくれてありがとう！ 色んなゲームやります！ Xもやってるのでフォローよろしく！ X https://x.com/pansandayo09?s=21 1.1K",
-    "score": 75,
-    "priority": "A",
-    "actionability": "買える可能性あり",
-    "scoreReasons": [
-      "買える可能性ワード",
-      "強カテゴリ",
-      "X初動",
-      "新着48h",
-      "今日/明日",
-      "直接リンクあり"
-    ]
-  },
-  {
-    "id": "0a877bc0f5349128",
-    "productId": "5cbcae90c6b490ad",
-    "statusKey": "x:2027606602602459327",
-    "eventKey": "x-event:2027606602602459327:X予約要確認:undated",
-    "title": "【X要確認】予約分の2boxで悟空3のパラレル来た！",
-    "productTitle": "予約分の2boxで悟空3のパラレル来た！",
-    "eventType": "X予約要確認",
-    "saleType": "要確認",
-    "source": "X検索: ドラゴンボールダイバーズ 予約",
-    "url": "https://x.com/Netetai_Forever/status/2027606602602459327",
-    "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%20%E4%BA%88%E7%B4%84&src=typed_query&f=live",
-    "date": null,
-    "startAt": null,
-    "detectedAt": "2026-05-26T05:06:14+09:00",
-    "flags": [
-      "X",
-      "優先度A",
-      "要確認",
-      "買えるかも"
-    ],
-    "memo": "X検索で自動検知。検索語: ドラゴンボールダイバーズ 予約 / 投稿本文: 一般人C @Netetai_Forever · Feb 28 当日店舗で買えなかったけど 予約分の2boxで悟空3のパラレル来た！ 1箱から悟空3のGDRとパラレル両方 出るのは神すぎた！！！ #ドラゴンボールダイバーズ #ドラゴンボールアドバンスパック 806",
-    "score": 74,
-    "priority": "A",
-    "actionability": "買える可能性あり",
-    "scoreReasons": [
-      "買える可能性ワード",
-      "強カテゴリ",
-      "高騰しやすい商品語",
-      "X初動",
-      "新着48h",
-      "直接リンクあり"
-    ]
-  },
-  {
-    "id": "cd54d605422e319f",
-    "productId": "e167b89fe041b3b4",
-    "statusKey": "x:2057374857881641123",
-    "eventKey": "x-event:2057374857881641123:X売り切れ要確認:2026-05-26",
-    "title": "【X売り切れ要確認】出掛けるつもりじゃ無かったけどDBFWの再販情報がXに！",
-    "productTitle": "出掛けるつもりじゃ無かったけどDBFWの再販情報がXに！",
-    "eventType": "X売り切れ要確認",
-    "saleType": "要確認",
-    "source": "X検索: DBFW 再販",
-    "url": "https://x.com/shinon1234/status/2057374857881641123",
-    "xSearchUrl": "https://x.com/search?q=DBFW%20%E5%86%8D%E8%B2%A9&src=typed_query&f=live",
-    "date": "2026-05-26",
-    "startAt": "2026-05-26T09:00:00+09:00",
-    "detectedAt": "2026-05-26T05:06:03+09:00",
-    "flags": [
-      "X",
-      "カレンダー候補",
-      "優先度A",
-      "要確認"
-    ],
-    "memo": "X検索で自動検知。検索語: DBFW 再販 / 推定日付: 今日 -> 2026-05-26 / 投稿本文: しのん @shinon1234 · May 21 こんにちは 今日はあいにくの 出掛けるつもりじゃ無かったけどDBFWの再販情報がXに！ 急いでを出たの……15分で売り切れポスト まだから2kmも³₃走って無いよw オヤツ買って帰りました笑 ミルクプリンケーキめっちゃ美味かった #セブン新作 #わらびも 178",
-    "score": 74,
-    "priority": "A",
-    "actionability": "もう遅い可能性",
-    "scoreReasons": [
-      "売切/終了ワード",
-      "強カテゴリ",
-      "高騰しやすい商品語",
-      "X初動",
-      "新着48h",
-      "今日/明日",
-      "直接リンクあり"
-    ]
-  },
-  {
-    "id": "2e17ebb8f85a3730",
-    "productId": "973517438c612446",
-    "statusKey": "x:2048312073273434439",
-    "eventKey": "x-event:2048312073273434439:X要確認:2026-06-07",
-    "title": "【X要確認】なんと3週連続エントリー抽選に入れて三度目の正直ですごくラッキーでしたが優勝することができました。ほんとに運がよかったです！対戦相手の皆様楽しい時間をありがとうございました！",
-    "productTitle": "なんと3週連続エントリー抽選に入れて三度目の正直ですごくラッキーでしたが優勝することができました。ほんとに運がよかったです！対戦相手の皆様楽しい時間をありがとうございました！",
-    "eventType": "X要確認",
-    "saleType": "要確認",
-    "source": "X検索: ドラゴンボールダイバーズ 抽選",
-    "url": "https://x.com/kentwoolee/status/2048312073273434439",
-    "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%20%E6%8A%BD%E9%81%B8&src=typed_query&f=live",
-    "date": "2026-06-07",
-    "startAt": "2026-06-07T09:00:00+09:00",
-    "detectedAt": "2026-05-26T05:06:19+09:00",
-    "flags": [
-      "X",
-      "カレンダー候補",
-      "優先度A",
-      "要確認",
-      "買えるかも"
-    ],
-    "memo": "X検索で自動検知。検索語: ドラゴンボールダイバーズ 抽選 / 推定日付: 6.7 -> 2026-06-07 / 投稿本文: wooshow @kentwoolee · Apr 26 なんと3週連続エントリー抽選に入れて三度目の正直ですごくラッキーでしたが優勝することができました。ほんとに運がよかったです！対戦相手の皆様楽しい時間をありがとうございました！ 札幌に行くかは迷い中、、、 #ドラゴンボールダイバーズ #ダイバーズ 1 5 16 6.7K",
-    "score": 71,
-    "priority": "A",
-    "actionability": "買える可能性あり",
-    "scoreReasons": [
-      "買える可能性ワード",
-      "強カテゴリ",
-      "高騰しやすい商品語",
-      "X初動",
-      "新着48h",
-      "直接リンクあり"
-    ]
-  },
-  {
-    "id": "63723adc2afc6ad7",
-    "productId": "91948514fb19c885",
-    "statusKey": "x:2035572182114599023",
-    "eventKey": "x-event:2035572182114599023:X要確認:2027-01-08",
-    "title": "【X要確認】ダイバーズ大会無事に抽選に受かり、",
-    "productTitle": "ダイバーズ大会無事に抽選に受かり、",
-    "eventType": "X要確認",
-    "saleType": "要確認",
-    "source": "X検索: ドラゴンボールダイバーズ 抽選",
-    "url": "https://x.com/fu_game_youtube/status/2035572182114599023",
-    "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%20%E6%8A%BD%E9%81%B8&src=typed_query&f=live",
-    "date": "2027-01-08",
-    "startAt": "2027-01-08T09:00:00+09:00",
-    "detectedAt": "2026-05-26T05:06:19+09:00",
-    "flags": [
-      "X",
-      "カレンダー候補",
-      "優先度A",
-      "要確認",
-      "買えるかも"
-    ],
-    "memo": "X検索で自動検知。検索語: ドラゴンボールダイバーズ 抽選 / 推定日付: 1.8 -> 2027-01-08 / 投稿本文: フウgames【DBSDV】 @fu_game_youtube · Mar 22 ダイバーズ大会無事に抽選に受かり、 優勝しました 対戦して下さった皆さん、本当にありがとうございました #ドラゴンボールスーパーダイバーズ #ドラゴンボールダイバーズ #大会 #店舗大会 1.8K",
-    "score": 71,
-    "priority": "A",
-    "actionability": "買える可能性あり",
-    "scoreReasons": [
-      "買える可能性ワード",
-      "強カテゴリ",
-      "高騰しやすい商品語",
-      "X初動",
-      "新着48h",
-      "直接リンクあり"
-    ]
-  },
-  {
-    "id": "517130a1ac4a9351",
-    "productId": "557b6317d6911bc2",
-    "statusKey": "x:2034538979157017043",
-    "eventKey": "x-event:2034538979157017043:X締切要確認:2027-03-21",
-    "title": "【X締切要確認】フォロー＆リツイートをしていただいた方の中から抽選で『8弾GDRカード1枚』を前回と同じく\"2名様にプレゼント",
-    "productTitle": "フォロー＆リツイートをしていただいた方の中から抽選で『8弾GDRカード1枚』を前回と同じく\"2名様にプレゼント",
-    "eventType": "X締切要確認",
-    "saleType": "要確認",
-    "source": "X検索: ドラゴンボールダイバーズ 抽選",
-    "url": "https://x.com/POINT11152024/status/2034538979157017043",
-    "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%20%E6%8A%BD%E9%81%B8&src=typed_query&f=live",
-    "date": "2027-03-21",
-    "startAt": "2027-03-21T09:00:00+09:00",
-    "detectedAt": "2026-05-26T05:06:19+09:00",
-    "flags": [
-      "X",
-      "カレンダー候補",
-      "優先度A",
-      "要確認",
-      "買えるかも"
-    ],
-    "memo": "X検索で自動検知。検索語: ドラゴンボールダイバーズ 抽選 / 推定日付: 3/21 -> 2027-03-21 / 投稿本文: 配列POINT @POINT11152024 · Mar 19 【最新9弾プレ企画＆配列販売告知】 フォロー＆リツイートをしていただいた方の中から抽選で『8弾GDRカード1枚』を前回と同じく\"2名様にプレゼント 参加方法 ① @POINT11152024 をフォロー ②この投稿をリツイート ※応募は3/21(土) 23時59分まで Show more 8 409 211 38K",
-    "score": 71,
-    "priority": "A",
-    "actionability": "買える可能性あり",
-    "scoreReasons": [
-      "買える可能性ワード",
-      "強カテゴリ",
-      "高騰しやすい商品語",
-      "X初動",
-      "新着48h",
-      "直接リンクあり"
-    ]
-  },
-  {
-    "id": "44ad6efb0e78139d",
-    "productId": "00e14257c3071fb0",
-    "statusKey": "x:2043185386671984856",
-    "eventKey": "x-event:2043185386671984856:X抽選要確認:undated",
-    "title": "【X要確認】息子とハマってるドラゴンボールダイバーズ、エリア予選の抽選当たって出場できる！",
-    "productTitle": "息子とハマってるドラゴンボールダイバーズ、エリア予選の抽選当たって出場できる！",
-    "eventType": "X抽選要確認",
-    "saleType": "要確認",
-    "source": "X検索: ドラゴンボールダイバーズ 抽選",
-    "url": "https://x.com/iza_tan/status/2043185386671984856",
-    "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%20%E6%8A%BD%E9%81%B8&src=typed_query&f=live",
-    "date": null,
-    "startAt": null,
-    "detectedAt": "2026-05-26T05:06:19+09:00",
-    "flags": [
-      "X",
-      "優先度A",
-      "要確認",
-      "買えるかも"
-    ],
-    "memo": "X検索で自動検知。検索語: ドラゴンボールダイバーズ 抽選 / 投稿本文: いざわ @iza_tan · Apr 12 息子とハマってるドラゴンボールダイバーズ、エリア予選の抽選当たって出場できる！ 父のほうが緊張してる笑笑 141",
-    "score": 71,
-    "priority": "A",
-    "actionability": "買える可能性あり",
-    "scoreReasons": [
-      "買える可能性ワード",
-      "強カテゴリ",
-      "高騰しやすい商品語",
-      "X初動",
-      "新着48h",
-      "直接リンクあり"
-    ]
-  },
-  {
-    "id": "05c006b04e2affc1",
-    "productId": "92875c779aa8b05a",
-    "statusKey": "x:2029551713427013777",
-    "eventKey": "x-event:2029551713427013777:X予約要確認:2027-01-27",
-    "title": "【X予約要確認】1/27に楽天で予約してたドラゴンボールダイバーズ40thアドバンスパック1ボックス",
-    "productTitle": "1/27に楽天で予約してたドラゴンボールダイバーズ40thアドバンスパック1ボックス",
-    "eventType": "X予約要確認",
-    "saleType": "要確認",
-    "source": "X検索: ドラゴンボールダイバーズ 予約",
-    "url": "https://x.com/haohao_971107/status/2029551713427013777",
-    "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%20%E4%BA%88%E7%B4%84&src=typed_query&f=live",
-    "date": "2027-01-27",
-    "startAt": "2027-01-27T09:00:00+09:00",
-    "detectedAt": "2026-05-26T05:06:14+09:00",
-    "flags": [
-      "X",
-      "カレンダー候補",
-      "優先度A",
-      "要確認",
-      "買えるかも"
-    ],
-    "memo": "X検索で自動検知。検索語: ドラゴンボールダイバーズ 予約 / 推定日付: 1/27 -> 2027-01-27 / 投稿本文: 𝗺𝗮𝗿𝘂∞ @haohao_971107 · Mar 5 1/27に楽天で予約してたドラゴンボールダイバーズ40thアドバンスパック1ボックス 決済も済ませてたし、あとは到着を待つのみなのに いきなりきたキャンセルメール… まじ何これ…息子楽しみにしてるのにどうしてくれるんだろう 訳がわからず問い合わせたら 769",
-    "score": 71,
-    "priority": "A",
-    "actionability": "買える可能性あり",
-    "scoreReasons": [
-      "買える可能性ワード",
-      "強カテゴリ",
-      "高騰しやすい商品語",
-      "X初動",
-      "新着48h",
-      "直接リンクあり"
-    ]
-  },
-  {
-    "id": "0f624cb65f5112a1",
-    "productId": "f394cea31ee1d2eb",
-    "statusKey": "x:2028292854007955657",
-    "eventKey": "x-event:2028292854007955657:X予約要確認:undated",
-    "title": "【X要確認】にしてもドラゴンボールダイバーズのアドバンスパックの高騰がすごいな、、、",
-    "productTitle": "にしてもドラゴンボールダイバーズのアドバンスパックの高騰がすごいな、、、",
-    "eventType": "X予約要確認",
-    "saleType": "要確認",
-    "source": "X検索: ドラゴンボールダイバーズ 予約",
-    "url": "https://x.com/odabucho/status/2028292854007955657",
-    "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%20%E4%BA%88%E7%B4%84&src=typed_query&f=live",
-    "date": null,
-    "startAt": null,
-    "detectedAt": "2026-05-26T05:06:14+09:00",
-    "flags": [
-      "X",
-      "優先度A",
-      "要確認",
-      "買えるかも"
-    ],
-    "memo": "X検索で自動検知。検索語: ドラゴンボールダイバーズ 予約 / 投稿本文: 織田部長 @odabucho · Mar 2 にしてもドラゴンボールダイバーズのアドバンスパックの高騰がすごいな、、、 とりあえず悟空3の性能欲しすぎるからそれだけは予約分で自引きしたい、、、 488",
-    "score": 71,
-    "priority": "A",
-    "actionability": "買える可能性あり",
-    "scoreReasons": [
-      "買える可能性ワード",
-      "強カテゴリ",
-      "高騰しやすい商品語",
-      "X初動",
-      "新着48h",
-      "直接リンクあり"
-    ]
-  },
-  {
-    "id": "74a9017436e7ddce",
-    "productId": "7a7a837e97338435",
-    "statusKey": "x:2058899246770966579",
-    "eventKey": "x-event:2058899246770966579:X在庫要確認:2027-03-08",
-    "title": "【X在庫要確認】DBFW入荷情報",
-    "productTitle": "DBFW入荷情報",
-    "eventType": "X在庫要確認",
-    "saleType": "要確認",
-    "source": "X検索: DBFW 入荷",
-    "url": "https://x.com/mercard_akiba/status/2058899246770966579",
-    "xSearchUrl": "https://x.com/search?q=DBFW%20%E5%85%A5%E8%8D%B7&src=typed_query&f=live",
-    "date": "2027-03-08",
-    "startAt": "2027-03-08T09:00:00+09:00",
-    "detectedAt": "2026-05-26T05:06:09+09:00",
-    "flags": [
-      "X",
-      "カレンダー候補",
-      "優先度A",
-      "要確認",
-      "買えるかも"
-    ],
-    "memo": "X検索で自動検知。検索語: DBFW 入荷 / 推定日付: 3.8 -> 2027-03-08 / 投稿本文: メルカード@アキバカードショップ @mercard_akiba · 6h DBFW入荷情報 ゴジータGTスーパーパラレル入荷いたしました！！ めったに入荷入らないのでお探しの方はお早めに！！ ↓購入はこちらから！！ https:// mercarddb.jp/product/2710 2 3.8K",
-    "score": 71,
+    "memo": "X検索で自動検知。検索語: (一番くじ OR くじ) ドラゴンボール (予約 OR 抽選 OR 販売開始 OR 発売) filter:links / 推定日付: 5月8日 -> 2027-05-08 / 投稿本文: 小橋友 @yo75626 · May 22 「ドラゴンボール」新作一番くじ、いよいよ5月8日発売！テーマは“悟空の歴史”、幼少期や超サイヤ人、身勝手の極意フィギュアなど最強ラインナップ(インサイド) https:// xwfmy.jianaerbiz.com/rss2/1w/13897 129",
+    "score": 82,
     "priority": "A",
     "actionability": "買える可能性あり",
     "scoreReasons": [
@@ -846,7 +743,7 @@
     "xSearchUrl": "https://x.com/search?q=%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-restock.svg%20%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:23+09:00",
+    "detectedAt": "2026-05-26T06:40:31+09:00",
     "flags": [
       "ショップ",
       "優先度A",
@@ -880,7 +777,7 @@
     "xSearchUrl": "https://x.com/search?q=%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-restock.svg%20%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:23+09:00",
+    "detectedAt": "2026-05-26T06:40:31+09:00",
     "flags": [
       "ショップ",
       "優先度A",
@@ -914,7 +811,7 @@
     "xSearchUrl": "https://x.com/search?q=%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-restock.svg%20%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:23+09:00",
+    "detectedAt": "2026-05-26T06:40:31+09:00",
     "flags": [
       "ショップ",
       "優先度A",
@@ -948,7 +845,7 @@
     "xSearchUrl": "https://x.com/search?q=%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-restock.svg%20%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:22+09:00",
+    "detectedAt": "2026-05-26T06:40:30+09:00",
     "flags": [
       "ショップ",
       "優先度A",
@@ -982,7 +879,7 @@
     "xSearchUrl": "https://x.com/search?q=%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-restock.svg%20%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:22+09:00",
+    "detectedAt": "2026-05-26T06:40:30+09:00",
     "flags": [
       "ショップ",
       "優先度A",
@@ -1016,7 +913,7 @@
     "xSearchUrl": "https://x.com/search?q=%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-restock.svg%20%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:22+09:00",
+    "detectedAt": "2026-05-26T06:40:30+09:00",
     "flags": [
       "ショップ",
       "優先度A",
@@ -1037,6 +934,72 @@
     ]
   },
   {
+    "id": "2e1a46c93701d448",
+    "productId": "6f4b3c758662fb3d",
+    "statusKey": "x:2059000901331980503",
+    "eventKey": "x-event:2059000901331980503:X発売予定:undated",
+    "title": "【X要確認】#フュージョンワールド",
+    "productTitle": "#フュージョンワールド",
+    "eventType": "X発売予定",
+    "saleType": "要確認",
+    "source": "X検索: (ドラゴンボールスーパーダイバーズ OR ダイバーズ OR DBSDV) (カード OR パック OR 予約 OR 入荷 OR 稼働 OR キャンペーン) filter:links",
+    "url": "https://x.com/JxyA648lkbuhj2K/status/2059000901331980503",
+    "xSearchUrl": "https://x.com/search?q=%28%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%20OR%20%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%20OR%20DBSDV%29%20%28%E3%82%AB%E3%83%BC%E3%83%89%20OR%20%E3%83%91%E3%83%83%E3%82%AF%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%85%A5%E8%8D%B7%20OR%20%E7%A8%BC%E5%83%8D%20OR%20%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%29%20filter%3Alinks&src=typed_query&f=live",
+    "date": null,
+    "startAt": null,
+    "detectedAt": "2026-05-26T06:42:03+09:00",
+    "flags": [
+      "X",
+      "優先度A",
+      "要確認",
+      "買えるかも"
+    ],
+    "memo": "X検索で自動検知。検索語: (ドラゴンボールスーパーダイバーズ OR ダイバーズ OR DBSDV) (カード OR パック OR 予約 OR 入荷 OR 稼働 OR キャンペーン) filter:links / 投稿本文: うさぎんざ @JxyA648lkbuhj2K · 1h #フュージョンワールド #ドラゴンボールスーパーカードゲーム Vジャンプ7月特大号 付録カード 「グロリオ：DA」FP-084 付き item.rakuten.co.jp 【楽天市場】【 Ｖジャンプ 7月特大号 】Vジャンプ 2026年7月号特大号 2026年 5月 21日 発売予定 付録 ドラゴンボール ワンピース ボルト：BELL WORLD Vジャンプ 2026年7月号【2026年4月21日発売予定 】。【 Ｖジャンプ 7月特大号 】Vジャンプ 2026年7月号特大号 2026年 5月 21日 発売予定 付録 ドラゴンボール ワンピース ボルト 50",
+    "score": 67,
+    "priority": "A",
+    "actionability": "買える可能性あり",
+    "scoreReasons": [
+      "買える可能性ワード",
+      "強カテゴリ",
+      "X初動",
+      "新着48h",
+      "直接リンクあり"
+    ]
+  },
+  {
+    "id": "eaf504f43c4514be",
+    "productId": "f47bf9ebff6bd83b",
+    "statusKey": "x:2058966828014297263",
+    "eventKey": "x-event:2058966828014297263:X要確認:undated",
+    "title": "【X要確認】フュージョンワールド 公式カードカタログ 2nd",
+    "productTitle": "フュージョンワールド 公式カードカタログ 2nd",
+    "eventType": "X要確認",
+    "saleType": "要確認",
+    "source": "X検索: (ドラゴンボールスーパーダイバーズ OR ダイバーズ OR DBSDV) (カード OR パック OR 予約 OR 入荷 OR 稼働 OR キャンペーン) filter:links",
+    "url": "https://x.com/ichikookuu/status/2058966828014297263",
+    "xSearchUrl": "https://x.com/search?q=%28%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%20OR%20%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%20OR%20DBSDV%29%20%28%E3%82%AB%E3%83%BC%E3%83%89%20OR%20%E3%83%91%E3%83%83%E3%82%AF%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%85%A5%E8%8D%B7%20OR%20%E7%A8%BC%E5%83%8D%20OR%20%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3%29%20filter%3Alinks&src=typed_query&f=live",
+    "date": null,
+    "startAt": null,
+    "detectedAt": "2026-05-26T06:42:03+09:00",
+    "flags": [
+      "X",
+      "優先度A",
+      "要確認",
+      "買えるかも"
+    ],
+    "memo": "X検索で自動検知。検索語: (ドラゴンボールスーパーダイバーズ OR ダイバーズ OR DBSDV) (カード OR パック OR 予約 OR 入荷 OR 稼働 OR キャンペーン) filter:links / 投稿本文: いちこ @ichikookuu · 4h ドラゴンボール スーパーカードゲーム フュージョンワールド 公式カードカタログ 2nd COMPLETE CARD COLLECTION Amazon https:// amzn.to/3NI5r8N DragonBall DBゲンキダマツリ ad ドラゴンボールスーパーカードゲーム フュージョンワールド 公式カードカタログ 2nd COMPLETE CARD COLLECTION (Vジャンプブックス(書籍)) From amazon.co.jp 1 44",
+    "score": 67,
+    "priority": "A",
+    "actionability": "買える可能性あり",
+    "scoreReasons": [
+      "買える可能性ワード",
+      "強カテゴリ",
+      "X初動",
+      "新着48h",
+      "直接リンクあり"
+    ]
+  },
+  {
     "id": "b5d631924ea33863",
     "productId": "8346236224db2fba",
     "statusKey": "url:https://www.1999.co.jp/more/restock/figure",
@@ -1050,7 +1013,7 @@
     "xSearchUrl": "https://x.com/search?q=%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-restock.svg%20%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:23+09:00",
+    "detectedAt": "2026-05-26T06:40:31+09:00",
     "flags": [
       "ショップ",
       "優先度A",
@@ -1084,7 +1047,7 @@
     "xSearchUrl": "https://x.com/search?q=%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-restock.svg%20%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:23+09:00",
+    "detectedAt": "2026-05-26T06:40:31+09:00",
     "flags": [
       "ショップ",
       "優先度A",
@@ -1118,7 +1081,7 @@
     "xSearchUrl": "https://x.com/search?q=%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-restock.svg%20%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:23+09:00",
+    "detectedAt": "2026-05-26T06:40:31+09:00",
     "flags": [
       "ショップ",
       "優先度A",
@@ -1152,7 +1115,7 @@
     "xSearchUrl": "https://x.com/search?q=%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-restock.svg%20%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:22+09:00",
+    "detectedAt": "2026-05-26T06:40:30+09:00",
     "flags": [
       "ショップ",
       "優先度A",
@@ -1186,7 +1149,7 @@
     "xSearchUrl": "https://x.com/search?q=%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-restock.svg%20%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:22+09:00",
+    "detectedAt": "2026-05-26T06:40:30+09:00",
     "flags": [
       "ショップ",
       "優先度A",
@@ -1220,7 +1183,7 @@
     "xSearchUrl": "https://x.com/search?q=%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-restock.svg%20%E5%86%8D%E5%85%A5%E8%8D%B7%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:22+09:00",
+    "detectedAt": "2026-05-26T06:40:30+09:00",
     "flags": [
       "ショップ",
       "優先度A",
@@ -1241,108 +1204,6 @@
     ]
   },
   {
-    "id": "2550bfedd49023d7",
-    "productId": "1b9c0225c4fed611",
-    "statusKey": "x:2058827234367156352",
-    "eventKey": "x-event:2058827234367156352:X在庫要確認:2027-01-04",
-    "title": "【X在庫要確認】【商品情報】#ドラゴンボール #DBFW #フュージョンワールド",
-    "productTitle": "【商品情報】#ドラゴンボール #DBFW #フュージョンワールド",
-    "eventType": "X在庫要確認",
-    "saleType": "要確認",
-    "source": "X検索: DBFW 入荷",
-    "url": "https://x.com/ryuunoshippo_nu/status/2058827234367156352",
-    "xSearchUrl": "https://x.com/search?q=DBFW%20%E5%85%A5%E8%8D%B7&src=typed_query&f=live",
-    "date": "2027-01-04",
-    "startAt": "2027-01-04T09:00:00+09:00",
-    "detectedAt": "2026-05-26T05:06:09+09:00",
-    "flags": [
-      "X",
-      "カレンダー候補",
-      "優先度A",
-      "要確認",
-      "買えるかも"
-    ],
-    "memo": "X検索で自動検知。検索語: DBFW 入荷 / 推定日付: 1.4 -> 2027-01-04 / 投稿本文: 竜のしっぽ梅田NU茶屋町店 @ryuunoshippo_nu · 11h 【商品情報】#ドラゴンボール #DBFW #フュージョンワールド #竜のしっぽNU茶屋町店 ／ エナジーマーカー(E-83) 【原作絵】【天使悟空】 ￥,- エナジーマーカー（E-81）【原作絵】【孫悟飯&セル】 ¥ ,- ＼ こちら更新&入荷いたしました！！ Show more 1.4K",
-    "score": 66,
-    "priority": "A",
-    "actionability": "買える可能性あり",
-    "scoreReasons": [
-      "買える可能性ワード",
-      "強カテゴリ",
-      "X初動",
-      "新着48h",
-      "直接リンクあり"
-    ]
-  },
-  {
-    "id": "6b6236c7f2e8dc58",
-    "productId": "b00d7fe45654a254",
-    "statusKey": "x:2058789625045622826",
-    "eventKey": "x-event:2058789625045622826:X要確認:2027-02-05",
-    "title": "【X要確認】高額商品入荷情報",
-    "productTitle": "高額商品入荷情報",
-    "eventType": "X要確認",
-    "saleType": "要確認",
-    "source": "X検索: DBFW 入荷",
-    "url": "https://x.com/ds_ikebukur0/status/2058789625045622826",
-    "xSearchUrl": "https://x.com/search?q=DBFW%20%E5%85%A5%E8%8D%B7&src=typed_query&f=live",
-    "date": "2027-02-05",
-    "startAt": "2027-02-05T09:00:00+09:00",
-    "detectedAt": "2026-05-26T05:06:09+09:00",
-    "flags": [
-      "X",
-      "カレンダー候補",
-      "優先度A",
-      "要確認",
-      "買えるかも"
-    ],
-    "memo": "X検索で自動検知。検索語: DBFW 入荷 / 推定日付: 2.5 -> 2027-02-05 / 投稿本文: ドラゴンスター池袋店 @ds_ikebukur0 · 14h #DBFW 高額商品入荷情報 アルバト上位賞悟空入荷致しました 孫悟空(SR★)(FS11-07) ¥ 状態確認から承っております ぜひご来店お待ちしております #ドラスタ池袋 #ドラゴンボール #フュージョンワールド 2 2.5K",
-    "score": 66,
-    "priority": "A",
-    "actionability": "買える可能性あり",
-    "scoreReasons": [
-      "買える可能性ワード",
-      "強カテゴリ",
-      "X初動",
-      "新着48h",
-      "直接リンクあり"
-    ]
-  },
-  {
-    "id": "5bace63cb622830a",
-    "productId": "630d91858ca1dbb9",
-    "statusKey": "x:2058863542640443485",
-    "eventKey": "x-event:2058863542640443485:X締切要確認:2027-02-07",
-    "title": "【X締切要確認】ドラゴンボールフュージョンワールド",
-    "productTitle": "ドラゴンボールフュージョンワールド",
-    "eventType": "X締切要確認",
-    "saleType": "要確認",
-    "source": "X検索: DBFW 入荷",
-    "url": "https://x.com/ds_akiba_ekimae/status/2058863542640443485",
-    "xSearchUrl": "https://x.com/search?q=DBFW%20%E5%85%A5%E8%8D%B7&src=typed_query&f=live",
-    "date": "2027-02-07",
-    "startAt": "2027-02-07T09:00:00+09:00",
-    "detectedAt": "2026-05-26T05:06:09+09:00",
-    "flags": [
-      "X",
-      "カレンダー候補",
-      "優先度A",
-      "要確認",
-      "買えるかも"
-    ],
-    "memo": "X検索で自動検知。検索語: DBFW 入荷 / 推定日付: 2.7 -> 2027-02-07 / 投稿本文: ドラゴンスター秋葉原駅前店 @ds_akiba_ekimae · 9h ドラゴンボールフュージョンワールド オラ、ワクワクすっぞ 孫悟空(FB04-129)【CHANPIONSSHIP2025】 入荷しました 未開封状態です 状態のご確認は店頭まで #DBFW #ドラゴンスター秋葉原駅店 2.7K",
-    "score": 66,
-    "priority": "A",
-    "actionability": "買える可能性あり",
-    "scoreReasons": [
-      "買える可能性ワード",
-      "強カテゴリ",
-      "X初動",
-      "新着48h",
-      "直接リンクあり"
-    ]
-  },
-  {
     "id": "6f59f7b033bf778e",
     "productId": "a1ef648879884a59",
     "statusKey": "product:ST01",
@@ -1356,7 +1217,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%80%90DIGITAL%20ver.%E3%80%91DIGITAL%20CHAMPIONSHIP%2026-27%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-06-20",
     "startAt": "2026-06-20T09:00:00+09:00",
-    "detectedAt": "2026-05-26T05:03:34+09:00",
+    "detectedAt": "2026-05-26T06:38:33+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -1402,7 +1263,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%80%90DIGITAL%20ver.%E3%80%91DIGITAL%20CHAMPIONSHIP%2026-27%20WAVE1%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-06-20",
     "startAt": "2026-06-20T09:00:00+09:00",
-    "detectedAt": "2026-05-26T05:03:33+09:00",
+    "detectedAt": "2026-05-26T06:38:32+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -1448,7 +1309,7 @@
     "xSearchUrl": "https://x.com/search?q=%5B%E6%9B%B8%E7%B1%8D%5D%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20%E5%85%AC%E5%BC%8F%E3%82%AB%E3%83%BC%E3%83%89%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0%202nd%20COMPLETE%20CARD%20COLLECTION%20%5B2603/13%5D%201%2C870%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E3%81%AA%E3%81%97%20https%3A//www.c-labo-online.jp/res/touch003/img/all/spacer.gif%20%5B%E6%9B%B8%E7%B1%8D%5D%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:06+09:00",
+    "detectedAt": "2026-05-26T06:40:13+09:00",
     "flags": [
       "ショップ",
       "ドラゴンボール",
@@ -1469,40 +1330,6 @@
     ]
   },
   {
-    "id": "820d5cdea43a731f",
-    "productId": "ec0a10adbf787dfa",
-    "statusKey": "x:2037107295931269164",
-    "eventKey": "x-event:2037107295931269164:X予約要確認:2027-04-03",
-    "title": "【X予約要確認】前回、最強ジャンプ4/3発売の期待値について話したけど、ECサイトで定価で予約できないなら実店舗に行けば余裕で予約できるよ。",
-    "productTitle": "前回、最強ジャンプ4/3発売の期待値について話したけど、ECサイトで定価で予約できないなら実店舗に行けば余裕で予約できるよ。",
-    "eventType": "X予約要確認",
-    "saleType": "要確認",
-    "source": "X検索: ドラゴンボールダイバーズ 予約",
-    "url": "https://x.com/zono_poikatsu/status/2037107295931269164",
-    "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%20%E4%BA%88%E7%B4%84&src=typed_query&f=live",
-    "date": "2027-04-03",
-    "startAt": "2027-04-03T09:00:00+09:00",
-    "detectedAt": "2026-05-26T05:06:14+09:00",
-    "flags": [
-      "X",
-      "カレンダー候補",
-      "優先度B",
-      "要確認",
-      "買えるかも"
-    ],
-    "memo": "X検索で自動検知。検索語: ドラゴンボールダイバーズ 予約 / 推定日付: 4/3 -> 2027-04-03 / 投稿本文: しーも｜現金が増える物販 @zono_poikatsu · Mar 26 期待値13,000のらくらく取り方教えるね！ 前回、最強ジャンプ4/3発売の期待値について話したけど、ECサイトで定価で予約できないなら実店舗に行けば余裕で予約できるよ。 ただし、大型チェーンは雑誌予約不可とか言われたりするから小さめな店にして。 なんなら定期購読してくれるよ！ Show more Quote しーも｜現金が増える物販 @zono_poikatsu · Mar 24 最強ジャンプ4/3発売の期待値13,000だそうです。 ことの発端は、画像のDMが届いたことより（内容は、セットで80$で手配するよ） ワンピースカードを海外向けに発信してる垢に届いたんだけど どうやらフォローワーさんに対して無作為に営業行為をしているよう。 1 3 92 175K",
-    "score": 63,
-    "priority": "B",
-    "actionability": "買える可能性あり",
-    "scoreReasons": [
-      "買える可能性ワード",
-      "強カテゴリ",
-      "X初動",
-      "新着48h",
-      "直接リンクあり"
-    ]
-  },
-  {
     "id": "7dd9a3181b1ee647",
     "productId": "ad8edad2c20b3f43",
     "statusKey": "url:https://www.1999.co.jp/mlist/297/7/1",
@@ -1516,7 +1343,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%81%9D%E3%81%AE%E4%BB%96%20%E3%83%88%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%28BOX%E3%83%BB%E9%A3%9F%E7%8E%A9%29%20%E3%81%9D%E3%81%AE%E4%BB%96%20%E3%83%88%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%28BOX%E3%83%BB%E9%A3%9F%E7%8E%A9%29%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:23+09:00",
+    "detectedAt": "2026-05-26T06:40:31+09:00",
     "flags": [
       "BOX",
       "ショップ",
@@ -1548,7 +1375,7 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20TCG%20%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20TCG%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:15+09:00",
+    "detectedAt": "2026-05-26T06:40:23+09:00",
     "flags": [
       "ショップ",
       "予約",
@@ -1581,7 +1408,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%81%82%E3%81%BF%E3%81%82%E3%81%BF%E9%99%90%E5%AE%9A%E5%95%86%E5%93%81%20%E3%81%82%E3%81%BF%E3%81%82%E3%81%BF%E9%99%90%E5%AE%9A%E5%95%86%E5%93%81%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:08+09:00",
+    "detectedAt": "2026-05-26T06:40:15+09:00",
     "flags": [
       "ショップ",
       "優先度B",
@@ -1613,7 +1440,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%AB%E3%83%BC%E3%83%89%E3%83%80%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%96%20%7C%20%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%20-%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA10%E5%BC%BE%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:01+09:00",
+    "detectedAt": "2026-05-26T06:40:09+09:00",
     "flags": [
       "ダイバーズ",
       "ドラゴンボール",
@@ -1635,7 +1462,7 @@
     ]
   },
   {
-    "id": "c2bcac5ea9b05223",
+    "id": "c452ac2df9948294",
     "productId": "02c944e5835f853c",
     "statusKey": "x:2058922412822192592",
     "eventKey": "x-event:2058922412822192592:X締切要確認:undated",
@@ -1648,13 +1475,13 @@
     "xSearchUrl": "https://x.com/search?q=%28DBFW%20OR%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20OR%20FUSION%20WORLD%29%20%28%E3%83%96%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%20OR%20%E3%83%91%E3%83%83%E3%82%AF%20OR%20BOX%20OR%20%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9%E3%83%91%E3%83%83%E3%82%AF%20OR%20%E3%83%87%E3%83%83%E3%82%AD%29%20filter%3Alinks&src=typed_query&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:06:38+09:00",
+    "detectedAt": "2026-05-26T06:41:58+09:00",
     "flags": [
       "X",
       "優先度B",
       "要確認"
     ],
-    "memo": "X検索で自動検知。検索語: (DBFW OR フュージョンワールド OR FUSION WORLD) (ブースター OR パック OR BOX OR アドバンスパック OR デッキ) filter:links / 投稿本文: あさ@最新トレンド情報配信中 @libtrend · 5h 大人気 ドラゴンボールスーパーカードゲーム フュージョンワールド DUAL EVOLUTION FB09 ブースターパック BOX 新品未開封 http:// a.r10.to/h5pu0S 孫悟空 ベジータ フュージョン pr item.rakuten.co.jp 【楽天市場】ドラゴンボールスーパーカードゲーム フュージョンワールド DUAL EVOLUTION FB09 ブースターパック BOX バンダイ BANDAI 新品未開封：イーバリュー楽天市場店 12時までの決済で当日発送!!(土日祝も毎日発送！)。ドラゴンボールスーパーカードゲーム フュージョンワールド DUAL EVOLUTION FB09 ブースターパック BOX バンダイ BANDAI 新品未開封 95",
+    "memo": "X検索で自動検知。検索語: (DBFW OR フュージョンワールド OR FUSION WORLD) (ブースター OR パック OR BOX OR アドバンスパック OR デッキ) filter:links / 投稿本文: あさ@最新トレンド情報配信中 @libtrend · 6h 大人気 ドラゴンボールスーパーカードゲーム フュージョンワールド DUAL EVOLUTION FB09 ブースターパック BOX 新品未開封 http:// a.r10.to/h5pu0S 孫悟空 ベジータ フュージョン pr item.rakuten.co.jp 【楽天市場】ドラゴンボールスーパーカードゲーム フュージョンワールド DUAL EVOLUTION FB09 ブースターパック BOX バンダイ BANDAI 新品未開封：イーバリュー楽天市場店 12時までの決済で当日発送!!(土日祝も毎日発送！)。ドラゴンボールスーパーカードゲーム フュージョンワールド DUAL EVOLUTION FB09 ブースターパック BOX バンダイ BANDAI 新品未開封 107",
     "score": 61,
     "priority": "B",
     "actionability": "情報確認",
@@ -1667,7 +1494,7 @@
     ]
   },
   {
-    "id": "5b9b870e824af741",
+    "id": "4417ee5a4c0dee0f",
     "productId": "107dd8bf1005eebc",
     "statusKey": "x:2058917251470766538",
     "eventKey": "x-event:2058917251470766538:X締切要確認:undated",
@@ -1680,13 +1507,13 @@
     "xSearchUrl": "https://x.com/search?q=%28DBFW%20OR%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20OR%20FUSION%20WORLD%29%20%28%E3%83%96%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%20OR%20%E3%83%91%E3%83%83%E3%82%AF%20OR%20BOX%20OR%20%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9%E3%83%91%E3%83%83%E3%82%AF%20OR%20%E3%83%87%E3%83%83%E3%82%AD%29%20filter%3Alinks&src=typed_query&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:06:38+09:00",
+    "detectedAt": "2026-05-26T06:41:58+09:00",
     "flags": [
       "X",
       "優先度B",
       "要確認"
     ],
-    "memo": "X検索で自動検知。検索語: (DBFW OR フュージョンワールド OR FUSION WORLD) (ブースター OR パック OR BOX OR アドバンスパック OR デッキ) filter:links / 投稿本文: あや@TCG情報、品薄商品の紹介 @TGC13toreka · 5h 【PR】 え!?ゴジータ3種は激熱すぎ ドラゴンボールスーパーカードゲーム フュージョンワールド ブースターパック DUAL EVOLUTION[FB09] Amazonはこちら https:// amzn.to/42wto6R ゴジータ：BR、GTまでSCR収録とか 開封の夢ありすぎるし2周年に ふさわしい神弾感ある DBFW バンダイ(BANDAI) ドラゴンボールスーパーカードゲーム フュージョンワールド ブースターパック DUAL EVOLUTION[FB09] (BOX)24パック入り From amazon.co.jp 1 118",
+    "memo": "X検索で自動検知。検索語: (DBFW OR フュージョンワールド OR FUSION WORLD) (ブースター OR パック OR BOX OR アドバンスパック OR デッキ) filter:links / 投稿本文: あや@TCG情報、品薄商品の紹介 @TGC13toreka · 7h 【PR】 え!?ゴジータ3種は激熱すぎ ドラゴンボールスーパーカードゲーム フュージョンワールド ブースターパック DUAL EVOLUTION[FB09] Amazonはこちら https:// amzn.to/42wto6R ゴジータ：BR、GTまでSCR収録とか 開封の夢ありすぎるし2周年に ふさわしい神弾感ある DBFW バンダイ(BANDAI) ドラゴンボールスーパーカードゲーム フュージョンワールド ブースターパック DUAL EVOLUTION[FB09] (BOX)24パック入り From amazon.co.jp 1 131",
     "score": 61,
     "priority": "B",
     "actionability": "情報確認",
@@ -1699,7 +1526,7 @@
     ]
   },
   {
-    "id": "925ad2f52a9911e2",
+    "id": "c703c33d9eaf42d0",
     "productId": "f7893b31169dc10e",
     "statusKey": "x:2058865448410849515",
     "eventKey": "x-event:2058865448410849515:X要確認:undated",
@@ -1712,13 +1539,13 @@
     "xSearchUrl": "https://x.com/search?q=%28DBFW%20OR%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20OR%20FUSION%20WORLD%29%20%28%E3%83%96%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%20OR%20%E3%83%91%E3%83%83%E3%82%AF%20OR%20BOX%20OR%20%E3%82%A2%E3%83%89%E3%83%90%E3%83%B3%E3%82%B9%E3%83%91%E3%83%83%E3%82%AF%20OR%20%E3%83%87%E3%83%83%E3%82%AD%29%20filter%3Alinks&src=typed_query&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:06:38+09:00",
+    "detectedAt": "2026-05-26T06:41:58+09:00",
     "flags": [
       "X",
       "優先度B",
       "要確認"
     ],
-    "memo": "X検索で自動検知。検索語: (DBFW OR フュージョンワールド OR FUSION WORLD) (ブースター OR パック OR BOX OR アドバンスパック OR デッキ) filter:links / 投稿本文: スターリー【GX】 @StarGamerD42 · 9h フュージョンワールド新パック。ドラゴンボール熱い ドラゴンボール カードゲーム フュージョンワールド ドラゴンボール カードゲーム フュージョンワールド迫り来る驚異テープ付き by メルカリ From jp.mercari.com 77",
+    "memo": "X検索で自動検知。検索語: (DBFW OR フュージョンワールド OR FUSION WORLD) (ブースター OR パック OR BOX OR アドバンスパック OR デッキ) filter:links / 投稿本文: スターリー【GX】 @StarGamerD42 · 10h フュージョンワールド新パック。ドラゴンボール熱い ドラゴンボール カードゲーム フュージョンワールド ドラゴンボール カードゲーム フュージョンワールド迫り来る驚異テープ付き by メルカリ From jp.mercari.com 78",
     "score": 61,
     "priority": "B",
     "actionability": "情報確認",
@@ -1744,7 +1571,7 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20TCG%20%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20TCG%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:19+09:00",
+    "detectedAt": "2026-05-26T06:40:27+09:00",
     "flags": [
       "ショップ",
       "予約",
@@ -1777,7 +1604,7 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20TCG%20%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20TCG%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:17+09:00",
+    "detectedAt": "2026-05-26T06:40:25+09:00",
     "flags": [
       "ショップ",
       "予約",
@@ -1810,7 +1637,7 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20TCG%20%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20TCG%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:13+09:00",
+    "detectedAt": "2026-05-26T06:40:20+09:00",
     "flags": [
       "ショップ",
       "予約",
@@ -1830,38 +1657,6 @@
     ]
   },
   {
-    "id": "96264bf253783985",
-    "productId": "958c8f96b134be86",
-    "statusKey": "x:2054127665918157029",
-    "eventKey": "x-event:2054127665918157029:X要確認:undated",
-    "title": "【X要確認】ドラゴンボールスーパーカードゲーム フュージョンワールド 公式カードカタログ 2nd COMPLETE CARD COLLECTION Vジャンプブックス",
-    "productTitle": "ドラゴンボールスーパーカードゲーム フュージョンワールド 公式カードカタログ 2nd COMPLETE CARD COLLECTION Vジャンプブックス",
-    "eventType": "X要確認",
-    "saleType": "要確認",
-    "source": "X検索: DBFW 再販",
-    "url": "https://x.com/gamegetnavi/status/2054127665918157029",
-    "xSearchUrl": "https://x.com/search?q=DBFW%20%E5%86%8D%E8%B2%A9&src=typed_query&f=live",
-    "date": null,
-    "startAt": null,
-    "detectedAt": "2026-05-26T05:06:03+09:00",
-    "flags": [
-      "X",
-      "優先度B",
-      "要確認"
-    ],
-    "memo": "X検索で自動検知。検索語: DBFW 再販 / 投稿本文: 人気トレカゲットナビ 定価購入支援速報 @gamegetnavi · May 12 ドラゴンボールスーパーカードゲーム フュージョンワールド 公式カードカタログ 2nd COMPLETE CARD COLLECTION Vジャンプブックス 再販を開始 プロモカード付 欲しい人は 販売ページ https:// a.r10.to/h8Yt59 #ドラゴンボール #ドラゴンボールフュージョンワールド #DBFW #AD 24K",
-    "score": 58,
-    "priority": "B",
-    "actionability": "情報確認",
-    "scoreReasons": [
-      "強カテゴリ",
-      "高騰しやすい商品語",
-      "X初動",
-      "新着48h",
-      "直接リンクあり"
-    ]
-  },
-  {
     "id": "bdb039be51f6cd87",
     "productId": "b0d014a39b84e587",
     "statusKey": "url:https://www.c-labo-online.jp/product/339742",
@@ -1875,7 +1670,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%80%90DBFW%E3%80%91%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%20%E3%80%90L%E3%80%91FB07-097%2050%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E6%95%B012%E6%9E%9A%20https%3A//www.c-labo-online.jp/res/touch003/img/all/spacer.gif%20%E3%80%90DBFW%E3%80%91%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%20%E3%80%90L%E3%80%91FB07-097%2050%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E6%95%B012%E6%9E%9A%20%E3%82%AB%E3%83%BC%E3%83%88%E3%81%AB%E5%85%A5%E3%82%8C%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:04+09:00",
+    "detectedAt": "2026-05-26T06:40:12+09:00",
     "flags": [
       "DBFW",
       "ショップ",
@@ -1897,39 +1692,6 @@
     ]
   },
   {
-    "id": "2f8fc8d25ba7ce45",
-    "productId": "23f50ab213879396",
-    "statusKey": "x:2053778186929066229",
-    "eventKey": "x-event:2053778186929066229:X要確認:2027-01-05",
-    "title": "【X要確認】#DBFW #ドラゴンボールフュージョンワールド",
-    "productTitle": "#DBFW #ドラゴンボールフュージョンワールド",
-    "eventType": "X要確認",
-    "saleType": "要確認",
-    "source": "X検索: DBFW 再販",
-    "url": "https://x.com/pokeka_sen0509/status/2053778186929066229",
-    "xSearchUrl": "https://x.com/search?q=DBFW%20%E5%86%8D%E8%B2%A9&src=typed_query&f=live",
-    "date": "2027-01-05",
-    "startAt": "2027-01-05T09:00:00+09:00",
-    "detectedAt": "2026-05-26T05:06:03+09:00",
-    "flags": [
-      "X",
-      "カレンダー候補",
-      "優先度B",
-      "要確認"
-    ],
-    "memo": "X検索で自動検知。検索語: DBFW 再販 / 推定日付: 1.5 -> 2027-01-05 / 投稿本文: カードゲーム垢 @pokeka_sen0509 · May 11 #DBFW #ドラゴンボールフュージョンワールド 再販きてたから買ったら爆勝ち 2 1.5K",
-    "score": 55,
-    "priority": "B",
-    "actionability": "情報確認",
-    "scoreReasons": [
-      "強カテゴリ",
-      "高騰しやすい商品語",
-      "X初動",
-      "新着48h",
-      "直接リンクあり"
-    ]
-  },
-  {
     "id": "c0dd531d8f8c4a2f",
     "productId": "2067b4a11cf77d75",
     "statusKey": "url:https://www.1999.co.jp/more/reserve/figure",
@@ -1943,7 +1705,7 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-calendar.svg%20%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:22+09:00",
+    "detectedAt": "2026-05-26T06:40:30+09:00",
     "flags": [
       "ショップ",
       "予約",
@@ -1975,7 +1737,7 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-calendar.svg%20%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:22+09:00",
+    "detectedAt": "2026-05-26T06:40:30+09:00",
     "flags": [
       "ショップ",
       "予約",
@@ -2007,7 +1769,7 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-calendar.svg%20%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:22+09:00",
+    "detectedAt": "2026-05-26T06:40:30+09:00",
     "flags": [
       "ショップ",
       "予約",
@@ -2039,7 +1801,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:06+09:00",
+    "detectedAt": "2026-05-26T06:40:13+09:00",
     "flags": [
       "ショップ",
       "ドラゴンボール",
@@ -2071,7 +1833,7 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-calendar.svg%20%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:23+09:00",
+    "detectedAt": "2026-05-26T06:40:31+09:00",
     "flags": [
       "ショップ",
       "予約",
@@ -2103,7 +1865,7 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-calendar.svg%20%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:23+09:00",
+    "detectedAt": "2026-05-26T06:40:31+09:00",
     "flags": [
       "ショップ",
       "予約",
@@ -2135,7 +1897,7 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-calendar.svg%20%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:23+09:00",
+    "detectedAt": "2026-05-26T06:40:31+09:00",
     "flags": [
       "ショップ",
       "予約",
@@ -2167,7 +1929,7 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-calendar.svg%20%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:23+09:00",
+    "detectedAt": "2026-05-26T06:40:31+09:00",
     "flags": [
       "ショップ",
       "予約",
@@ -2199,7 +1961,7 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-calendar.svg%20%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:23+09:00",
+    "detectedAt": "2026-05-26T06:40:31+09:00",
     "flags": [
       "ショップ",
       "予約",
@@ -2231,7 +1993,7 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-calendar.svg%20%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:23+09:00",
+    "detectedAt": "2026-05-26T06:40:31+09:00",
     "flags": [
       "ショップ",
       "予約",
@@ -2263,7 +2025,7 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-calendar.svg%20%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:22+09:00",
+    "detectedAt": "2026-05-26T06:40:30+09:00",
     "flags": [
       "ショップ",
       "予約",
@@ -2295,7 +2057,7 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-calendar.svg%20%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:22+09:00",
+    "detectedAt": "2026-05-26T06:40:30+09:00",
     "flags": [
       "ショップ",
       "予約",
@@ -2327,7 +2089,7 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20/images/parts/icon-goods-calendar.svg%20%E4%BA%88%E7%B4%84%E5%93%81%20%E3%82%92%E8%A6%8B%E3%82%8B%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:22+09:00",
+    "detectedAt": "2026-05-26T06:40:30+09:00",
     "flags": [
       "ショップ",
       "予約",
@@ -2359,7 +2121,7 @@
     "xSearchUrl": "https://x.com/search?q=ONE%20PIECE%20CARD%20GAME%20ONE%20PIECE%20CARD%20GAME%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:06+09:00",
+    "detectedAt": "2026-05-26T06:40:13+09:00",
     "flags": [
       "CARD GAME",
       "ショップ",
@@ -2372,38 +2134,6 @@
     "scoreReasons": [
       "買える可能性ワード",
       "強カテゴリ",
-      "新着48h",
-      "直接リンクあり"
-    ]
-  },
-  {
-    "id": "9ed999a745952da9",
-    "productId": "aa83209c0dccabb0",
-    "statusKey": "x:2058171814745079859",
-    "eventKey": "x-event:2058171814745079859:X要確認:undated",
-    "title": "【X要確認】DBFW再販もパックにされたからもうゲオに並ぶことはないか",
-    "productTitle": "DBFW再販もパックにされたからもうゲオに並ぶことはないか",
-    "eventType": "X要確認",
-    "saleType": "要確認",
-    "source": "X検索: DBFW 再販",
-    "url": "https://x.com/kansatsu_947869/status/2058171814745079859",
-    "xSearchUrl": "https://x.com/search?q=DBFW%20%E5%86%8D%E8%B2%A9&src=typed_query&f=live",
-    "date": null,
-    "startAt": null,
-    "detectedAt": "2026-05-26T05:06:03+09:00",
-    "flags": [
-      "X",
-      "優先度B",
-      "要確認"
-    ],
-    "memo": "X検索で自動検知。検索語: DBFW 再販 / 投稿本文: 観察 @kansatsu_947869 · May 23 DBFW再販もパックにされたからもうゲオに並ぶことはないか 348",
-    "score": 49,
-    "priority": "B",
-    "actionability": "情報確認",
-    "scoreReasons": [
-      "強カテゴリ",
-      "高騰しやすい商品語",
-      "X初動",
       "新着48h",
       "直接リンクあり"
     ]
@@ -2422,7 +2152,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20%E3%83%96%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%91%E3%83%83%E3%82%AF%20BRIGHTNESS%20OF%20HOPE%20%5BFB11%5D%2024%E3%83%91%E3%83%83%E3%82%AF%E5%85%A5%E3%82%8ABOX%20%E8%B2%A9%E5%A3%B2%E5%81%9C%E6%AD%A2%E4%B8%AD%205%2C760%20https%3A//img.amiami.jp/images/product/blank.gif%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20%E3%83%96%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%91%E3%83%83%E3%82%AF%20BRIGHTNE%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:07+09:00",
+    "detectedAt": "2026-05-26T06:40:14+09:00",
     "flags": [
       "BOX",
       "ショップ",
@@ -2458,7 +2188,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20%E3%83%96%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%91%E3%83%83%E3%82%AF%20BRIGHTNESS%20OF%20HOPE%20%5BFB11%5D%2024%E3%83%91%E3%83%83%E3%82%AF%E5%85%A5%E3%82%8ABOX%20%E8%B2%A9%E5%A3%B2%E5%81%9C%E6%AD%A2%E4%B8%AD%205%2C760%20https%3A//img.amiami.jp/images/product/blank.gif%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20%E3%83%96%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%91%E3%83%83%E3%82%AF%20BRIGHTNE%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:06+09:00",
+    "detectedAt": "2026-05-26T06:40:14+09:00",
     "flags": [
       "BOX",
       "ショップ",
@@ -2494,7 +2224,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%80%90DBFW%E3%80%91%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%20%E3%80%90C%E3%80%91FB07-119%2020%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E3%81%AA%E3%81%97%20https%3A//www.c-labo-online.jp/res/touch003/img/all/spacer.gif%20%E3%80%90DBFW%E3%80%91%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%20%E3%80%90C%E3%80%91FB07-119%2020%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E3%81%AA%E3%81%97%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:04+09:00",
+    "detectedAt": "2026-05-26T06:40:12+09:00",
     "flags": [
       "DBFW",
       "ショップ",
@@ -2515,38 +2245,6 @@
     ]
   },
   {
-    "id": "56b9f4f81b43fd15",
-    "productId": "3eb3a1b8e7a675fe",
-    "statusKey": "url:https://dragon-ball-official.com/news/01_4169.html",
-    "eventKey": "event:53e1f43151a19540",
-    "title": "【発売日】[『MATCH MAKERS』シリーズ最新作に「超サイヤ人4ゴジータ」が登場！]｜ 【公式】ドラゴンボールオフィシャルサイト",
-    "productTitle": "[『MATCH MAKERS』シリーズ最新作に「超サイヤ人4ゴジータ」が登場！]｜ 【公式】ドラゴンボールオフィシャルサイト",
-    "eventType": "発売日",
-    "saleType": "一般",
-    "source": "ドラゴンボールオフィシャルサイト ニュース",
-    "url": "https://dragon-ball-official.com/news/01_4169.html",
-    "xSearchUrl": "https://x.com/search?q=%5B%E3%80%8EMATCH%20MAKERS%E3%80%8F%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E6%9C%80%E6%96%B0%E4%BD%9C%E3%81%AB%E3%80%8C%E8%B6%85%E3%82%B5%E3%82%A4%E3%83%A4%E4%BA%BA4%E3%82%B4%E3%82%B8%E3%83%BC%E3%82%BF%E3%80%8D%E3%81%8C%E7%99%BB%E5%A0%B4%EF%BC%81%5D%EF%BD%9C%20%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%88%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
-    "date": "2026-05-26",
-    "startAt": "2026-05-26T09:00:00+09:00",
-    "detectedAt": "2026-05-26T05:02:42+09:00",
-    "flags": [
-      "DRAGON BALL",
-      "ドラゴンボール",
-      "優先度B",
-      "発売"
-    ],
-    "memo": "自動検知。日付候補: 2026年5月26日, 2026/04/20, 2026/04/27, 5月26日 / 判定文脈: ジ。同月登場の「超一星龍」と並べれば、GT屈指の名バトルがここに甦る――！ アミューズメント施設でしかゲットできないので、お取り逃しなく！ 商品名：ドラゴンボールGT MATCH MAKERS 超サイヤ人4ゴジータ（VS超一星龍） 発売日：2026年5月26日（火）より順次登場予定 発売元：株式会社BANDAI SPIRITS 価格：アミューズメント用景品 詳細はバンプレストナビへ https://bsp-prize.jp/title/IP00003375/ ©バード・スタジオ／集英社・東映アニ",
-    "score": 45,
-    "priority": "B",
-    "actionability": "情報確認",
-    "scoreReasons": [
-      "強カテゴリ",
-      "新着48h",
-      "今日/明日",
-      "直接リンクあり"
-    ]
-  },
-  {
     "id": "eed514b20bb53e6e",
     "productId": "57780fb521ccd87c",
     "statusKey": "url:https://dragon-ball-official.com/news/01_4170.html",
@@ -2560,7 +2258,7 @@
     "xSearchUrl": "https://x.com/search?q=%5B%E3%80%8EMATCH%20MAKERS%E3%80%8F%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E6%9C%80%E6%96%B0%E4%BD%9C%E3%81%AB%E3%80%8C%E8%B6%85%E4%B8%80%E6%98%9F%E9%BE%8D%E3%80%8D%E3%81%8C%E7%99%BB%E5%A0%B4%EF%BC%81%5D%EF%BD%9C%20%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%88%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-05-26",
     "startAt": "2026-05-26T09:00:00+09:00",
-    "detectedAt": "2026-05-26T05:02:41+09:00",
+    "detectedAt": "2026-05-26T06:37:41+09:00",
     "flags": [
       "DRAGON BALL",
       "ドラゴンボール",
@@ -2568,6 +2266,38 @@
       "発売"
     ],
     "memo": "自動検知。日付候補: 2026年5月26日, 2026/04/20, 2026/04/27, 5月26日 / 判定文脈: 場の「超サイヤ人4ゴジータ」と並べれば、GT最終決戦の臨場感がよみがえる！ アミューズメント施設でしかゲットできないので、お取り逃しなく！ 商品名：ドラゴンボールGT MATCH MAKERS 超一星龍（VS超サイヤ人4ゴジータ） 発売日：2026年5月26日（火）より順次登場予定 発売元：株式会社BANDAI SPIRITS 価格：アミューズメント用景品 詳細はバンプレストナビへ https://bsp-prize.jp/title/IP00003375/ ©バード・スタジオ／集英社・東映アニ",
+    "score": 45,
+    "priority": "B",
+    "actionability": "情報確認",
+    "scoreReasons": [
+      "強カテゴリ",
+      "新着48h",
+      "今日/明日",
+      "直接リンクあり"
+    ]
+  },
+  {
+    "id": "56b9f4f81b43fd15",
+    "productId": "3eb3a1b8e7a675fe",
+    "statusKey": "url:https://dragon-ball-official.com/news/01_4169.html",
+    "eventKey": "event:53e1f43151a19540",
+    "title": "【発売日】[『MATCH MAKERS』シリーズ最新作に「超サイヤ人4ゴジータ」が登場！]｜ 【公式】ドラゴンボールオフィシャルサイト",
+    "productTitle": "[『MATCH MAKERS』シリーズ最新作に「超サイヤ人4ゴジータ」が登場！]｜ 【公式】ドラゴンボールオフィシャルサイト",
+    "eventType": "発売日",
+    "saleType": "一般",
+    "source": "ドラゴンボールオフィシャルサイト ニュース",
+    "url": "https://dragon-ball-official.com/news/01_4169.html",
+    "xSearchUrl": "https://x.com/search?q=%5B%E3%80%8EMATCH%20MAKERS%E3%80%8F%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E6%9C%80%E6%96%B0%E4%BD%9C%E3%81%AB%E3%80%8C%E8%B6%85%E3%82%B5%E3%82%A4%E3%83%A4%E4%BA%BA4%E3%82%B4%E3%82%B8%E3%83%BC%E3%82%BF%E3%80%8D%E3%81%8C%E7%99%BB%E5%A0%B4%EF%BC%81%5D%EF%BD%9C%20%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%88%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
+    "date": "2026-05-26",
+    "startAt": "2026-05-26T09:00:00+09:00",
+    "detectedAt": "2026-05-26T06:37:40+09:00",
+    "flags": [
+      "DRAGON BALL",
+      "ドラゴンボール",
+      "優先度B",
+      "発売"
+    ],
+    "memo": "自動検知。日付候補: 2026年5月26日, 2026/04/20, 2026/04/27, 5月26日 / 判定文脈: ジ。同月登場の「超一星龍」と並べれば、GT屈指の名バトルがここに甦る――！ アミューズメント施設でしかゲットできないので、お取り逃しなく！ 商品名：ドラゴンボールGT MATCH MAKERS 超サイヤ人4ゴジータ（VS超一星龍） 発売日：2026年5月26日（火）より順次登場予定 発売元：株式会社BANDAI SPIRITS 価格：アミューズメント用景品 詳細はバンプレストナビへ https://bsp-prize.jp/title/IP00003375/ ©バード・スタジオ／集英社・東映アニ",
     "score": 45,
     "priority": "B",
     "actionability": "情報確認",
@@ -2592,7 +2322,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%81%9D%E3%81%AE%E4%BB%96%20%E3%83%88%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%28BOX%E3%83%BB%E9%A3%9F%E7%8E%A9%29%20%E3%81%9D%E3%81%AE%E4%BB%96%20%E3%83%88%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%28BOX%E3%83%BB%E9%A3%9F%E7%8E%A9%29%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:22+09:00",
+    "detectedAt": "2026-05-26T06:40:30+09:00",
     "flags": [
       "BOX",
       "ショップ",
@@ -2623,7 +2353,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%81%82%E3%81%BF%E3%81%82%E3%81%BF%E9%99%90%E5%AE%9A%E5%95%86%E5%93%81%20%E3%81%82%E3%81%BF%E3%81%82%E3%81%BF%E9%99%90%E5%AE%9A%E5%95%86%E5%93%81%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:07+09:00",
+    "detectedAt": "2026-05-26T06:40:14+09:00",
     "flags": [
       "ショップ",
       "優先度B",
@@ -2654,7 +2384,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%83%96%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%91%E3%83%83%E3%82%AF%20CROSS%20FORCE%20%5BFB10%5D%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-06-13",
     "startAt": "2026-06-13T09:00:00+09:00",
-    "detectedAt": "2026-05-26T05:04:30+09:00",
+    "detectedAt": "2026-05-26T06:39:34+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -2695,7 +2425,7 @@
     "xSearchUrl": "https://x.com/search?q=%E5%95%86%E5%93%81%E6%83%85%E5%A0%B1%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:04:28+09:00",
+    "detectedAt": "2026-05-26T06:39:32+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -2737,7 +2467,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%83%96%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%91%E3%83%83%E3%82%AF%20CROSS%20FORCE%20%5BFB10%5D%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-06-13",
     "startAt": "2026-06-13T09:00:00+09:00",
-    "detectedAt": "2026-05-26T05:03:51+09:00",
+    "detectedAt": "2026-05-26T06:38:53+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -2778,7 +2508,7 @@
     "xSearchUrl": "https://x.com/search?q=%E5%95%86%E5%93%81%E6%83%85%E5%A0%B1%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:03:43+09:00",
+    "detectedAt": "2026-05-26T06:38:44+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -2820,7 +2550,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%83%96%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%91%E3%83%83%E3%82%AF%20CROSS%20FORCE%20%5BFB10%5D%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-06-13",
     "startAt": "2026-06-13T09:00:00+09:00",
-    "detectedAt": "2026-05-26T05:03:13+09:00",
+    "detectedAt": "2026-05-26T06:38:11+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -2861,7 +2591,7 @@
     "xSearchUrl": "https://x.com/search?q=%E5%95%86%E5%93%81%E6%83%85%E5%A0%B1%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:03:10+09:00",
+    "detectedAt": "2026-05-26T06:38:09+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -2903,7 +2633,7 @@
     "xSearchUrl": "https://x.com/search?q=%5B%E3%80%90%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E6%83%85%E5%A0%B1%E3%80%91V%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%978%E6%9C%88%E7%89%B9%E5%A4%A7%E5%8F%B7%E4%BB%98%E9%8C%B2%E3%82%AB%E3%83%BC%E3%83%89%E3%80%8C%E3%83%99%E3%82%B8%E3%83%83%E3%83%88%E3%80%8D%E3%81%AE%E3%82%B9%E3%82%AD%E3%83%AB%E3%82%92%E5%85%AC%E9%96%8B%EF%BC%81%20%5D%EF%BD%9C%20%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%88%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-06-13",
     "startAt": "2026-06-13T09:00:00+09:00",
-    "detectedAt": "2026-05-26T05:02:45+09:00",
+    "detectedAt": "2026-05-26T06:37:44+09:00",
     "flags": [
       "BOOSTER",
       "DRAGON BALL",
@@ -2941,7 +2671,7 @@
     "xSearchUrl": "https://x.com/search?q=%5B%E6%9B%B8%E7%B1%8D%5D%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%20%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20%E5%85%AC%E5%BC%8F%E3%82%AB%E3%83%BC%E3%83%89%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0%202nd%20COMPLETE%20CARD%20COLLECTION%20%5B2603/13%5D%201%2C870%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E3%81%AA%E3%81%97%20https%3A//www.c-labo-online.jp/res/touch003/img/all/spacer.gif%20%5B%E6%9B%B8%E7%B1%8D%5D%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%20%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:04+09:00",
+    "detectedAt": "2026-05-26T06:40:12+09:00",
     "flags": [
       "ショップ",
       "ドラゴンボール",
@@ -2974,7 +2704,7 @@
     "xSearchUrl": "https://x.com/search?q=%5B%E6%9B%B8%E7%B1%8D%5D%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20%E5%85%AC%E5%BC%8F%E3%82%AB%E3%83%BC%E3%83%89%E3%82%AB%E3%82%BF%E3%83%AD%E3%82%B0%202nd%20COMPLETE%20CARD%20COLLECTION%20%5B2603/13%5D%201%2C870%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E3%81%AA%E3%81%97%20https%3A//www.c-labo-online.jp/res/touch003/img/all/spacer.gif%20%5B%E6%9B%B8%E7%B1%8D%5D%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:04+09:00",
+    "detectedAt": "2026-05-26T06:40:11+09:00",
     "flags": [
       "ショップ",
       "ドラゴンボール",
@@ -2994,28 +2724,29 @@
     ]
   },
   {
-    "id": "b017b267dff88fcc",
-    "productId": "5ac02d8636f9a1be",
-    "statusKey": "url:https://www.c-labo-online.jp/product/364612",
-    "eventKey": "event:0b70f47f4f69f1e7",
-    "title": "【ショップ売り切れ】【DBFW】孫悟空〔開封品/金文字/鳥山明絵〕【SR★】FB07-104 13,800 円 (税込) 在庫なし https://www.c-labo-online.jp/res/touch003/img/all/spacer.gif 【DBFW】孫悟空〔開封品/金文字/鳥山明絵〕【SR★】FB07-104 13,800 円 (税込) 在庫なし",
-    "productTitle": "【DBFW】孫悟空〔開封品/金文字/鳥山明絵〕【SR★】FB07-104 13,800 円 (税込) 在庫なし https://www.c-labo-online.jp/res/touch003/img/all/spacer.gif 【DBFW】孫悟空〔開封品/金文字/鳥山明絵〕【SR★】FB07-104 13,800 円 (税込) 在庫なし",
+    "id": "8c0618a8a748bc4c",
+    "productId": "86617fabf10cc542",
+    "statusKey": "url:https://www.c-labo-online.jp/product/321971",
+    "eventKey": "event:968c0566acf10f2c",
+    "title": "【ショップ売り切れ】【DBFW】魔人ブウ：悪〔指に気/白枠/バトルパック06収録〕【R★】FB05-086 80 円 (税込) 在庫なし https://www.c-labo-online.jp/res/touch003/img/all/spacer.gif 【DBFW】魔人ブウ：悪〔指に気/白枠/バトルパック06収録〕【R★】FB05-086 80 円 (税込) 在庫なし",
+    "productTitle": "【DBFW】魔人ブウ：悪〔指に気/白枠/バトルパック06収録〕【R★】FB05-086 80 円 (税込) 在庫なし https://www.c-labo-online.jp/res/touch003/img/all/spacer.gif 【DBFW】魔人ブウ：悪〔指に気/白枠/バトルパック06収録〕【R★】FB05-086 80 円 (税込) 在庫なし",
     "eventType": "ショップ売り切れ",
     "saleType": "要確認",
     "source": "カードラボ フュージョンワールド",
-    "url": "https://www.c-labo-online.jp/product/364612",
-    "xSearchUrl": "https://x.com/search?q=%E3%80%90DBFW%E3%80%91%E5%AD%AB%E6%82%9F%E7%A9%BA%E3%80%94%E9%96%8B%E5%B0%81%E5%93%81/%E9%87%91%E6%96%87%E5%AD%97/%E9%B3%A5%E5%B1%B1%E6%98%8E%E7%B5%B5%E3%80%95%E3%80%90SR%E2%98%85%E3%80%91FB07-104%2013%2C800%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E3%81%AA%E3%81%97%20https%3A//www.c-labo-online.jp/res/touch003/img/all/spacer.gif%20%E3%80%90DBFW%E3%80%91%E5%AD%AB%E6%82%9F%E7%A9%BA%E3%80%94%E9%96%8B%E5%B0%81%E5%93%81/%E9%87%91%E6%96%87%E5%AD%97/%E9%B3%A5%E5%B1%B1%E6%98%8E%E7%B5%B5%E3%80%95%E3%80%90SR%E2%98%85%E3%80%91FB07-104%2013%2C800%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E3%81%AA%E3%81%97%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
+    "url": "https://www.c-labo-online.jp/product/321971",
+    "xSearchUrl": "https://x.com/search?q=%E3%80%90DBFW%E3%80%91%E9%AD%94%E4%BA%BA%E3%83%96%E3%82%A6%EF%BC%9A%E6%82%AA%E3%80%94%E6%8C%87%E3%81%AB%E6%B0%97/%E7%99%BD%E6%9E%A0/%E3%83%90%E3%83%88%E3%83%AB%E3%83%91%E3%83%83%E3%82%AF06%E5%8F%8E%E9%8C%B2%E3%80%95%E3%80%90R%E2%98%85%E3%80%91FB05-086%2080%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E3%81%AA%E3%81%97%20https%3A//www.c-labo-online.jp/res/touch003/img/all/spacer.gif%20%E3%80%90DBFW%E3%80%91%E9%AD%94%E4%BA%BA%E3%83%96%E3%82%A6%EF%BC%9A%E6%82%AA%E3%80%94%E6%8C%87%E3%81%AB%E6%B0%97/%E7%99%BD%E6%9E%A0/%E3%83%90%E3%83%88%E3%83%AB%E3%83%91%E3%83%83%E3%82%AF06%E5%8F%8E%E9%8C%B2%E3%80%95%E3%80%90R%E2%98%85%E3%80%91FB05-086%2080%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E3%81%AA%E3%81%97%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:04+09:00",
+    "detectedAt": "2026-05-26T06:40:11+09:00",
     "flags": [
       "DBFW",
       "ショップ",
+      "パック",
       "優先度B",
       "在庫",
       "型番"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 【DBFW】孫悟空〔開封品/金文字/鳥山明絵〕【SR★】FB07-104 13,800 円 (税込) 在庫なし https://www.c-labo-online.jp/res/touch003/img/all/spacer.gif 【DBFW】孫悟空〔開封品/金文字/鳥山明絵〕【SR★】FB07-104 13,800 円 (税込) 在庫なし 【DBFW】孫悟空〔開封品/金文字/鳥山明絵〕【SR★】FB07-104 13,800 円 (税込) 在庫なし https://www.c-labo-online.jp/res/touch003/img/all/spacer.gif 【DBFW】孫悟空〔",
+    "memo": "自動検知。日付候補: なし / 判定文脈: 【DBFW】魔人ブウ：悪〔指に気/白枠/バトルパック06収録〕【R★】FB05-086 80 円 (税込) 在庫なし https://www.c-labo-online.jp/res/touch003/img/all/spacer.gif 【DBFW】魔人ブウ：悪〔指に気/白枠/バトルパック06収録〕【R★】FB05-086 80 円 (税込) 在庫なし 【DBFW】魔人ブウ：悪〔指に気/白枠/バトルパック06収録〕【R★】FB05-086 80 円 (税込) 在庫なし https://www.c-labo-online.jp/res/touch003/img/all/spacer.gif 【",
     "score": 43,
     "priority": "B",
     "actionability": "もう遅い可能性",
@@ -3027,28 +2758,27 @@
     ]
   },
   {
-    "id": "9dc97760082c05bb",
-    "productId": "37a61afc943768fc",
-    "statusKey": "url:https://www.c-labo-online.jp/product/364615",
-    "eventKey": "event:7b5e59d9e20df912",
-    "title": "【ショップ売り切れ】【DBFW】孫悟空〔鳥山明絵/赤枠/背景赤〕【SR★】FB05-100 7,980 円 (税込) 在庫なし https://www.c-labo-online.jp/res/touch003/img/all/spacer.gif 【DBFW】孫悟空〔鳥山明絵/赤枠/背景赤〕【SR★】FB05-100 7,980 円 (税込) 在庫なし",
-    "productTitle": "【DBFW】孫悟空〔鳥山明絵/赤枠/背景赤〕【SR★】FB05-100 7,980 円 (税込) 在庫なし https://www.c-labo-online.jp/res/touch003/img/all/spacer.gif 【DBFW】孫悟空〔鳥山明絵/赤枠/背景赤〕【SR★】FB05-100 7,980 円 (税込) 在庫なし",
+    "id": "80ff0ead9d22bc4d",
+    "productId": "02a365aa9419c6b7",
+    "statusKey": "url:https://www.c-labo-online.jp/product/364705",
+    "eventKey": "event:bd1f0d36942d6c31",
+    "title": "【ショップ売り切れ】【DBFW】エナジーマーカー〔神龍/金箔加工〕【-】E-99★ 17,800 円 (税込) 在庫なし https://www.c-labo-online.jp/res/touch003/img/all/spacer.gif 【DBFW】エナジーマーカー〔神龍/金箔加工〕【-】E-99★ 17,800 円 (税込) 在庫なし",
+    "productTitle": "【DBFW】エナジーマーカー〔神龍/金箔加工〕【-】E-99★ 17,800 円 (税込) 在庫なし https://www.c-labo-online.jp/res/touch003/img/all/spacer.gif 【DBFW】エナジーマーカー〔神龍/金箔加工〕【-】E-99★ 17,800 円 (税込) 在庫なし",
     "eventType": "ショップ売り切れ",
     "saleType": "要確認",
     "source": "カードラボ フュージョンワールド",
-    "url": "https://www.c-labo-online.jp/product/364615",
-    "xSearchUrl": "https://x.com/search?q=%E3%80%90DBFW%E3%80%91%E5%AD%AB%E6%82%9F%E7%A9%BA%E3%80%94%E9%B3%A5%E5%B1%B1%E6%98%8E%E7%B5%B5/%E8%B5%A4%E6%9E%A0/%E8%83%8C%E6%99%AF%E8%B5%A4%E3%80%95%E3%80%90SR%E2%98%85%E3%80%91FB05-100%207%2C980%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E3%81%AA%E3%81%97%20https%3A//www.c-labo-online.jp/res/touch003/img/all/spacer.gif%20%E3%80%90DBFW%E3%80%91%E5%AD%AB%E6%82%9F%E7%A9%BA%E3%80%94%E9%B3%A5%E5%B1%B1%E6%98%8E%E7%B5%B5/%E8%B5%A4%E6%9E%A0/%E8%83%8C%E6%99%AF%E8%B5%A4%E3%80%95%E3%80%90SR%E2%98%85%E3%80%91FB05-100%207%2C980%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E3%81%AA%E3%81%97%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
+    "url": "https://www.c-labo-online.jp/product/364705",
+    "xSearchUrl": "https://x.com/search?q=%E3%80%90DBFW%E3%80%91%E3%82%A8%E3%83%8A%E3%82%B8%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC%E3%80%94%E7%A5%9E%E9%BE%8D/%E9%87%91%E7%AE%94%E5%8A%A0%E5%B7%A5%E3%80%95%E3%80%90-%E3%80%91E-99%E2%98%85%2017%2C800%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E3%81%AA%E3%81%97%20https%3A//www.c-labo-online.jp/res/touch003/img/all/spacer.gif%20%E3%80%90DBFW%E3%80%91%E3%82%A8%E3%83%8A%E3%82%B8%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC%E3%80%94%E7%A5%9E%E9%BE%8D/%E9%87%91%E7%AE%94%E5%8A%A0%E5%B7%A5%E3%80%95%E3%80%90-%E3%80%91E-99%E2%98%85%2017%2C800%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E3%81%AA%E3%81%97%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:04+09:00",
+    "detectedAt": "2026-05-26T06:40:11+09:00",
     "flags": [
       "DBFW",
       "ショップ",
       "優先度B",
-      "在庫",
-      "型番"
+      "在庫"
     ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: 【DBFW】孫悟空〔鳥山明絵/赤枠/背景赤〕【SR★】FB05-100 7,980 円 (税込) 在庫なし https://www.c-labo-online.jp/res/touch003/img/all/spacer.gif 【DBFW】孫悟空〔鳥山明絵/赤枠/背景赤〕【SR★】FB05-100 7,980 円 (税込) 在庫なし 【DBFW】孫悟空〔鳥山明絵/赤枠/背景赤〕【SR★】FB05-100 7,980 円 (税込) 在庫なし https://www.c-labo-online.jp/res/touch003/img/all/spacer.gif 【DBFW】孫悟空〔鳥山明絵/赤",
+    "memo": "自動検知。日付候補: なし / 判定文脈: 【DBFW】エナジーマーカー〔神龍/金箔加工〕【-】E-99★ 17,800 円 (税込) 在庫なし https://www.c-labo-online.jp/res/touch003/img/all/spacer.gif 【DBFW】エナジーマーカー〔神龍/金箔加工〕【-】E-99★ 17,800 円 (税込) 在庫なし 【DBFW】エナジーマーカー〔神龍/金箔加工〕【-】E-99★ 17,800 円 (税込) 在庫なし https://www.c-labo-online.jp/res/touch003/img/all/spacer.gif 【DBFW】エナジーマーカー〔神龍/金箔加工〕【-",
     "score": 43,
     "priority": "B",
     "actionability": "もう遅い可能性",
@@ -3073,7 +2803,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%81%9D%E3%81%AE%E4%BB%96%20%E3%83%88%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%28BOX%E3%83%BB%E9%A3%9F%E7%8E%A9%29%20%E3%81%9D%E3%81%AE%E4%BB%96%20%E3%83%88%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%28BOX%E3%83%BB%E9%A3%9F%E7%8E%A9%29%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:23+09:00",
+    "detectedAt": "2026-05-26T06:40:31+09:00",
     "flags": [
       "BOX",
       "ショップ",
@@ -3104,7 +2834,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%81%9D%E3%81%AE%E4%BB%96%20%E3%83%88%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%28BOX%E3%83%BB%E9%A3%9F%E7%8E%A9%29%20%E3%81%9D%E3%81%AE%E4%BB%96%20%E3%83%88%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%28BOX%E3%83%BB%E9%A3%9F%E7%8E%A9%29%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:22+09:00",
+    "detectedAt": "2026-05-26T06:40:30+09:00",
     "flags": [
       "BOX",
       "ショップ",
@@ -3135,7 +2865,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%81%82%E3%81%BF%E3%81%82%E3%81%BF%E9%99%90%E5%AE%9A%E5%95%86%E5%93%81%20%E3%81%82%E3%81%BF%E3%81%82%E3%81%BF%E9%99%90%E5%AE%9A%E5%95%86%E5%93%81%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:07+09:00",
+    "detectedAt": "2026-05-26T06:40:14+09:00",
     "flags": [
       "ショップ",
       "優先度B",
@@ -3166,7 +2896,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%81%82%E3%81%BF%E3%81%82%E3%81%BF%E9%99%90%E5%AE%9A%E5%95%86%E5%93%81%20%E3%81%82%E3%81%BF%E3%81%82%E3%81%BF%E9%99%90%E5%AE%9A%E5%95%86%E5%93%81%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:06+09:00",
+    "detectedAt": "2026-05-26T06:40:14+09:00",
     "flags": [
       "ショップ",
       "優先度B",
@@ -3197,7 +2927,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%80%90%20DBFW%20%E3%80%91%E3%82%A8%E3%83%8A%E3%82%B8%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC%E3%80%90%E3%81%9D%E3%81%AE%E4%BB%96%E3%80%91FS%2020%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E3%81%AA%E3%81%97%20https%3A//www.c-labo-online.jp/res/touch003/img/all/spacer.gif%20%E3%80%90%20DBFW%20%E3%80%91%E3%82%A8%E3%83%8A%E3%82%B8%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC%E3%80%90%E3%81%9D%E3%81%AE%E4%BB%96%E3%80%91FS%2020%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E3%81%AA%E3%81%97%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:05+09:00",
+    "detectedAt": "2026-05-26T06:40:13+09:00",
     "flags": [
       "DBFW",
       "ショップ",
@@ -3229,7 +2959,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%80%90%20DBFW%20%E3%80%91%E3%82%A8%E3%83%8A%E3%82%B8%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC%E3%80%90%E3%81%9D%E3%81%AE%E4%BB%96%E3%80%91FS%2020%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E3%81%AA%E3%81%97%20https%3A//www.c-labo-online.jp/res/touch003/img/all/spacer.gif%20%E3%80%90%20DBFW%20%E3%80%91%E3%82%A8%E3%83%8A%E3%82%B8%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC%E3%80%90%E3%81%9D%E3%81%AE%E4%BB%96%E3%80%91FS%2020%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E3%81%AA%E3%81%97%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:05+09:00",
+    "detectedAt": "2026-05-26T06:40:13+09:00",
     "flags": [
       "DBFW",
       "ショップ",
@@ -3261,7 +2991,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%80%90%20DBFW%20%E3%80%91%E3%82%A8%E3%83%8A%E3%82%B8%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC%E3%80%90%E3%81%9D%E3%81%AE%E4%BB%96%E3%80%91FS%2020%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E3%81%AA%E3%81%97%20https%3A//www.c-labo-online.jp/res/touch003/img/all/spacer.gif%20%E3%80%90%20DBFW%20%E3%80%91%E3%82%A8%E3%83%8A%E3%82%B8%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC%E3%80%90%E3%81%9D%E3%81%AE%E4%BB%96%E3%80%91FS%2020%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E3%81%AA%E3%81%97%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:05+09:00",
+    "detectedAt": "2026-05-26T06:40:13+09:00",
     "flags": [
       "DBFW",
       "ショップ",
@@ -3293,7 +3023,7 @@
     "xSearchUrl": "https://x.com/search?q=STORY%20BOOSTER%2001%20%5BST01%5D%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-08-08",
     "startAt": "2026-08-08T09:00:00+09:00",
-    "detectedAt": "2026-05-26T05:04:29+09:00",
+    "detectedAt": "2026-05-26T06:39:33+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -3333,7 +3063,7 @@
     "xSearchUrl": "https://x.com/search?q=%E7%B7%8F%E5%90%88%E3%83%AB%E3%83%BC%E3%83%AB%E3%80%81%E3%83%AB%E3%83%BC%E3%83%ABQ%26A%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:04:26+09:00",
+    "detectedAt": "2026-05-26T06:39:30+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -3373,7 +3103,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%AB%E3%83%BC%E3%83%89%E3%83%AA%E3%82%B9%E3%83%88%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:04:25+09:00",
+    "detectedAt": "2026-05-26T06:39:29+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -3413,7 +3143,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-06-13",
     "startAt": "2026-06-13T09:00:00+09:00",
-    "detectedAt": "2026-05-26T05:04:22+09:00",
+    "detectedAt": "2026-05-26T06:39:26+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -3453,7 +3183,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:04:20+09:00",
+    "detectedAt": "2026-05-26T06:39:24+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -3494,7 +3224,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:04:06+09:00",
+    "detectedAt": "2026-05-26T06:39:08+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -3535,7 +3265,7 @@
     "xSearchUrl": "https://x.com/search?q=STORY%20BOOSTER%2001%20%5BST01%5D%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-08-08",
     "startAt": "2026-08-08T09:00:00+09:00",
-    "detectedAt": "2026-05-26T05:03:50+09:00",
+    "detectedAt": "2026-05-26T06:38:51+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -3575,7 +3305,7 @@
     "xSearchUrl": "https://x.com/search?q=%E7%B7%8F%E5%90%88%E3%83%AB%E3%83%BC%E3%83%AB%E3%80%81%E3%83%AB%E3%83%BC%E3%83%ABQ%26A%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:03:49+09:00",
+    "detectedAt": "2026-05-26T06:38:50+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -3615,7 +3345,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%AB%E3%83%BC%E3%83%89%E3%83%AA%E3%82%B9%E3%83%88%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:03:48+09:00",
+    "detectedAt": "2026-05-26T06:38:49+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -3655,7 +3385,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-06-13",
     "startAt": "2026-06-13T09:00:00+09:00",
-    "detectedAt": "2026-05-26T05:03:45+09:00",
+    "detectedAt": "2026-05-26T06:38:45+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -3695,7 +3425,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:03:27+09:00",
+    "detectedAt": "2026-05-26T06:38:27+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -3736,7 +3466,7 @@
     "xSearchUrl": "https://x.com/search?q=STORY%20BOOSTER%2001%20%5BST01%5D%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-08-08",
     "startAt": "2026-08-08T09:00:00+09:00",
-    "detectedAt": "2026-05-26T05:03:12+09:00",
+    "detectedAt": "2026-05-26T06:38:10+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -3776,7 +3506,7 @@
     "xSearchUrl": "https://x.com/search?q=%E7%B7%8F%E5%90%88%E3%83%AB%E3%83%BC%E3%83%AB%E3%80%81%E3%83%AB%E3%83%BC%E3%83%ABQ%26A%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:03:09+09:00",
+    "detectedAt": "2026-05-26T06:38:07+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -3816,7 +3546,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%AB%E3%83%BC%E3%83%89%E3%83%AA%E3%82%B9%E3%83%88%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:03:08+09:00",
+    "detectedAt": "2026-05-26T06:38:06+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -3856,7 +3586,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-06-13",
     "startAt": "2026-06-13T09:00:00+09:00",
-    "detectedAt": "2026-05-26T05:03:04+09:00",
+    "detectedAt": "2026-05-26T06:38:02+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -3896,7 +3626,7 @@
     "xSearchUrl": "https://x.com/search?q=%E5%86%99%E7%9C%9F%E3%81%AE%E3%81%BF%E4%B8%80%E8%A6%A7%20https%3A//www.c-labo-online.jp/res/touch003/img/layout_photo.png%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:05+09:00",
+    "detectedAt": "2026-05-26T06:40:13+09:00",
     "flags": [
       "DBFW",
       "ショップ",
@@ -3926,7 +3656,7 @@
     "xSearchUrl": "https://x.com/search?q=%E8%AA%AC%E6%98%8E%E4%BB%98%E3%81%8D%E4%B8%80%E8%A6%A7%20https%3A//www.c-labo-online.jp/res/touch003/img/layout_text.png%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:05+09:00",
+    "detectedAt": "2026-05-26T06:40:13+09:00",
     "flags": [
       "DBFW",
       "ショップ",
@@ -3956,7 +3686,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%20%E3%83%86%E3%83%BC%E3%83%9E%E3%82%BD%E3%83%B3%E3%82%B0%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:02+09:00",
+    "detectedAt": "2026-05-26T06:40:09+09:00",
     "flags": [
       "ダイバーズ",
       "ドラゴンボール",
@@ -3987,7 +3717,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%20%E3%83%95%E3%82%A1%E3%82%A4%E3%83%88%E3%82%BD%E3%83%B3%E3%82%B0%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:05:02+09:00",
+    "detectedAt": "2026-05-26T06:40:09+09:00",
     "flags": [
       "ダイバーズ",
       "ドラゴンボール",
@@ -4018,7 +3748,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%AB%E3%83%BC%E3%83%89%E3%83%AA%E3%82%B9%E3%83%88%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:04:58+09:00",
+    "detectedAt": "2026-05-26T06:40:05+09:00",
     "flags": [
       "ダイバーズ",
       "ドラゴンボール",
@@ -4048,7 +3778,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E5%A4%A7%E4%BC%9A%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-05-26T05:04:58+09:00",
+    "detectedAt": "2026-05-26T06:40:05+09:00",
     "flags": [
       "DBSDV",
       "ショップ",
