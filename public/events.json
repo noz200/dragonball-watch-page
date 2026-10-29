@@ -13,7 +13,7 @@
     "xSearchUrl": "https://x.com/search?q=%5B%E6%9B%B8%E7%B1%8D%5D%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%201st%20COMPLETE%20CARD%20COLLECTION%20%5B%E5%86%8D%E5%85%A5%E8%8D%B7/2611%5D%201%2C760%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E3%81%AA%E3%81%97%20https%3A//www.c-labo-online.jp/res/touch003/img/all/spacer.gif%20%5B%E6%9B%B8%E7%B1%8D%5D%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T15:01:29+09:00",
+    "detectedAt": "2026-10-29T22:19:24+09:00",
     "flags": [
       "ショップ",
       "ドラゴンボール",
@@ -37,6 +37,48 @@
     ]
   },
   {
+    "id": "2d2933664a025b3f",
+    "productId": "5ae0e845b58a80e3",
+    "statusKey": "url:https://www.dbsdv.com/news",
+    "eventKey": "event:c335ada2ad03baf0",
+    "title": "【要確認】ニュース | ドラゴンボールスーパーダイバーズ公式サイト",
+    "productTitle": "ニュース | ドラゴンボールスーパーダイバーズ公式サイト",
+    "eventType": "要確認",
+    "saleType": "抽選",
+    "source": "ドラゴンボールスーパーダイバーズ公式",
+    "url": "https://www.dbsdv.com/news",
+    "xSearchUrl": "https://x.com/search?q=%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
+    "date": "2026-10-29",
+    "startAt": "2026-10-29T09:00:00+09:00",
+    "detectedAt": "2026-10-29T22:19:13+09:00",
+    "flags": [
+      "DBSDV",
+      "ショップ",
+      "ダイバーズ",
+      "ドラゴンボール",
+      "パック",
+      "ブースターパック",
+      "優先度A",
+      "抽選",
+      "特典",
+      "発売",
+      "買えるかも",
+      "限定"
+    ],
+    "memo": "自動検知。日付候補: 2026年10月29日, 2026年10月29日, 2026年10月29日, 2026年10月29日, 2026年10月29日, 2026年10月29日, 2026年10月26日, 2026年10月25日 / 判定文脈: NSで最新情報をゲット!! LOADING ニュース カテゴリをえらぶ 選択中のカテゴリ ALL カテゴリをえらぶ ALL 最新弾 カード ゲーム キャンペーン イベント/大会 グッズ 閉じる 参加したいキミは要チェック！ イベント/大会 2026年10月29日 リミテッドカップ2026-2027 スーパーダイバーズアリーナ予選の事前応募フォームを公開！ 新気功砲を使いこなそう！ ゲーム 2026年10月29日 13弾ストライクバトルラッシュ「天津飯直伝！放て！魂の気功砲！！」登場！ 強力なアプリ",
+    "score": 81,
+    "priority": "A",
+    "actionability": "買える可能性あり",
+    "scoreReasons": [
+      "買える可能性ワード",
+      "強カテゴリ",
+      "高騰しやすい商品語",
+      "新着48h",
+      "今日/明日",
+      "直接リンクあり"
+    ]
+  },
+  {
     "id": "2a1e05c6408acd2d",
     "productId": "9d869b0f4f852fc2",
     "statusKey": "url:https://www.c-labo-online.jp/product/416362",
@@ -50,7 +92,7 @@
     "xSearchUrl": "https://x.com/search?q=%5B%E6%9B%B8%E7%B1%8D%5D%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%20%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%201st%20COMPLETE%20CARD%20COLLECTION%20%5B%E5%86%8D%E5%85%A5%E8%8D%B7/2611%5D%201%2C760%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E3%81%AA%E3%81%97%20https%3A//www.c-labo-online.jp/res/touch003/img/all/spacer.gif%20%5B%E6%9B%B8%E7%B1%8D%5D%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%20%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T15:01:28+09:00",
+    "detectedAt": "2026-10-29T22:19:23+09:00",
     "flags": [
       "ショップ",
       "ドラゴンボール",
@@ -87,7 +129,7 @@
     "xSearchUrl": "https://x.com/search?q=%5B%E6%9B%B8%E7%B1%8D%5D%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%201st%20COMPLETE%20CARD%20COLLECTION%20%5B%E5%86%8D%E5%85%A5%E8%8D%B7/2611%5D%201%2C760%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E3%81%AA%E3%81%97%20https%3A//www.c-labo-online.jp/res/touch003/img/all/spacer.gif%20%5B%E6%9B%B8%E7%B1%8D%5D%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T15:01:27+09:00",
+    "detectedAt": "2026-10-29T22:19:22+09:00",
     "flags": [
       "ショップ",
       "ドラゴンボール",
@@ -111,6 +153,44 @@
     ]
   },
   {
+    "id": "126a98699540dfa6",
+    "productId": "1b9425602d693062",
+    "statusKey": "url:https://www.dbsdv.com/news/297.php",
+    "eventKey": "event:8c87df4d902d3596",
+    "title": "【要確認】リミテッドカップ 2026-2027スーパーダイバーズアリーナ予選 | ドラゴンボールスーパーダイバーズ公式サイト",
+    "productTitle": "リミテッドカップ 2026-2027スーパーダイバーズアリーナ予選 | ドラゴンボールスーパーダイバーズ公式サイト",
+    "eventType": "要確認",
+    "saleType": "抽選",
+    "source": "ドラゴンボールスーパーダイバーズ公式",
+    "url": "https://www.dbsdv.com/news/297.php",
+    "xSearchUrl": "https://x.com/search?q=%E3%83%AA%E3%83%9F%E3%83%86%E3%83%83%E3%83%89%E3%82%AB%E3%83%83%E3%83%97%202026-2027%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A%E4%BA%88%E9%81%B8%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
+    "date": "2026-10-29",
+    "startAt": "2026-10-29T09:00:00+09:00",
+    "detectedAt": "2026-10-29T22:19:17+09:00",
+    "flags": [
+      "ダイバーズ",
+      "ドラゴンボール",
+      "優先度A",
+      "受付",
+      "当選",
+      "抽選",
+      "発売",
+      "買えるかも"
+    ],
+    "memo": "自動検知。日付候補: 2026年10月29日, 2026年10月29日, 2026年10月29日, 2026年10月29日, 2026年11月28日, 2026年11月29日, 2026年12月5日, 2026年12月12日 / 判定文脈: ーパーダイバーズアリーナ予選 | ドラゴンボールスーパーダイバーズ公式サイト リミテッドカップ 2026-2027スーパーダイバーズアリーナ予選 | ドラゴンボールスーパーダイバーズ公式サイト 参加したいキミは要チェック！ イベント/大会 2026年10月29日 リミテッドカップ2026-2027 スーパーダイバーズアリーナ予選の事前応募フォームを公開！ 参加したいキミは要チェック！ イベント/大会 2026年10月29日 リミテッドカップ2026-2027 スーパーダイバーズアリーナ予選の事前応",
+    "score": 78,
+    "priority": "A",
+    "actionability": "買える可能性あり",
+    "scoreReasons": [
+      "買える可能性ワード",
+      "強カテゴリ",
+      "高騰しやすい商品語",
+      "新着48h",
+      "今日/明日",
+      "直接リンクあり"
+    ]
+  },
+  {
     "id": "bc4a733aa8bde96b",
     "productId": "cfdfb32ea29a0379",
     "statusKey": "url:https://www.c-labo-online.jp/product/417412",
@@ -124,7 +204,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%80%90%20%E4%BA%88%E7%B4%84%20%E3%80%91%5B%E6%96%B0%E5%93%81%5D%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%87%E3%83%83%E3%82%ADEX%20%E6%B0%97%E3%81%AE%E8%BA%8D%E5%8B%95%5BFS12%5D%20%5B%E5%86%8D%E8%B2%A9/2612%5D%202%2C640%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E3%81%AA%E3%81%97%20https%3A//www.c-labo-online.jp/res/touch003/img/all/spacer.gif%20%E3%80%90%20%E4%BA%88%E7%B4%84%20%E3%80%91%5B%E6%96%B0%E5%93%81%5D%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T15:01:29+09:00",
+    "detectedAt": "2026-10-29T22:19:24+09:00",
     "flags": [
       "ショップ",
       "スタートデッキ",
@@ -163,7 +243,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%80%90%20%E4%BA%88%E7%B4%84%20%E3%80%91%5B%E6%96%B0%E5%93%81%5D%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%87%E3%83%83%E3%82%ADEX%20%E9%80%B2%E5%8C%96%E3%81%AE%E5%A2%83%E5%9C%B0%5BFS11%5D%20%5B%E5%86%8D%E8%B2%A9/2612%5D%202%2C640%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E3%81%AA%E3%81%97%20https%3A//www.c-labo-online.jp/res/touch003/img/all/spacer.gif%20%E3%80%90%20%E4%BA%88%E7%B4%84%20%E3%80%91%5B%E6%96%B0%E5%93%81%5D%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T15:01:29+09:00",
+    "detectedAt": "2026-10-29T22:19:24+09:00",
     "flags": [
       "ショップ",
       "スタートデッキ",
@@ -202,7 +282,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%80%90%E4%BA%88%E7%B4%84%E3%80%91%5B%E6%96%B0%E5%93%81%5D%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%20%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%87%E3%83%83%E3%82%ADEX%20%E6%B0%97%E3%81%AE%E8%BA%8D%E5%8B%95%5BFS12%5D%20%5B%E5%86%8D%E8%B2%A9/2612%5D%202%2C640%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E3%81%AA%E3%81%97%20https%3A//www.c-labo-online.jp/res/touch003/img/all/spacer.gif%20%E3%80%90%E4%BA%88%E7%B4%84%E3%80%91%5B%E6%96%B0%E5%93%81%5D%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%20%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T15:01:28+09:00",
+    "detectedAt": "2026-10-29T22:19:23+09:00",
     "flags": [
       "ショップ",
       "スタートデッキ",
@@ -241,7 +321,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%80%90%E4%BA%88%E7%B4%84%E3%80%91%5B%E6%96%B0%E5%93%81%5D%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%20%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%87%E3%83%83%E3%82%ADEX%20%E9%80%B2%E5%8C%96%E3%81%AE%E5%A2%83%E5%9C%B0%5BFS11%5D%20%5B%E5%86%8D%E8%B2%A9/2612%5D%202%2C640%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E3%81%AA%E3%81%97%20https%3A//www.c-labo-online.jp/res/touch003/img/all/spacer.gif%20%E3%80%90%E4%BA%88%E7%B4%84%E3%80%91%5B%E6%96%B0%E5%93%81%5D%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%20%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T15:01:28+09:00",
+    "detectedAt": "2026-10-29T22:19:23+09:00",
     "flags": [
       "ショップ",
       "スタートデッキ",
@@ -280,7 +360,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%80%90%E4%BA%88%E7%B4%84%E3%80%91%5B%E6%96%B0%E5%93%81%5D%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%87%E3%83%83%E3%82%ADEX%20%E6%B0%97%E3%81%AE%E8%BA%8D%E5%8B%95%5BFS12%5D%20%5B%E5%86%8D%E8%B2%A9/2612%5D%202%2C640%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E3%81%AA%E3%81%97%20https%3A//www.c-labo-online.jp/res/touch003/img/all/spacer.gif%20%E3%80%90%E4%BA%88%E7%B4%84%E3%80%91%5B%E6%96%B0%E5%93%81%5D%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T15:01:27+09:00",
+    "detectedAt": "2026-10-29T22:19:22+09:00",
     "flags": [
       "ショップ",
       "スタートデッキ",
@@ -319,7 +399,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%80%90%E4%BA%88%E7%B4%84%E3%80%91%5B%E6%96%B0%E5%93%81%5D%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%87%E3%83%83%E3%82%ADEX%20%E9%80%B2%E5%8C%96%E3%81%AE%E5%A2%83%E5%9C%B0%5BFS11%5D%20%5B%E5%86%8D%E8%B2%A9/2612%5D%202%2C640%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E3%81%AA%E3%81%97%20https%3A//www.c-labo-online.jp/res/touch003/img/all/spacer.gif%20%E3%80%90%E4%BA%88%E7%B4%84%E3%80%91%5B%E6%96%B0%E5%93%81%5D%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T15:01:27+09:00",
+    "detectedAt": "2026-10-29T22:19:22+09:00",
     "flags": [
       "ショップ",
       "スタートデッキ",
@@ -358,7 +438,7 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20TCG%20%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20TCG%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T15:01:38+09:00",
+    "detectedAt": "2026-10-29T22:19:33+09:00",
     "flags": [
       "ショップ",
       "予約",
@@ -391,7 +471,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%AB%E3%83%BC%E3%83%89%E3%83%80%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%96%20%7C%20%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%20-%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA12%E5%BC%BE%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T15:01:24+09:00",
+    "detectedAt": "2026-10-29T22:19:19+09:00",
     "flags": [
       "ダイバーズ",
       "ドラゴンボール",
@@ -426,7 +506,7 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20TCG%20%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20TCG%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T15:01:42+09:00",
+    "detectedAt": "2026-10-29T22:19:37+09:00",
     "flags": [
       "ショップ",
       "予約",
@@ -459,7 +539,7 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20TCG%20%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20TCG%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T15:01:40+09:00",
+    "detectedAt": "2026-10-29T22:19:35+09:00",
     "flags": [
       "ショップ",
       "予約",
@@ -492,7 +572,7 @@
     "xSearchUrl": "https://x.com/search?q=%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20TCG%20%E4%BA%88%E7%B4%84%E5%8F%97%E4%BB%98%E4%B8%AD%20TCG%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T15:01:35+09:00",
+    "detectedAt": "2026-10-29T22:19:30+09:00",
     "flags": [
       "ショップ",
       "予約",
@@ -525,7 +605,7 @@
     "xSearchUrl": "https://x.com/search?q=%E6%9C%80%E5%BC%B7%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%9712%E6%9C%88%E5%8F%B7%E4%BB%98%E9%8C%B2%E3%82%AB%E3%83%BC%E3%83%89%E3%80%8C%E3%82%B4%E3%82%AF%E3%82%A6%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%80%8D%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-11-04",
     "startAt": "2026-11-04T09:00:00+09:00",
-    "detectedAt": "2026-10-29T14:59:37+09:00",
+    "detectedAt": "2026-10-29T22:17:55+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -555,6 +635,139 @@
     ]
   },
   {
+    "id": "1cbb1c32c0f164bb",
+    "productId": "cee54917177d8db1",
+    "statusKey": "url:https://www.dbsdv.com/news/296.php",
+    "eventKey": "event:c8a7ec84dacbd38e",
+    "title": "【要確認】天津飯直伝！放て！魂の気功砲！！ | ドラゴンボールスーパーダイバーズ公式サイト",
+    "productTitle": "天津飯直伝！放て！魂の気功砲！！ | ドラゴンボールスーパーダイバーズ公式サイト",
+    "eventType": "要確認",
+    "saleType": "一般",
+    "source": "ドラゴンボールスーパーダイバーズ公式",
+    "url": "https://www.dbsdv.com/news/296.php",
+    "xSearchUrl": "https://x.com/search?q=%E5%A4%A9%E6%B4%A5%E9%A3%AF%E7%9B%B4%E4%BC%9D%EF%BC%81%E6%94%BE%E3%81%A6%EF%BC%81%E9%AD%82%E3%81%AE%E6%B0%97%E5%8A%9F%E7%A0%B2%EF%BC%81%EF%BC%81%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
+    "date": "2026-10-29",
+    "startAt": "2026-10-29T09:00:00+09:00",
+    "detectedAt": "2026-10-29T22:19:18+09:00",
+    "flags": [
+      "DBSDV",
+      "ダイバーズ",
+      "ドラゴンボール",
+      "優先度B",
+      "発売",
+      "限定"
+    ],
+    "memo": "自動検知。日付候補: 2026年10月29日, 2026年10月29日, 2026年10月29日, 2026年11月19日, 2026年10月29日, 10月29日, 10月29日, 10月29日 / 判定文脈: 天津飯直伝！放て！魂の気功砲！！ | ドラゴンボールスーパーダイバーズ公式サイト 天津飯直伝！放て！魂の気功砲！！ | ドラゴンボールスーパーダイバーズ公式サイト 新気功砲を使いこなそう！ ゲーム 2026年10月29日 13弾ストライクバトルラッシュ「天津飯直伝！放て！魂の気功砲！！」登場！ 新気功砲を使いこなそう！ ゲーム 2026年10月29日 13弾ストライクバトルラッシュ「天津飯直伝！放て！魂の気功砲！！」登場！ https://www.dbsd",
+    "score": 45,
+    "priority": "B",
+    "actionability": "情報確認",
+    "scoreReasons": [
+      "強カテゴリ",
+      "新着48h",
+      "今日/明日",
+      "直接リンクあり"
+    ]
+  },
+  {
+    "id": "3a22ee78e4709e1d",
+    "productId": "7bd2efb1638fa5ea",
+    "statusKey": "url:https://www.dbsdv.com/news/295.php",
+    "eventKey": "event:1032eaca212affe1",
+    "title": "【要確認】13弾チャレンジダイブ | ドラゴンボールスーパーダイバーズ公式サイト",
+    "productTitle": "13弾チャレンジダイブ | ドラゴンボールスーパーダイバーズ公式サイト",
+    "eventType": "要確認",
+    "saleType": "一般",
+    "source": "ドラゴンボールスーパーダイバーズ公式",
+    "url": "https://www.dbsdv.com/news/295.php",
+    "xSearchUrl": "https://x.com/search?q=13%E5%BC%BE%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%80%E3%82%A4%E3%83%96%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
+    "date": "2026-10-29",
+    "startAt": "2026-10-29T09:00:00+09:00",
+    "detectedAt": "2026-10-29T22:19:18+09:00",
+    "flags": [
+      "ダイバーズ",
+      "ドラゴンボール",
+      "優先度B",
+      "発売",
+      "限定"
+    ],
+    "memo": "自動検知。日付候補: 2026年10月29日, 2026年10月29日, 2026年10月29日, 2026年12月10日, 2027年1月10日, 2026年10月29日, 10月29日, 10月29日 / 判定文脈: 13弾チャレンジダイブ | ドラゴンボールスーパーダイバーズ公式サイト 13弾チャレンジダイブ | ドラゴンボールスーパーダイバーズ公式サイト 強力なアプリをゲット！ ゲーム 2026年10月29日 13弾チャレンジダイブが登場！ 強力なアプリをゲット！ ゲーム 2026年10月29日 13弾チャレンジダイブが登場！ https://www.dbsdv.com/news/295.php ドラゴンボールスーパーダイバーズ /images",
+    "score": 45,
+    "priority": "B",
+    "actionability": "情報確認",
+    "scoreReasons": [
+      "強カテゴリ",
+      "新着48h",
+      "今日/明日",
+      "直接リンクあり"
+    ]
+  },
+  {
+    "id": "a50d61c0e17ee9fb",
+    "productId": "4f0905070924a1e5",
+    "statusKey": "url:https://www.dbsdv.com/news/294.php",
+    "eventKey": "event:4986440da95ea521",
+    "title": "【要確認】宇宙サバイバル編 -後編 - | ドラゴンボールスーパーダイバーズ公式サイト",
+    "productTitle": "宇宙サバイバル編 -後編 - | ドラゴンボールスーパーダイバーズ公式サイト",
+    "eventType": "要確認",
+    "saleType": "一般",
+    "source": "ドラゴンボールスーパーダイバーズ公式",
+    "url": "https://www.dbsdv.com/news/294.php",
+    "xSearchUrl": "https://x.com/search?q=%E5%AE%87%E5%AE%99%E3%82%B5%E3%83%90%E3%82%A4%E3%83%90%E3%83%AB%E7%B7%A8%20-%E5%BE%8C%E7%B7%A8%20-%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
+    "date": "2026-10-29",
+    "startAt": "2026-10-29T09:00:00+09:00",
+    "detectedAt": "2026-10-29T22:19:18+09:00",
+    "flags": [
+      "ダイバーズ",
+      "ドラゴンボール",
+      "優先度B",
+      "発売",
+      "限定"
+    ],
+    "memo": "自動検知。日付候補: 2026年10月29日, 2026年10月29日, 2026年10月29日, 2026年10月29日, 10月29日, 10月29日, 10月29日, 10月29日 / 判定文脈: 宇宙サバイバル編 -後編 - | ドラゴンボールスーパーダイバーズ公式サイト 宇宙サバイバル編 -後編 - | ドラゴンボールスーパーダイバーズ公式サイト 宇宙存続をかけた大会、終幕！ ゲーム 2026年10月29日 ヒストリーダイブ「宇宙サバイバル編 -後編-」を公開！ 宇宙存続をかけた大会、終幕！ ゲーム 2026年10月29日 ヒストリーダイブ「宇宙サバイバル編 -後編-」を公開！ https://www.dbsdv.com/news/294.p",
+    "score": 45,
+    "priority": "B",
+    "actionability": "情報確認",
+    "scoreReasons": [
+      "強カテゴリ",
+      "新着48h",
+      "今日/明日",
+      "直接リンクあり"
+    ]
+  },
+  {
+    "id": "1e774a39138608ed",
+    "productId": "976a1dd74002401a",
+    "statusKey": "url:https://www.dbsdv.com/news/293.php",
+    "eventKey": "event:f17c3347e4ffa291",
+    "title": "【要確認】宇宙を越えた武者修業！ | ドラゴンボールスーパーダイバーズ公式サイト",
+    "productTitle": "宇宙を越えた武者修業！ | ドラゴンボールスーパーダイバーズ公式サイト",
+    "eventType": "要確認",
+    "saleType": "一般",
+    "source": "ドラゴンボールスーパーダイバーズ公式",
+    "url": "https://www.dbsdv.com/news/293.php",
+    "xSearchUrl": "https://x.com/search?q=%E5%AE%87%E5%AE%99%E3%82%92%E8%B6%8A%E3%81%88%E3%81%9F%E6%AD%A6%E8%80%85%E4%BF%AE%E6%A5%AD%EF%BC%81%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
+    "date": "2026-10-29",
+    "startAt": "2026-10-29T09:00:00+09:00",
+    "detectedAt": "2026-10-29T22:19:18+09:00",
+    "flags": [
+      "ダイバーズ",
+      "ドラゴンボール",
+      "優先度B",
+      "発売",
+      "限定"
+    ],
+    "memo": "自動検知。日付候補: 2026年10月29日, 2026年10月29日, 2026年10月29日, 2026年10月29日, 10月29日, 10月29日, 10月29日, 10月29日 / 判定文脈: 宇宙を越えた武者修業！ | ドラゴンボールスーパーダイバーズ公式サイト 宇宙を越えた武者修業！ | ドラゴンボールスーパーダイバーズ公式サイト 色んな宇宙のやつらとバトル！ ゲーム 2026年10月29日 13弾超ドカバキダイブ 「宇宙を越えた武者修業！」を公開！ 色んな宇宙のやつらとバトル！ ゲーム 2026年10月29日 13弾超ドカバキダイブ 「宇宙を越えた武者修業！」を公開！ https://www.dbsdv.com/news/2",
+    "score": 45,
+    "priority": "B",
+    "actionability": "情報確認",
+    "scoreReasons": [
+      "強カテゴリ",
+      "新着48h",
+      "今日/明日",
+      "直接リンクあり"
+    ]
+  },
+  {
     "id": "c868883afbd0d88e",
     "productId": "79edaff425a22146",
     "statusKey": "url:https://dragon-ball-official.com/news/01_4502.html",
@@ -568,7 +781,7 @@
     "xSearchUrl": "https://x.com/search?q=%5B%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E8%B6%85%20%E3%83%93%E3%83%AB%E3%82%B9%20SOLID%20EDGE%20WORKS-THE%E5%87%BA%E9%99%A3-%E3%83%93%E3%83%AB%E3%82%B9%E3%81%8C%E7%99%BB%E5%A0%B4%EF%BC%81%5D%EF%BD%9C%20%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%88%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-10-29",
     "startAt": "2026-10-29T09:00:00+09:00",
-    "detectedAt": "2026-10-29T14:58:50+09:00",
+    "detectedAt": "2026-10-29T22:17:18+09:00",
     "flags": [
       "DRAGON BALL",
       "ドラゴンボール",
@@ -600,7 +813,7 @@
     "xSearchUrl": "https://x.com/search?q=%5B%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E8%B6%85%20%E3%83%93%E3%83%AB%E3%82%B9%20SOLID%20EDGE%20WORKS-THE%E5%87%BA%E9%99%A3-%E3%82%A6%E3%82%A4%E3%82%B9%E3%81%8C%E7%99%BB%E5%A0%B4%EF%BC%81%5D%EF%BD%9C%20%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%88%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-10-29",
     "startAt": "2026-10-29T09:00:00+09:00",
-    "detectedAt": "2026-10-29T14:58:49+09:00",
+    "detectedAt": "2026-10-29T22:17:17+09:00",
     "flags": [
       "DRAGON BALL",
       "ドラゴンボール",
@@ -632,7 +845,7 @@
     "xSearchUrl": "https://x.com/search?q=%5BDRAGON%20BALL%20SPIRITFLICKS%2003%E3%81%8C%E7%99%BB%E5%A0%B4%EF%BC%81%5D%EF%BD%9C%20%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%88%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-10-29",
     "startAt": "2026-10-29T09:00:00+09:00",
-    "detectedAt": "2026-10-29T14:58:47+09:00",
+    "detectedAt": "2026-10-29T22:17:16+09:00",
     "flags": [
       "DRAGON BALL",
       "ドラゴンボール",
@@ -664,7 +877,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%80%90DIGITAL%20ver.%E3%80%91%E3%80%8EBRIGHTNESS%20OF%20HOPE%20%5BFB11%5D%E3%80%8F%20%E7%99%BB%E5%A0%B4%EF%BC%81%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-12-22",
     "startAt": "2026-12-22T09:00:00+09:00",
-    "detectedAt": "2026-10-29T14:59:41+09:00",
+    "detectedAt": "2026-10-29T22:17:57+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -704,7 +917,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%80%90%20DBFW%20%E3%80%91%E3%82%A8%E3%83%8A%E3%82%B8%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC%E3%80%90%E3%81%9D%E3%81%AE%E4%BB%96%E3%80%91FS%2020%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E3%81%AA%E3%81%97%20https%3A//www.c-labo-online.jp/res/touch003/img/all/spacer.gif%20%E3%80%90%20DBFW%20%E3%80%91%E3%82%A8%E3%83%8A%E3%82%B8%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC%E3%80%90%E3%81%9D%E3%81%AE%E4%BB%96%E3%80%91FS%2020%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E3%81%AA%E3%81%97%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T15:01:29+09:00",
+    "detectedAt": "2026-10-29T22:19:23+09:00",
     "flags": [
       "DBFW",
       "ショップ",
@@ -736,7 +949,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%80%90%20DBFW%20%E3%80%91%E3%82%A8%E3%83%8A%E3%82%B8%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC%E3%80%90%E3%81%9D%E3%81%AE%E4%BB%96%E3%80%91FS%2020%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E3%81%AA%E3%81%97%20https%3A//www.c-labo-online.jp/res/touch003/img/all/spacer.gif%20%E3%80%90%20DBFW%20%E3%80%91%E3%82%A8%E3%83%8A%E3%82%B8%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC%E3%80%90%E3%81%9D%E3%81%AE%E4%BB%96%E3%80%91FS%2020%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E3%81%AA%E3%81%97%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T15:01:29+09:00",
+    "detectedAt": "2026-10-29T22:19:23+09:00",
     "flags": [
       "DBFW",
       "ショップ",
@@ -768,7 +981,7 @@
     "xSearchUrl": "https://x.com/search?q=CHAMPIONSHIP%2026-27%20GRAND%20FINALS%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2027-03-14",
     "startAt": "2027-03-14T09:00:00+09:00",
-    "detectedAt": "2026-10-29T15:01:04+09:00",
+    "detectedAt": "2026-10-29T22:19:00+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -808,7 +1021,7 @@
     "xSearchUrl": "https://x.com/search?q=CHAMPIONSHIP%2026-27%20WAVE2%20%E3%82%A8%E3%83%AA%E3%82%A2%E4%BA%88%E9%81%B8%20%E6%84%9B%E7%9F%A5%E5%A4%A7%E4%BC%9A%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-11-29",
     "startAt": "2026-11-29T09:00:00+09:00",
-    "detectedAt": "2026-10-29T15:01:00+09:00",
+    "detectedAt": "2026-10-29T22:18:58+09:00",
     "flags": [
       "BOOSTER",
       "BOX",
@@ -851,7 +1064,7 @@
     "xSearchUrl": "https://x.com/search?q=%E5%95%86%E5%93%81%E6%83%85%E5%A0%B1%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T15:00:39+09:00",
+    "detectedAt": "2026-10-29T22:18:47+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -892,7 +1105,7 @@
     "xSearchUrl": "https://x.com/search?q=%E7%B7%8F%E5%90%88%E3%83%AB%E3%83%BC%E3%83%AB%E3%80%81%E3%83%AB%E3%83%BC%E3%83%ABQ%26A%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T15:00:38+09:00",
+    "detectedAt": "2026-10-29T22:18:46+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -932,7 +1145,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%AB%E3%83%BC%E3%83%89%E3%83%AA%E3%82%B9%E3%83%88%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T15:00:36+09:00",
+    "detectedAt": "2026-10-29T22:18:45+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -972,7 +1185,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T15:00:30+09:00",
+    "detectedAt": "2026-10-29T22:18:41+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -1013,7 +1226,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T15:00:15+09:00",
+    "detectedAt": "2026-10-29T22:18:26+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -1054,7 +1267,7 @@
     "xSearchUrl": "https://x.com/search?q=%E7%B7%8F%E5%90%88%E3%83%AB%E3%83%BC%E3%83%AB%E3%80%81%E3%83%AB%E3%83%BC%E3%83%ABQ%26A%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T14:59:56+09:00",
+    "detectedAt": "2026-10-29T22:18:14+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -1094,7 +1307,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%AB%E3%83%BC%E3%83%89%E3%83%AA%E3%82%B9%E3%83%88%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T14:59:55+09:00",
+    "detectedAt": "2026-10-29T22:18:13+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -1134,7 +1347,7 @@
     "xSearchUrl": "https://x.com/search?q=%E5%95%86%E5%93%81%E6%83%85%E5%A0%B1%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T14:59:50+09:00",
+    "detectedAt": "2026-10-29T22:18:10+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -1175,7 +1388,7 @@
     "xSearchUrl": "https://x.com/search?q=CHAMPIONSHIP%2026-27%20WAVE2%20%E3%82%A8%E3%83%AA%E3%82%A2%E4%BA%88%E9%81%B8%20%E6%84%9B%E7%9F%A5%E5%A4%A7%E4%BC%9A%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-11-29",
     "startAt": "2026-11-29T09:00:00+09:00",
-    "detectedAt": "2026-10-29T14:59:38+09:00",
+    "detectedAt": "2026-10-29T22:17:56+09:00",
     "flags": [
       "BOOSTER",
       "BOX",
@@ -1218,7 +1431,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T14:59:33+09:00",
+    "detectedAt": "2026-10-29T22:17:52+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -1259,7 +1472,7 @@
     "xSearchUrl": "https://x.com/search?q=%E5%95%86%E5%93%81%E6%83%85%E5%A0%B1%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T14:59:14+09:00",
+    "detectedAt": "2026-10-29T22:17:41+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -1300,7 +1513,7 @@
     "xSearchUrl": "https://x.com/search?q=%E7%B7%8F%E5%90%88%E3%83%AB%E3%83%BC%E3%83%AB%E3%80%81%E3%83%AB%E3%83%BC%E3%83%ABQ%26A%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T14:59:12+09:00",
+    "detectedAt": "2026-10-29T22:17:39+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -1340,7 +1553,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%AB%E3%83%BC%E3%83%89%E3%83%AA%E3%82%B9%E3%83%88%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0%20%E3%83%95%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%20-%20Official%20Web%20Site%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T14:59:11+09:00",
+    "detectedAt": "2026-10-29T22:17:38+09:00",
     "flags": [
       "BOOSTER",
       "CARD GAME",
@@ -1380,7 +1593,7 @@
     "xSearchUrl": "https://x.com/search?q=%E5%86%99%E7%9C%9F%E3%81%AE%E3%81%BF%E4%B8%80%E8%A6%A7%20https%3A//www.c-labo-online.jp/res/touch003/img/layout_photo.png%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T15:01:29+09:00",
+    "detectedAt": "2026-10-29T22:19:23+09:00",
     "flags": [
       "DBFW",
       "ショップ",
@@ -1410,7 +1623,7 @@
     "xSearchUrl": "https://x.com/search?q=%E8%AA%AC%E6%98%8E%E4%BB%98%E3%81%8D%E4%B8%80%E8%A6%A7%20https%3A//www.c-labo-online.jp/res/touch003/img/layout_text.png%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T15:01:29+09:00",
+    "detectedAt": "2026-10-29T22:19:23+09:00",
     "flags": [
       "DBFW",
       "ショップ",
@@ -1440,7 +1653,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%80%90%20DBFW%20%E3%80%91%E2%80%BB%E3%83%97%E3%83%AC%E3%82%A4%E7%94%A8%E7%89%B9%E4%BE%A1%E5%93%81%E2%80%BB%E3%80%90%20DBFW%20%E3%80%91%E3%82%A8%E3%83%8A%E3%82%B8%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC%E3%80%90-%E3%80%91E-58%203%2C980%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E6%95%B01%E6%9E%9A%20https%3A//www.c-labo-online.jp/res/touch003/img/all/spacer.gif%20%E3%80%90%20DBFW%20%E3%80%91%E2%80%BB%E3%83%97%E3%83%AC%E3%82%A4%E7%94%A8%E7%89%B9%E4%BE%A1%E5%93%81%E2%80%BB%E3%80%90%20DBFW%20%E3%80%91%E3%82%A8%E3%83%8A%E3%82%B8%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%AB%E3%83%BC%E3%80%90-%E3%80%91E-58%203%2C980%20%E5%86%86%20%28%E7%A8%8E%E8%BE%BC%29%20%E5%9C%A8%E5%BA%AB%E6%95%B01%E6%9E%9A%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T15:01:29+09:00",
+    "detectedAt": "2026-10-29T22:19:23+09:00",
     "flags": [
       "DBFW",
       "ショップ",
@@ -1448,37 +1661,6 @@
       "在庫"
     ],
     "memo": "自動検知。日付候補: なし / 判定文脈: 【 DBFW 】※プレイ用特価品※【 DBFW 】エナジーマーカー【-】E-58 3,980 円 (税込) 在庫数1枚 https://www.c-labo-online.jp/res/touch003/img/all/spacer.gif 【 DBFW 】※プレイ用特価品※【 DBFW 】エナジーマーカー【-】E-58 3,980 円 (税込) 在庫数1枚 【 DBFW 】※プレイ用特価品※【 DBFW 】エナジーマーカー【-】E-58 3,980 円 (税込) 在庫数1枚 https://www.c-labo-online.jp/res/touch003/img/all/spacer.gi",
-    "score": 30,
-    "priority": "C",
-    "actionability": "情報確認",
-    "scoreReasons": [
-      "強カテゴリ",
-      "新着48h",
-      "直接リンクあり"
-    ]
-  },
-  {
-    "id": "00d211ca16abc88f",
-    "productId": "6cfbb7996631708b",
-    "statusKey": "url:https://dragonballsuperdivers.lnk.to/fightsong",
-    "eventKey": "event:8d90557a4de7a955",
-    "title": "【発売日】ドラゴンボールスーパーダイバーズ ファイトソング",
-    "productTitle": "ドラゴンボールスーパーダイバーズ ファイトソング",
-    "eventType": "発売日",
-    "saleType": "一般",
-    "source": "ドラゴンボールスーパーダイバーズ公式",
-    "url": "https://dragonballsuperdivers.lnk.to/fightsong",
-    "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%20%E3%83%95%E3%82%A1%E3%82%A4%E3%83%88%E3%82%BD%E3%83%B3%E3%82%B0%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
-    "date": null,
-    "startAt": null,
-    "detectedAt": "2026-10-29T15:01:25+09:00",
-    "flags": [
-      "ダイバーズ",
-      "ドラゴンボール",
-      "優先度C",
-      "発売"
-    ],
-    "memo": "自動検知。日付候補: なし / 判定文脈: ドラゴンボールスーパーダイバーズ ファイトソング ドラゴンボールスーパーダイバーズ ファイトソング ドラゴンボールスーパーダイバーズ ファイトソング 楽曲発売！ /images/top/footerbnr/bnr_dbsdv-fightsong.webp?v1 ドラゴンボールスーパーダイバーズ ファイトソング 楽曲発売！ /images/top/footerbnr/bnr_dbsdv-fightsong.webp?v1 https://dragonballsuperdivers.lnk.to/fightsong https://linkstorage.linkfire.com/medialin",
     "score": 30,
     "priority": "C",
     "actionability": "情報確認",
@@ -1502,7 +1684,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%20%E3%83%86%E3%83%BC%E3%83%9E%E3%82%BD%E3%83%B3%E3%82%B0%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T15:01:24+09:00",
+    "detectedAt": "2026-10-29T22:19:20+09:00",
     "flags": [
       "ダイバーズ",
       "ドラゴンボール",
@@ -1510,6 +1692,37 @@
       "発売"
     ],
     "memo": "自動検知。日付候補: なし / 判定文脈: ドラゴンボールスーパーダイバーズ テーマソング ドラゴンボールスーパーダイバーズ テーマソング ドラゴンボールスーパーダイバーズ テーマソング 楽曲発売！ /images/top/footerbnr/bnr_dbsdv-themesong.webp?v1 ドラゴンボールスーパーダイバーズ テーマソング 楽曲発売！ /images/top/footerbnr/bnr_dbsdv-themesong.webp?v1 https://dragonballsuperdivers.lnk.to/themesong https://linkstorage.linkfire.com/medialinks/i",
+    "score": 30,
+    "priority": "C",
+    "actionability": "情報確認",
+    "scoreReasons": [
+      "強カテゴリ",
+      "新着48h",
+      "直接リンクあり"
+    ]
+  },
+  {
+    "id": "00d211ca16abc88f",
+    "productId": "6cfbb7996631708b",
+    "statusKey": "url:https://dragonballsuperdivers.lnk.to/fightsong",
+    "eventKey": "event:8d90557a4de7a955",
+    "title": "【発売日】ドラゴンボールスーパーダイバーズ ファイトソング",
+    "productTitle": "ドラゴンボールスーパーダイバーズ ファイトソング",
+    "eventType": "発売日",
+    "saleType": "一般",
+    "source": "ドラゴンボールスーパーダイバーズ公式",
+    "url": "https://dragonballsuperdivers.lnk.to/fightsong",
+    "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%20%E3%83%95%E3%82%A1%E3%82%A4%E3%83%88%E3%82%BD%E3%83%B3%E3%82%B0%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
+    "date": null,
+    "startAt": null,
+    "detectedAt": "2026-10-29T22:19:20+09:00",
+    "flags": [
+      "ダイバーズ",
+      "ドラゴンボール",
+      "優先度C",
+      "発売"
+    ],
+    "memo": "自動検知。日付候補: なし / 判定文脈: ドラゴンボールスーパーダイバーズ ファイトソング ドラゴンボールスーパーダイバーズ ファイトソング ドラゴンボールスーパーダイバーズ ファイトソング 楽曲発売！ /images/top/footerbnr/bnr_dbsdv-fightsong.webp?v1 ドラゴンボールスーパーダイバーズ ファイトソング 楽曲発売！ /images/top/footerbnr/bnr_dbsdv-fightsong.webp?v1 https://dragonballsuperdivers.lnk.to/fightsong https://linkstorage.linkfire.com/medialin",
     "score": 30,
     "priority": "C",
     "actionability": "情報確認",
@@ -1533,7 +1746,7 @@
     "xSearchUrl": "https://x.com/search?q=%E6%9C%80%E6%96%B0%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E7%89%B9%E9%9B%86%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-11-19",
     "startAt": "2026-11-19T09:00:00+09:00",
-    "detectedAt": "2026-10-29T15:01:20+09:00",
+    "detectedAt": "2026-10-29T22:19:16+09:00",
     "flags": [
       "DBSDV",
       "ダイバーズ",
@@ -1542,7 +1755,7 @@
       "優先度C",
       "発売"
     ],
-    "memo": "自動検知。日付候補: 2026年11月19日, 2026年11月19日, 2026年10月25日, 2026年 11月 19日, 2026年11月21日, 11月19日, 11月19日, 10月25日 / 判定文脈: 最新ニュース特集 | ドラゴンボールスーパーダイバーズ公式サイト 最新ニュース特集 | ドラゴンボールスーパーダイバーズ公式サイト ドラゴンボールスーパーダイバーズ 13弾 2026年11月19日稼働予定！ /images/top/sp/img_mv_13.jpg?v1 ドラゴンボールスーパーダイバーズ 13弾 2026年11月19日稼働予定！ /images/top/sp/img_mv_13.jpg?v1 https://www.",
+    "memo": "自動検知。日付候補: 2026年11月19日, 2026年11月19日, 2026年10月29日, 2026年 11月 19日, 2026年11月21日, 11月19日, 11月19日, 10月29日 / 判定文脈: 最新ニュース特集 | ドラゴンボールスーパーダイバーズ公式サイト 最新ニュース特集 | ドラゴンボールスーパーダイバーズ公式サイト ドラゴンボールスーパーダイバーズ 13弾 2026年11月19日稼働予定！ /images/top/sp/img_mv_13.jpg?v1 ドラゴンボールスーパーダイバーズ 13弾 2026年11月19日稼働予定！ /images/top/sp/img_mv_13.jpg?v1 https://www.",
     "score": 30,
     "priority": "C",
     "actionability": "情報確認",
@@ -1566,7 +1779,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%AB%E3%83%BC%E3%83%89%E3%83%AA%E3%82%B9%E3%83%88%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T15:01:19+09:00",
+    "detectedAt": "2026-10-29T22:19:15+09:00",
     "flags": [
       "BOX",
       "DRAGON BALL",
@@ -1599,7 +1812,7 @@
     "xSearchUrl": "https://x.com/search?q=%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/%E5%A4%A7%E4%BC%9A%20%7C%20%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": null,
     "startAt": null,
-    "detectedAt": "2026-10-29T15:01:19+09:00",
+    "detectedAt": "2026-10-29T22:19:15+09:00",
     "flags": [
       "DBSDV",
       "ショップ",
@@ -1610,39 +1823,6 @@
       "限定"
     ],
     "memo": "自動検知。日付候補: なし / 判定文脈: イベント/大会 | ドラゴンボールスーパーダイバーズ公式サイト イベント/大会 | ドラゴンボールスーパーダイバーズ公式サイト イベント/大会 イベント/大会 イベント/大会 イベント/大会 https://www.dbsdv.com/events/ ドラゴンボールスーパーダイバーズ /images/common/parts/logo.webp メニュー /images/common/parts/header/sp/btn_menu.webp ログイン /images/common/parts/header/sp/btn_mypage_login.webp X /images/common/p",
-    "score": 30,
-    "priority": "C",
-    "actionability": "情報確認",
-    "scoreReasons": [
-      "強カテゴリ",
-      "新着48h",
-      "直接リンクあり"
-    ]
-  },
-  {
-    "id": "dc4ad1d10618f73a",
-    "productId": "75fab939ae2b3a90",
-    "statusKey": "url:https://www.dbsdv.com",
-    "eventKey": "event:c1745982d800ea68",
-    "title": "【要確認】ドラゴンボールスーパーダイバーズ公式サイト",
-    "productTitle": "ドラゴンボールスーパーダイバーズ公式サイト",
-    "eventType": "要確認",
-    "saleType": "一般",
-    "source": "ドラゴンボールスーパーダイバーズ公式",
-    "url": "https://www.dbsdv.com",
-    "xSearchUrl": "https://x.com/search?q=%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%80%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BA%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
-    "date": "2026-11-19",
-    "startAt": "2026-11-19T09:00:00+09:00",
-    "detectedAt": "2026-10-29T15:01:16+09:00",
-    "flags": [
-      "DBSDV",
-      "ダイバーズ",
-      "ドラゴンボール",
-      "パック",
-      "優先度C",
-      "発売"
-    ],
-    "memo": "自動検知。日付候補: 2026年11月19日, 2026年10月26日, 2026年10月25日, 2026年10月25日, 2026年10月25日, 2026年10月25日, 2026年10月25日, 2026年10月25日 / 判定文脈: ube /images/common/parts/icon_youtube.png ログイン /images/common/parts/header/btn_mypage_login.webp?2 ドラゴンボールスーパーダイバーズ 13弾 2026年11月19日稼働予定！ /images/top/sp/img_mv_13.jpg?v1 ドラゴンボールスーパーダイバーズ 12弾 好評稼働中！ /images/top/sp/img_mv_12.jpg?v1 ぶっちぎりの超戦士！カードプレゼントキャンペ",
     "score": 30,
     "priority": "C",
     "actionability": "情報確認",
@@ -1666,7 +1846,7 @@
     "xSearchUrl": "https://x.com/search?q=%5B%E3%80%8C%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97%E3%83%95%E3%82%A7%E3%82%B9%E3%82%BF2027%E3%80%8D%E3%81%AE%E3%80%8CAMNIBUS%E3%83%96%E3%83%BC%E3%82%B9%E3%80%8D%E3%81%AB%E3%81%A6%E3%80%81%E3%80%8E%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%ABZ%E3%80%8F%E3%81%AE%E5%B1%95%E9%96%8B%E3%81%8C%E6%B1%BA%E5%AE%9A%EF%BC%81%5D%EF%BD%9C%20%E3%80%90%E5%85%AC%E5%BC%8F%E3%80%91%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%B5%E3%82%A4%E3%83%88%20%E6%8A%BD%E9%81%B8%20OR%20%E4%BA%88%E7%B4%84%20OR%20%E5%86%8D%E8%B2%A9&f=live",
     "date": "2026-12-19",
     "startAt": "2026-12-19T09:00:00+09:00",
-    "detectedAt": "2026-10-29T14:58:51+09:00",
+    "detectedAt": "2026-10-29T22:17:19+09:00",
     "flags": [
       "DRAGON BALL",
       "ドラゴンボール",
